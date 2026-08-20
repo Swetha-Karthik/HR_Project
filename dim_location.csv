@@ -1,0 +1,7 @@
+LocationKey,City,Country,Region,SiteType,ColaMultiplier
+1,New York,USA,North America,HQ,1.0
+2,Austin,USA,North America,Hub,0.92
+3,Toronto,Canada,North America,Hub,0.88
+4,London,UK,EMEA,Hub,1.05
+5,Bengaluru,India,APAC,Hub,0.45
+6,Remote - US,USA,North America,Remote,0.95

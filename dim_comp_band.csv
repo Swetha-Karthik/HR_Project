@@ -1,0 +1,8 @@
+JobLevel,LevelName,SalaryBandMin,SalaryBandMid,SalaryBandMax
+1,Entry (L1),35500,42000,54500
+2,Associate (L2),47000,55000,71500
+3,Professional (L3),61000,72000,93500
+4,Senior (L4),78000,92000,119500
+5,Senior/Manager (L5),106000,125000,162500
+6,Director (L6),143000,168000,218500
+7,Executive (L7),242000,285000,370500

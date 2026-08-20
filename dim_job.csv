@@ -1,0 +1,56 @@
+JobKey,JobTitle,JobLevel,JobFamily,DepartmentKey,IsManagerial
+1000,Software Engineer I,2,Engineering,1,False
+1001,Software Engineer II,3,Engineering,1,False
+1002,Senior Software Engineer,4,Engineering,1,False
+1003,Staff Engineer,5,Engineering,1,False
+1004,Engineering Manager,5,Engineering,1,True
+1005,Director of Engineering,6,Engineering,1,True
+1006,QA Engineer,3,Engineering,1,False
+1007,DevOps Engineer,4,Engineering,1,False
+1008,Associate Product Manager,2,Product,2,False
+1009,Product Manager,4,Product,2,False
+1010,Senior Product Manager,5,Product,2,False
+1011,Director of Product,6,Product,2,True
+1012,Product Analyst,3,Product,2,False
+1013,Sales Development Rep,1,Sales,3,False
+1014,Account Executive,3,Sales,3,False
+1015,Senior Account Executive,4,Sales,3,False
+1016,Sales Manager,5,Sales,3,True
+1017,Regional Sales Director,6,Sales,3,True
+1018,Customer Success Manager,3,Sales,3,False
+1019,Marketing Coordinator,2,Marketing,4,False
+1020,Marketing Specialist,3,Marketing,4,False
+1021,Senior Marketing Manager,5,Marketing,4,True
+1022,Content Strategist,3,Marketing,4,False
+1023,Director of Marketing,6,Marketing,4,True
+1024,Support Associate,1,Customer Support,5,False
+1025,Support Specialist,2,Customer Support,5,False
+1026,Senior Support Specialist,3,Customer Support,5,False
+1027,Support Team Lead,4,Customer Support,5,True
+1028,Customer Support Manager,5,Customer Support,5,True
+1029,HR Coordinator,2,Human Resources,6,False
+1030,HR Business Partner,4,Human Resources,6,False
+1031,Talent Acquisition Specialist,3,Human Resources,6,False
+1032,HR Manager,5,Human Resources,6,True
+1033,Director of People,6,Human Resources,6,True
+1034,Financial Analyst,3,Finance,7,False
+1035,Senior Financial Analyst,4,Finance,7,False
+1036,Accountant,3,Finance,7,False
+1037,Finance Manager,5,Finance,7,True
+1038,Director of Finance,6,Finance,7,True
+1039,Controller,6,Finance,7,True
+1040,Paralegal,3,Legal,8,False
+1041,Corporate Counsel,5,Legal,8,False
+1042,Senior Counsel,5,Legal,8,False
+1043,General Counsel,6,Legal,8,True
+1044,IT Support Specialist,2,IT,9,False
+1045,Systems Administrator,3,IT,9,False
+1046,Network Engineer,4,IT,9,False
+1047,IT Manager,5,IT,9,True
+1048,Security Analyst,4,IT,9,False
+1049,Operations Coordinator,2,Operations,10,False
+1050,Operations Analyst,3,Operations,10,False
+1051,Operations Manager,5,Operations,10,True
+1052,Director of Operations,6,Operations,10,True
+1053,Facilities Coordinator,2,Operations,10,False
+999,Chief Executive Officer,7,Executive,10,True

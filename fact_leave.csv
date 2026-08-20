@@ -1,0 +1,434 @@
+LeaveID,EmployeeID,LeaveType,LeaveStartDate,ExpectedReturnDate,ActualReturnDate,LeaveStatus
+1,E101126,Personal Leave,2026-06-18,2026-10-14,,On Leave
+2,E100414,Bereavement Leave,2026-07-20,2026-09-13,,On Leave
+3,E101239,Military Leave,2026-06-26,2026-10-04,,On Leave
+4,E100920,Personal Leave,2026-06-25,2026-10-23,,On Leave
+5,E100692,Personal Leave,2026-08-11,2026-12-09,,On Leave
+6,E100417,Bereavement Leave,2026-07-24,2026-09-05,,On Leave
+7,E100636,Military Leave,2026-07-23,2026-09-23,,On Leave
+8,E100585,Parental Leave,2026-05-27,2026-08-28,,On Leave
+9,E100694,Parental Leave,2026-08-08,2026-08-28,,On Leave
+10,E100055,Personal Leave,2026-08-06,2026-08-26,,On Leave
+11,E100677,Sabbatical,2026-08-09,2026-10-13,,On Leave
+12,E100623,Personal Leave,2026-08-11,2026-10-04,,On Leave
+13,E100916,Sabbatical,2026-08-04,2026-08-25,,On Leave
+14,E100985,Medical Leave,2026-08-02,2026-09-12,,On Leave
+15,E100530,Medical Leave,2026-06-28,2026-08-31,,On Leave
+16,E100017,Personal Leave,2026-07-25,2026-09-16,,On Leave
+17,E100618,Medical Leave,2026-06-17,2026-09-11,,On Leave
+18,E101022,Parental Leave,2026-08-07,2026-08-27,,On Leave
+19,E101217,Parental Leave,2026-06-27,2026-11-03,,On Leave
+20,E100599,Sabbatical,2026-08-07,2026-10-20,,On Leave
+21,E100848,Medical Leave,2026-06-28,2026-10-19,,On Leave
+22,E100462,Parental Leave,2026-08-12,2026-09-01,,On Leave
+23,E100899,Medical Leave,2026-08-06,2026-09-08,,On Leave
+24,E100338,Parental Leave,2026-07-07,2026-08-27,,On Leave
+25,E100431,Parental Leave,2026-07-10,2026-08-25,,On Leave
+26,E100259,Medical Leave,2026-04-15,2026-08-24,,On Leave
+27,E100634,Personal Leave,2026-08-05,2026-09-29,,On Leave
+28,E100490,Medical Leave,2026-08-05,2026-10-30,,On Leave
+29,E100300,Medical Leave,2026-05-27,2026-10-06,,On Leave
+30,E100069,Parental Leave,2026-08-01,2026-09-01,,On Leave
+31,E100105,Personal Leave,2026-08-09,2026-08-29,,On Leave
+32,E100026,Medical Leave,2026-04-22,2026-08-31,,On Leave
+33,E100598,Bereavement Leave,2026-07-19,2026-10-15,,On Leave
+34,E101182,Bereavement Leave,2026-08-10,2026-09-03,,On Leave
+35,E100563,Personal Leave,2026-08-07,2026-10-01,,On Leave
+36,E100170,Medical Leave,2026-06-03,2026-09-19,,On Leave
+37,E100147,Medical Leave,2026-08-12,2026-12-05,,On Leave
+38,E101158,Medical Leave,2026-07-25,2026-10-06,,On Leave
+39,E101146,Personal Leave,2026-08-09,2026-10-23,,On Leave
+40,E101218,Parental Leave,2026-06-13,2026-10-14,,On Leave
+41,E100244,Parental Leave,2026-05-29,2026-09-23,,On Leave
+42,E101213,Bereavement Leave,2026-06-23,2026-09-19,,On Leave
+43,E100489,Sabbatical,2026-08-10,2026-09-25,,On Leave
+44,E100932,Medical Leave,2026-08-08,2026-10-18,,On Leave
+45,E100089,Medical Leave,2026-08-01,2026-10-04,,On Leave
+46,E100172,Sabbatical,2026-08-05,2026-08-25,,On Leave
+47,E100520,Medical Leave,2026-07-01,2026-09-16,,On Leave
+48,E100174,Sabbatical,2026-08-07,2026-08-27,,On Leave
+49,E100513,Medical Leave,2026-07-12,2026-10-04,,On Leave
+50,E100517,Parental Leave,2026-08-08,2026-08-28,,On Leave
+51,E100969,Bereavement Leave,2026-08-01,2026-11-14,,On Leave
+52,E100537,Bereavement Leave,2026-08-13,2026-10-23,,On Leave
+53,E101064,Medical Leave,2026-07-28,2026-08-30,,On Leave
+54,E101172,Parental Leave,2026-08-11,2026-09-13,,On Leave
+55,E101230,Medical Leave,2026-07-04,2026-09-06,,On Leave
+56,E100864,Sabbatical,2026-07-27,2026-10-18,,On Leave
+57,E101184,Personal Leave,2026-04-09,2026-09-04,,On Leave
+58,E100734,Bereavement Leave,2026-07-14,2026-09-18,,On Leave
+59,E100754,Medical Leave,2026-07-17,2026-09-02,,On Leave
+60,E101224,Parental Leave,2026-07-29,2026-08-24,,On Leave
+61,E100819,Medical Leave,2026-06-28,2026-09-19,,On Leave
+62,E101150,Parental Leave,2026-08-05,2026-12-28,,On Leave
+63,E100129,Medical Leave,2026-07-18,2026-09-19,,On Leave
+64,E100014,Personal Leave,2026-05-09,2026-08-31,,On Leave
+65,E101173,Medical Leave,2026-07-09,2026-09-01,,On Leave
+66,E101260,Bereavement Leave,2026-08-13,2026-11-27,,On Leave
+67,E101223,Parental Leave,2026-06-03,2026-08-28,,On Leave
+68,E100375,Personal Leave,2026-08-06,2026-09-13,,On Leave
+69,E100497,Parental Leave,2026-07-22,2026-09-24,,On Leave
+70,E100235,Medical Leave,2026-05-02,2026-08-28,,On Leave
+71,E101148,Medical Leave,2026-07-11,2026-09-21,,On Leave
+72,E100299,Personal Leave,2026-06-07,2026-09-24,,On Leave
+73,E101010,Medical Leave,2026-06-25,2026-12-22,,On Leave
+74,E100312,Parental Leave,2026-07-22,2026-08-31,,On Leave
+75,E101051,Bereavement Leave,2026-07-16,2026-10-13,,On Leave
+76,E101078,Medical Leave,2026-07-31,2026-10-16,,On Leave
+77,E100095,Bereavement Leave,2026-08-12,2026-09-01,,On Leave
+78,E100036,Military Leave,2026-05-30,2026-08-29,,On Leave
+79,E100928,Personal Leave,2026-07-30,2026-08-31,,On Leave
+80,E100935,Personal Leave,2026-06-12,2026-09-04,,On Leave
+81,E101195,Medical Leave,2026-07-10,2026-10-18,,On Leave
+82,E101236,Medical Leave,2026-08-11,2026-10-16,,On Leave
+83,E101083,Sabbatical,2026-08-10,2026-09-07,,On Leave
+84,E101006,Sabbatical,2026-08-04,2026-10-18,,On Leave
+85,E101116,Personal Leave,2026-07-27,2026-08-24,,On Leave
+86,E100637,Parental Leave,2026-07-30,2026-09-07,,On Leave
+87,E100486,Medical Leave,2026-08-09,2026-10-01,,On Leave
+88,E100395,Sabbatical,2026-05-13,2026-08-25,,On Leave
+89,E101206,Personal Leave,2026-06-01,2026-09-27,,On Leave
+90,E100615,Sabbatical,2026-08-08,2026-08-30,,On Leave
+91,E101197,Medical Leave,2026-08-06,2026-09-20,,On Leave
+92,E100226,Medical Leave,2026-06-14,2026-08-26,,On Leave
+93,E100871,Military Leave,2026-06-14,2026-08-29,,On Leave
+94,E100224,Medical Leave,2026-07-14,2026-09-14,,On Leave
+95,E100738,Sabbatical,2026-07-01,2026-10-05,,On Leave
+96,E101238,Military Leave,2026-08-05,2026-11-20,,On Leave
+97,E101203,Personal Leave,2026-08-07,2026-08-27,,On Leave
+98,E101115,Personal Leave,2026-08-11,2026-10-10,,On Leave
+99,E100824,Parental Leave,2026-07-27,2026-08-26,,On Leave
+100,E101106,Bereavement Leave,2026-07-05,2026-11-06,,On Leave
+101,E101102,Parental Leave,2026-07-29,2026-09-30,,On Leave
+102,E101183,Personal Leave,2026-07-23,2026-09-10,,On Leave
+103,E100251,Parental Leave,2026-07-24,2026-09-05,,On Leave
+104,E100587,Sabbatical,2026-07-07,2026-09-28,,On Leave
+105,E100108,Bereavement Leave,2026-07-02,2026-09-27,,On Leave
+106,E101096,Medical Leave,2026-08-04,2026-09-12,,On Leave
+107,E101170,Medical Leave,2026-06-15,2026-09-01,,On Leave
+108,E100022,Sabbatical,2026-08-10,2026-09-03,,On Leave
+109,E101167,Sabbatical,2026-07-28,2026-10-12,,On Leave
+110,E100883,Medical Leave,2026-07-23,2026-08-26,,On Leave
+111,E100546,Parental Leave,2026-06-10,2026-10-09,,On Leave
+112,E100947,Sabbatical,2026-06-06,2026-08-29,,On Leave
+113,E100482,Medical Leave,2026-07-20,2026-09-04,,On Leave
+114,E100103,Parental Leave,2026-07-23,2026-12-03,,On Leave
+115,E101013,Medical Leave,2026-08-05,2026-11-03,,On Leave
+116,E100301,Medical Leave,2026-07-19,2026-09-21,,On Leave
+117,E101251,Parental Leave,2026-07-20,2026-09-02,,On Leave
+118,E100412,Bereavement Leave,2026-07-03,2026-10-16,,On Leave
+119,E100960,Personal Leave,2026-08-10,2026-11-15,,On Leave
+120,E101108,Bereavement Leave,2026-07-13,2026-09-04,,On Leave
+121,E101208,Medical Leave,2026-07-13,2026-09-01,,On Leave
+122,E100781,Personal Leave,2026-07-26,2026-09-13,,On Leave
+123,E101038,Bereavement Leave,2026-07-22,2026-10-06,,On Leave
+124,E100368,Medical Leave,2026-06-28,2026-11-17,,On Leave
+125,E100528,Bereavement Leave,2026-08-05,2026-10-20,,On Leave
+126,E100421,Medical Leave,2026-08-08,2026-08-28,,On Leave
+127,E101001,Medical Leave,2026-06-14,2026-09-06,,On Leave
+128,E100955,Personal Leave,2026-07-01,2026-09-26,,On Leave
+129,E100098,Personal Leave,2026-05-29,2026-11-20,,On Leave
+130,E100303,Sabbatical,2026-07-23,2026-10-03,,On Leave
+131,E100710,Medical Leave,2022-06-01,2022-07-03,2022-07-03,Returned to Work
+132,E100318,Medical Leave,2026-02-26,2026-05-05,2026-05-05,Returned to Work
+133,E100659,Personal Leave,2022-06-26,2022-07-17,2022-07-17,Returned to Work
+134,E100591,Parental Leave,2021-02-25,2021-03-23,2021-03-23,Returned to Work
+135,E100509,Military Leave,2020-11-24,2021-01-16,2021-01-16,Returned to Work
+136,E100633,Bereavement Leave,2019-03-28,2019-04-25,2019-04-25,Returned to Work
+137,E100286,Medical Leave,2023-07-19,2023-10-21,2023-10-21,Returned to Work
+138,E100498,Medical Leave,2019-09-08,2019-11-22,2019-11-22,Returned to Work
+139,E100630,Parental Leave,2021-06-16,2021-08-30,2021-08-30,Returned to Work
+140,E100802,Medical Leave,2025-04-27,2025-06-10,2025-06-10,Returned to Work
+141,E100285,Medical Leave,2022-08-16,2022-09-30,2022-09-30,Returned to Work
+142,E101092,Personal Leave,2025-09-05,2025-11-13,2025-11-13,Returned to Work
+143,E100094,Sabbatical,2013-11-03,2014-01-03,2014-01-03,Returned to Work
+144,E100451,Medical Leave,2021-12-23,2022-02-14,2022-02-14,Returned to Work
+145,E100660,Parental Leave,2025-05-06,2025-05-16,2025-05-16,Returned to Work
+146,E101135,Medical Leave,2025-09-11,2025-11-12,2025-11-12,Returned to Work
+147,E100996,Medical Leave,2025-07-19,2025-08-24,2025-08-24,Returned to Work
+148,E100930,Personal Leave,2024-03-12,2024-03-22,2024-03-22,Returned to Work
+149,E100132,Bereavement Leave,2022-06-08,2022-07-18,2022-07-18,Returned to Work
+150,E100832,Personal Leave,2023-10-05,2023-11-16,2023-11-16,Returned to Work
+151,E100849,Medical Leave,2023-06-03,2023-06-13,2023-06-13,Returned to Work
+152,E100485,Medical Leave,2020-04-07,2020-06-19,2020-06-19,Returned to Work
+153,E100501,Medical Leave,2021-06-05,2021-07-29,2021-07-29,Returned to Work
+154,E100188,Medical Leave,2017-09-06,2017-10-17,2017-10-17,Returned to Work
+155,E100702,Bereavement Leave,2022-08-05,2022-11-07,2022-11-07,Returned to Work
+156,E100202,Parental Leave,2020-09-23,2020-11-11,2020-11-11,Returned to Work
+157,E101120,Personal Leave,2025-12-28,2026-01-27,2026-01-27,Returned to Work
+158,E100882,Parental Leave,2024-10-09,2024-12-06,2024-12-06,Returned to Work
+159,E100401,Parental Leave,2020-02-20,2020-04-09,2020-04-09,Returned to Work
+160,E100283,Parental Leave,2021-06-02,2021-07-09,2021-07-09,Returned to Work
+161,E100914,Sabbatical,2026-01-28,2026-03-04,2026-03-04,Returned to Work
+162,E100349,Parental Leave,2026-06-25,2026-08-16,2026-08-16,Returned to Work
+163,E100890,Medical Leave,2023-11-29,2024-01-22,2024-01-22,Returned to Work
+164,E100426,Personal Leave,2021-10-25,2021-12-16,2021-12-16,Returned to Work
+165,E101090,Parental Leave,2025-05-04,2025-07-28,2025-07-28,Returned to Work
+166,E100262,Bereavement Leave,2023-05-17,2023-07-16,2023-07-16,Returned to Work
+167,E100339,Bereavement Leave,2024-06-23,2024-07-15,2024-07-15,Returned to Work
+168,E100577,Medical Leave,2020-12-30,2021-01-24,2021-01-24,Returned to Work
+169,E100079,Medical Leave,2022-04-24,2022-07-20,2022-07-20,Returned to Work
+170,E101061,Medical Leave,2025-07-11,2025-10-15,2025-10-15,Returned to Work
+171,E100727,Parental Leave,2026-06-12,2026-08-14,2026-08-14,Returned to Work
+172,E100127,Parental Leave,2025-04-05,2025-05-13,2025-05-13,Returned to Work
+173,E101176,Parental Leave,2026-02-20,2026-04-09,2026-04-09,Returned to Work
+174,E100835,Personal Leave,2024-10-02,2025-01-16,2025-01-16,Returned to Work
+175,E101014,Military Leave,2024-11-19,2024-12-03,2024-12-03,Returned to Work
+176,E100157,Medical Leave,2024-04-05,2024-05-13,2024-05-13,Returned to Work
+177,E101111,Medical Leave,2026-06-14,2026-07-18,2026-07-18,Returned to Work
+178,E100190,Sabbatical,2022-06-10,2022-07-15,2022-07-15,Returned to Work
+179,E100135,Personal Leave,2018-10-12,2018-11-24,2018-11-24,Returned to Work
+180,E100847,Bereavement Leave,2025-08-26,2025-10-21,2025-10-21,Returned to Work
+181,E100151,Medical Leave,2021-05-31,2021-08-03,2021-08-03,Returned to Work
+182,E100193,Bereavement Leave,2022-06-28,2022-09-25,2022-09-25,Returned to Work
+183,E101156,Parental Leave,2026-04-25,2026-06-05,2026-06-05,Returned to Work
+184,E100041,Medical Leave,2019-03-07,2019-05-13,2019-05-13,Returned to Work
+185,E101174,Bereavement Leave,2026-07-13,2026-08-14,2026-08-14,Returned to Work
+186,E100812,Sabbatical,2023-06-21,2023-08-13,2023-08-13,Returned to Work
+187,E100331,Parental Leave,2020-06-12,2020-08-25,2020-08-25,Returned to Work
+188,E100302,Sabbatical,2023-03-15,2023-04-12,2023-04-12,Returned to Work
+189,E100764,Parental Leave,2024-11-13,2025-01-02,2025-01-02,Returned to Work
+190,E100628,Medical Leave,2023-12-26,2024-01-26,2024-01-26,Returned to Work
+191,E100272,Medical Leave,2018-05-10,2018-07-15,2018-07-15,Returned to Work
+192,E100505,Personal Leave,2021-09-14,2021-10-07,2021-10-07,Returned to Work
+193,E100670,Military Leave,2025-03-18,2025-04-02,2025-04-02,Returned to Work
+194,E100859,Parental Leave,2024-02-05,2024-03-11,2024-03-11,Returned to Work
+195,E100408,Personal Leave,2023-05-09,2023-07-21,2023-07-21,Returned to Work
+196,E101069,Sabbatical,2026-03-19,2026-04-24,2026-04-24,Returned to Work
+197,E100578,Medical Leave,2022-02-10,2022-03-01,2022-03-01,Returned to Work
+198,E100631,Military Leave,2022-08-24,2022-10-05,2022-10-05,Returned to Work
+199,E100160,Bereavement Leave,2020-04-06,2020-05-09,2020-05-09,Returned to Work
+200,E100345,Bereavement Leave,2026-03-05,2026-05-08,2026-05-08,Returned to Work
+201,E100110,Medical Leave,2025-06-01,2025-06-26,2025-06-26,Returned to Work
+202,E101151,Bereavement Leave,2026-01-19,2026-02-28,2026-02-28,Returned to Work
+203,E100841,Medical Leave,2026-07-09,2026-08-14,2026-08-14,Returned to Work
+204,E101166,Bereavement Leave,2025-12-11,2026-02-04,2026-02-04,Returned to Work
+205,E100886,Parental Leave,2026-03-12,2026-04-02,2026-04-02,Returned to Work
+206,E100477,Sabbatical,2026-01-25,2026-03-27,2026-03-27,Returned to Work
+207,E101048,Personal Leave,2025-01-02,2025-02-28,2025-02-28,Returned to Work
+208,E100060,Parental Leave,2023-05-31,2023-06-24,2023-06-24,Returned to Work
+209,E100084,Bereavement Leave,2020-05-11,2020-07-30,2020-07-30,Returned to Work
+210,E100064,Personal Leave,2025-07-02,2025-08-24,2025-08-24,Returned to Work
+211,E100236,Parental Leave,2020-03-11,2020-04-04,2020-04-04,Returned to Work
+212,E100580,Sabbatical,2019-11-28,2020-02-15,2020-02-15,Returned to Work
+213,E100048,Medical Leave,2021-07-15,2021-09-01,2021-09-01,Returned to Work
+214,E100038,Medical Leave,2022-05-29,2022-07-15,2022-07-15,Returned to Work
+215,E100769,Medical Leave,2023-04-04,2023-05-20,2023-05-20,Returned to Work
+216,E100722,Medical Leave,2022-06-29,2022-08-24,2022-08-24,Returned to Work
+217,E100131,Sabbatical,2022-02-09,2022-03-29,2022-03-29,Returned to Work
+218,E100674,Bereavement Leave,2021-10-09,2021-12-18,2021-12-18,Returned to Work
+219,E100367,Personal Leave,2022-05-16,2022-08-04,2022-08-04,Returned to Work
+220,E100663,Personal Leave,2021-11-07,2021-12-07,2021-12-07,Returned to Work
+221,E100011,Medical Leave,2022-03-30,2022-06-20,2022-06-20,Returned to Work
+222,E101240,Personal Leave,2026-06-11,2026-08-14,2026-08-14,Returned to Work
+223,E100775,Personal Leave,2025-10-20,2025-11-18,2025-11-18,Returned to Work
+224,E100959,Personal Leave,2025-11-15,2025-12-01,2025-12-01,Returned to Work
+225,E100052,Parental Leave,2024-02-10,2024-05-14,2024-05-14,Returned to Work
+226,E100648,Personal Leave,2021-11-29,2022-02-06,2022-02-06,Returned to Work
+227,E100208,Personal Leave,2020-06-26,2020-08-14,2020-08-14,Returned to Work
+228,E100552,Parental Leave,2023-08-25,2023-09-21,2023-09-21,Returned to Work
+229,E100228,Bereavement Leave,2015-04-19,2015-05-09,2015-05-09,Returned to Work
+230,E100050,Bereavement Leave,2023-05-01,2023-06-16,2023-06-16,Returned to Work
+231,E101121,Parental Leave,2025-10-10,2025-11-27,2025-11-27,Returned to Work
+232,E100856,Medical Leave,2025-04-18,2025-05-17,2025-05-17,Returned to Work
+233,E100013,Sabbatical,2024-07-20,2024-08-25,2024-08-25,Returned to Work
+234,E100712,Personal Leave,2024-01-31,2024-05-07,2024-05-07,Returned to Work
+235,E101219,Medical Leave,2026-04-25,2026-05-05,2026-05-05,Returned to Work
+236,E100931,Medical Leave,2025-02-08,2025-04-10,2025-04-10,Returned to Work
+237,E100855,Military Leave,2023-07-01,2023-08-17,2023-08-17,Returned to Work
+238,E100290,Medical Leave,2021-10-18,2021-12-29,2021-12-29,Returned to Work
+239,E100594,Medical Leave,2018-05-07,2018-05-30,2018-05-30,Returned to Work
+240,E100046,Medical Leave,2022-03-08,2022-03-21,2022-03-21,Returned to Work
+241,E100592,Sabbatical,2021-10-10,2021-11-02,2021-11-02,Returned to Work
+242,E101085,Personal Leave,2026-02-14,2026-03-29,2026-03-29,Returned to Work
+243,E100293,Personal Leave,2022-02-12,2022-02-22,2022-02-22,Returned to Work
+244,E100249,Parental Leave,2023-02-28,2023-04-20,2023-04-20,Returned to Work
+245,E100474,Bereavement Leave,2024-09-28,2024-12-17,2024-12-17,Returned to Work
+246,E100044,Bereavement Leave,2025-02-09,2025-03-27,2025-03-27,Returned to Work
+247,E100597,Personal Leave,2021-10-30,2021-11-27,2021-11-27,Returned to Work
+248,E100536,Parental Leave,2022-11-02,2022-12-19,2022-12-19,Returned to Work
+249,E100315,Military Leave,2024-12-22,2025-01-14,2025-01-14,Returned to Work
+250,E100834,Medical Leave,2023-05-09,2023-06-12,2023-06-12,Returned to Work
+251,E100900,Parental Leave,2023-10-29,2023-12-10,2023-12-10,Returned to Work
+252,E100410,Sabbatical,2023-01-27,2023-04-05,2023-04-05,Returned to Work
+253,E100613,Bereavement Leave,2022-02-03,2022-03-31,2022-03-31,Returned to Work
+254,E100736,Parental Leave,2022-12-12,2023-02-24,2023-02-24,Returned to Work
+255,E101134,Parental Leave,2026-06-10,2026-08-18,2026-08-18,Returned to Work
+256,E100187,Medical Leave,2017-06-24,2017-07-15,2017-07-15,Returned to Work
+257,E100691,Bereavement Leave,2022-06-24,2022-08-02,2022-08-02,Returned to Work
+258,E101210,Medical Leave,2026-05-17,2026-06-11,2026-06-11,Returned to Work
+259,E100420,Bereavement Leave,2020-09-09,2020-09-19,2020-09-19,Returned to Work
+260,E100255,Parental Leave,2024-04-11,2024-05-22,2024-05-22,Returned to Work
+261,E100915,Medical Leave,2023-12-11,2024-01-26,2024-01-26,Returned to Work
+262,E100521,Parental Leave,2021-04-05,2021-04-16,2021-04-16,Returned to Work
+263,E101091,Medical Leave,2025-09-26,2025-12-01,2025-12-01,Returned to Work
+264,E101104,Parental Leave,2025-12-16,2026-03-13,2026-03-13,Returned to Work
+265,E100284,Parental Leave,2021-11-07,2022-01-02,2022-01-02,Returned to Work
+266,E100399,Parental Leave,2021-02-20,2021-05-13,2021-05-13,Returned to Work
+267,E100881,Sabbatical,2024-07-23,2024-08-22,2024-08-22,Returned to Work
+268,E100518,Sabbatical,2023-07-09,2023-08-29,2023-08-29,Returned to Work
+269,E100336,Personal Leave,2024-09-18,2024-11-14,2024-11-14,Returned to Work
+270,E100428,Medical Leave,2019-02-13,2019-04-05,2019-04-05,Returned to Work
+271,E100138,Medical Leave,2021-03-28,2021-04-07,2021-04-07,Returned to Work
+272,E100118,Parental Leave,2020-09-22,2020-10-20,2020-10-20,Returned to Work
+273,E100830,Parental Leave,2023-06-22,2023-07-10,2023-07-10,Returned to Work
+274,E100952,Sabbatical,2025-04-27,2025-06-11,2025-06-11,Returned to Work
+275,E100753,Personal Leave,2022-10-10,2022-10-22,2022-10-22,Returned to Work
+276,E100031,Sabbatical,2020-02-24,2020-04-15,2020-04-15,Returned to Work
+277,E100826,Bereavement Leave,2023-04-16,2023-05-21,2023-05-21,Returned to Work
+278,E100378,Personal Leave,2021-05-09,2021-06-22,2021-06-22,Returned to Work
+279,E100516,Medical Leave,2021-03-24,2021-05-08,2021-05-08,Returned to Work
+280,E100723,Parental Leave,2022-05-28,2022-06-21,2022-06-21,Returned to Work
+281,E101008,Parental Leave,2024-10-05,2024-12-01,2024-12-01,Returned to Work
+282,E100576,Sabbatical,2021-01-11,2021-04-07,2021-04-07,Returned to Work
+283,E100918,Personal Leave,2024-02-12,2024-04-05,2024-04-05,Returned to Work
+284,E100465,Bereavement Leave,2022-01-07,2022-01-24,2022-01-24,Returned to Work
+285,E100221,Medical Leave,2026-04-15,2026-06-16,2026-06-16,Returned to Work
+286,E100351,Personal Leave,2024-03-13,2024-04-11,2024-04-11,Returned to Work
+287,E100405,Parental Leave,2021-09-09,2021-11-23,2021-11-23,Returned to Work
+288,E100757,Personal Leave,2024-02-05,2024-04-05,2024-04-05,Returned to Work
+289,E100559,Military Leave,2024-03-30,2024-05-15,2024-05-15,Returned to Work
+290,E101009,Sabbatical,2026-04-08,2026-05-23,2026-05-23,Returned to Work
+291,E100049,Medical Leave,2022-11-21,2023-01-12,2023-01-12,Returned to Work
+292,E101214,Bereavement Leave,2026-04-05,2026-04-18,2026-04-18,Returned to Work
+293,E101165,Military Leave,2026-02-08,2026-03-04,2026-03-04,Returned to Work
+294,E100555,Personal Leave,2014-11-21,2015-01-01,2015-01-01,Returned to Work
+295,E100689,Medical Leave,2022-03-18,2022-05-12,2022-05-12,Returned to Work
+296,E100604,Parental Leave,2022-06-24,2022-09-10,2022-09-10,Returned to Work
+297,E100237,Medical Leave,2025-09-18,2025-10-27,2025-10-27,Returned to Work
+298,E100077,Parental Leave,2020-08-23,2020-10-11,2020-10-11,Returned to Work
+299,E100191,Medical Leave,2023-05-15,2023-05-25,2023-05-25,Returned to Work
+300,E100364,Sabbatical,2021-02-22,2021-05-12,2021-05-12,Returned to Work
+301,E101234,Parental Leave,2026-07-13,2026-08-16,2026-08-16,Returned to Work
+302,E100706,Personal Leave,2022-07-08,2022-08-02,2022-08-02,Returned to Work
+303,E100877,Medical Leave,2023-09-27,2023-12-13,2023-12-13,Returned to Work
+304,E100309,Sabbatical,2024-05-26,2024-07-27,2024-07-27,Returned to Work
+305,E100678,Sabbatical,2023-05-21,2023-08-06,2023-08-06,Returned to Work
+306,E100821,Personal Leave,2024-06-29,2024-08-19,2024-08-19,Returned to Work
+307,E100373,Parental Leave,2025-04-07,2025-04-18,2025-04-18,Returned to Work
+308,E100422,Medical Leave,2024-10-22,2024-12-03,2024-12-03,Returned to Work
+309,E100294,Parental Leave,2020-08-17,2020-09-25,2020-09-25,Returned to Work
+310,E100852,Personal Leave,2024-05-06,2024-07-31,2024-07-31,Returned to Work
+311,E100583,Military Leave,2026-07-08,2026-08-14,2026-08-14,Returned to Work
+312,E100704,Medical Leave,2022-04-03,2022-05-27,2022-05-27,Returned to Work
+313,E100382,Medical Leave,2025-05-21,2025-07-01,2025-07-01,Returned to Work
+314,E100225,Sabbatical,2019-10-13,2019-11-28,2019-11-28,Returned to Work
+315,E100817,Bereavement Leave,2023-03-25,2023-04-26,2023-04-26,Returned to Work
+316,E100460,Medical Leave,2021-09-27,2021-11-04,2021-11-04,Returned to Work
+317,E100962,Bereavement Leave,2024-07-25,2024-11-02,2024-11-02,Returned to Work
+318,E100168,Medical Leave,2021-09-08,2021-09-18,2021-09-18,Returned to Work
+319,E100326,Parental Leave,2024-01-02,2024-02-18,,Did Not Return (Terminated)
+320,E100463,Bereavement Leave,2021-08-09,2021-10-25,,Did Not Return (Terminated)
+321,E100273,Medical Leave,2021-04-18,2021-07-04,,Did Not Return (Terminated)
+322,E100751,Bereavement Leave,2025-08-19,2025-09-20,,Did Not Return (Terminated)
+323,E100523,Bereavement Leave,2023-10-24,2024-01-31,,Did Not Return (Terminated)
+324,E100323,Parental Leave,2023-03-01,2023-05-15,,Did Not Return (Terminated)
+325,E100850,Parental Leave,2025-11-08,2026-02-08,,Did Not Return (Terminated)
+326,E100731,Bereavement Leave,2023-05-08,2023-06-23,,Did Not Return (Terminated)
+327,E100997,Bereavement Leave,2024-10-22,2025-01-20,,Did Not Return (Terminated)
+328,E100553,Parental Leave,2022-01-03,2022-04-18,,Did Not Return (Terminated)
+329,E100798,Medical Leave,2023-10-20,2024-01-04,,Did Not Return (Terminated)
+330,E100080,Medical Leave,2021-10-04,2021-11-07,,Did Not Return (Terminated)
+331,E101202,Medical Leave,2026-05-02,2026-08-21,,Did Not Return (Terminated)
+332,E100638,Sabbatical,2021-02-05,2021-03-11,,Did Not Return (Terminated)
+333,E100256,Medical Leave,2023-02-22,2023-03-22,,Did Not Return (Terminated)
+334,E100602,Sabbatical,2024-07-31,2024-11-12,,Did Not Return (Terminated)
+335,E100197,Parental Leave,2021-11-25,2021-12-23,,Did Not Return (Terminated)
+336,E100443,Parental Leave,2021-12-07,2022-01-10,,Did Not Return (Terminated)
+337,E100568,Parental Leave,2022-01-30,2022-06-29,,Did Not Return (Terminated)
+338,E100114,Bereavement Leave,2021-04-30,2021-07-24,,Did Not Return (Terminated)
+339,E100071,Bereavement Leave,2024-02-10,2024-03-15,,Did Not Return (Terminated)
+340,E100359,Medical Leave,2025-09-10,2025-11-05,,Did Not Return (Terminated)
+341,E100640,Medical Leave,2026-01-11,2026-05-03,,Did Not Return (Terminated)
+342,E100206,Medical Leave,2021-10-04,2021-12-28,,Did Not Return (Terminated)
+343,E100961,Medical Leave,2025-02-16,2025-03-14,,Did Not Return (Terminated)
+344,E100266,Parental Leave,2020-12-02,2021-04-13,,Did Not Return (Terminated)
+345,E100744,Military Leave,2026-01-02,2026-03-14,,Did Not Return (Terminated)
+346,E100439,Medical Leave,2026-04-19,2026-06-25,,Did Not Return (Terminated)
+347,E100297,Bereavement Leave,2023-12-19,2024-02-16,,Did Not Return (Terminated)
+348,E100895,Personal Leave,2025-09-24,2025-11-08,,Did Not Return (Terminated)
+349,E100306,Personal Leave,2022-05-05,2022-08-10,,Did Not Return (Terminated)
+350,E100724,Bereavement Leave,2025-02-16,2025-05-26,,Did Not Return (Terminated)
+351,E100449,Personal Leave,2022-08-21,2022-11-16,,Did Not Return (Terminated)
+352,E100434,Personal Leave,2022-12-01,2023-01-02,,Did Not Return (Terminated)
+353,E100214,Sabbatical,2025-02-21,2025-05-20,,Did Not Return (Terminated)
+354,E100455,Medical Leave,2023-06-12,2023-08-17,,Did Not Return (Terminated)
+355,E100404,Parental Leave,2023-10-29,2023-11-19,,Did Not Return (Terminated)
+356,E100363,Parental Leave,2022-05-08,2022-08-09,,Did Not Return (Terminated)
+357,E100310,Personal Leave,2021-06-11,2021-10-19,,Did Not Return (Terminated)
+358,E100608,Personal Leave,2020-12-17,2021-05-17,,Did Not Return (Terminated)
+359,E100291,Parental Leave,2022-03-19,2022-07-26,,Did Not Return (Terminated)
+360,E100869,Personal Leave,2023-11-24,2024-02-03,,Did Not Return (Terminated)
+361,E100593,Personal Leave,2021-11-20,2021-12-14,,Did Not Return (Terminated)
+362,E100380,Bereavement Leave,2021-10-26,2021-12-18,,Did Not Return (Terminated)
+363,E100795,Medical Leave,2024-12-29,2025-02-01,,Did Not Return (Terminated)
+364,E100908,Bereavement Leave,2024-02-01,2024-05-27,,Did Not Return (Terminated)
+365,E100243,Personal Leave,2021-08-24,2021-12-13,,Did Not Return (Terminated)
+366,E101149,Parental Leave,2026-02-25,2026-04-17,,Did Not Return (Terminated)
+367,E100120,Medical Leave,2024-04-21,2024-06-26,,Did Not Return (Terminated)
+368,E100561,Sabbatical,2026-05-18,2026-07-17,,Did Not Return (Terminated)
+369,E100321,Parental Leave,2026-06-14,2026-07-22,,Did Not Return (Terminated)
+370,E100894,Medical Leave,2024-01-24,2024-05-22,,Did Not Return (Terminated)
+371,E100304,Parental Leave,2021-04-07,2021-06-07,,Did Not Return (Terminated)
+372,E100566,Bereavement Leave,2025-02-18,2025-04-29,,Did Not Return (Terminated)
+373,E100787,Bereavement Leave,2025-04-27,2025-05-31,,Did Not Return (Terminated)
+374,E100240,Military Leave,2022-04-23,2022-06-18,,Did Not Return (Terminated)
+375,E100207,Parental Leave,2025-10-20,2026-01-12,,Did Not Return (Terminated)
+376,E100836,Parental Leave,2026-06-02,2026-08-28,,Did Not Return (Terminated)
+377,E100183,Medical Leave,2023-01-29,2023-05-06,,Did Not Return (Terminated)
+378,E100820,Parental Leave,2025-05-17,2025-06-09,,Did Not Return (Terminated)
+379,E100254,Personal Leave,2021-02-08,2021-05-30,,Did Not Return (Terminated)
+380,E100885,Personal Leave,2025-06-19,2025-10-11,,Did Not Return (Terminated)
+381,E100459,Medical Leave,2023-03-20,2023-06-13,,Did Not Return (Terminated)
+382,E100672,Personal Leave,2023-02-05,2023-04-20,,Did Not Return (Terminated)
+383,E100649,Medical Leave,2021-10-26,2021-12-04,,Did Not Return (Terminated)
+384,E100499,Personal Leave,2025-04-01,2025-06-17,,Did Not Return (Terminated)
+385,E100548,Parental Leave,2025-01-12,2025-03-18,,Did Not Return (Terminated)
+386,E100227,Personal Leave,2023-10-16,2023-12-04,,Did Not Return (Terminated)
+387,E100377,Sabbatical,2023-02-07,2023-03-04,,Did Not Return (Terminated)
+388,E100644,Medical Leave,2023-05-09,2023-06-03,,Did Not Return (Terminated)
+389,E100074,Personal Leave,2022-05-26,2022-08-12,,Did Not Return (Terminated)
+390,E100053,Parental Leave,2025-10-23,2026-03-05,,Did Not Return (Terminated)
+391,E101070,Sabbatical,2025-06-30,2025-10-17,,Did Not Return (Terminated)
+392,E100201,Sabbatical,2021-12-03,2022-01-27,,Did Not Return (Terminated)
+393,E100161,Medical Leave,2021-10-15,2021-11-28,,Did Not Return (Terminated)
+394,E100287,Sabbatical,2024-02-12,2024-06-20,,Did Not Return (Terminated)
+395,E100333,Parental Leave,2022-12-19,2023-04-07,,Did Not Return (Terminated)
+396,E100746,Bereavement Leave,2026-04-19,2026-06-17,,Did Not Return (Terminated)
+397,E100715,Medical Leave,2024-07-18,2024-11-05,,Did Not Return (Terminated)
+398,E100936,Medical Leave,2025-12-22,2026-03-04,,Did Not Return (Terminated)
+399,E100386,Medical Leave,2022-11-11,2023-03-06,,Did Not Return (Terminated)
+400,E100159,Military Leave,2021-09-28,2021-12-27,,Did Not Return (Terminated)
+401,E100112,Medical Leave,2024-05-27,2024-08-20,,Did Not Return (Terminated)
+402,E100815,Personal Leave,2023-03-26,2023-07-02,,Did Not Return (Terminated)
+403,E100992,Personal Leave,2026-03-26,2026-06-01,,Did Not Return (Terminated)
+404,E100762,Parental Leave,2022-12-24,2023-02-01,,Did Not Return (Terminated)
+405,E100755,Parental Leave,2026-03-11,2026-08-18,,Did Not Return (Terminated)
+406,E100527,Medical Leave,2024-08-31,2024-10-20,,Did Not Return (Terminated)
+407,E100905,Parental Leave,2026-01-31,2026-03-05,,Did Not Return (Terminated)
+408,E100493,Medical Leave,2024-01-17,2024-06-21,,Did Not Return (Terminated)
+409,E100977,Bereavement Leave,2025-10-30,2026-01-19,,Did Not Return (Terminated)
+410,E100217,Personal Leave,2021-12-27,2022-03-11,,Did Not Return (Terminated)
+411,E100352,Parental Leave,2022-02-20,2022-04-03,,Did Not Return (Terminated)
+412,E100319,Military Leave,2026-06-05,2026-08-21,,Did Not Return (Terminated)
+413,E100196,Personal Leave,2023-12-14,2024-03-06,,Did Not Return (Terminated)
+414,E100579,Bereavement Leave,2022-08-28,2022-11-29,,Did Not Return (Terminated)
+415,E100507,Personal Leave,2023-09-19,2023-12-16,,Did Not Return (Terminated)
+416,E100233,Medical Leave,2025-01-24,2025-03-15,,Did Not Return (Terminated)
+417,E100385,Medical Leave,2021-07-30,2021-10-07,,Did Not Return (Terminated)
+418,E100456,Parental Leave,2021-02-16,2021-05-13,,Did Not Return (Terminated)
+419,E100515,Medical Leave,2022-04-29,2022-07-01,,Did Not Return (Terminated)
+420,E100979,Parental Leave,2025-03-13,2025-04-10,,Did Not Return (Terminated)
+421,E100081,Personal Leave,2024-10-13,2025-01-15,,Did Not Return (Terminated)
+422,E100009,Bereavement Leave,2023-07-12,2023-09-21,,Did Not Return (Terminated)
+423,E100316,Sabbatical,2023-12-08,2024-03-07,,Did Not Return (Terminated)
+424,E100759,Medical Leave,2022-12-18,2023-03-29,,Did Not Return (Terminated)
+425,E100280,Medical Leave,2021-01-23,2021-05-16,,Did Not Return (Terminated)
+426,E100220,Medical Leave,2021-10-25,2022-01-08,,Did Not Return (Terminated)
+427,E100444,Sabbatical,2021-08-30,2021-12-12,,Did Not Return (Terminated)
+428,E100403,Sabbatical,2024-10-05,2024-12-23,,Did Not Return (Terminated)
+429,E100840,Military Leave,2024-12-12,2025-03-26,,Did Not Return (Terminated)
+430,E100104,Sabbatical,2025-06-18,2025-07-14,,Did Not Return (Terminated)
+431,E100213,Medical Leave,2022-07-02,2022-10-29,,Did Not Return (Terminated)
+432,E100381,Bereavement Leave,2024-05-08,2024-07-27,,Did Not Return (Terminated)
+433,E100504,Parental Leave,2025-10-21,2026-01-27,,Did Not Return (Terminated)

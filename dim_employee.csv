@@ -1,0 +1,1307 @@
+EmployeeKey,EmployeeID,FirstName,LastName,Gender,BirthYear,Age2026,MaritalStatus,Education,HireDate,TerminationDate,TerminationReason,TerminationType,EmploymentStatus,EmploymentType,DepartmentKey,JobKey,JobLevel,LocationKey,ManagerEmployeeID,CurrentSalary,Currency,DistanceFromHomeKM
+1,E000001,Alexandra,Whitfield,Female,1975,51,Married,Master's,2013-01-02,,,,Active,Full-Time,10,999,7,1,,285000,USD,8
+2,E100001,Mary,Costa,Female,1997,29,Married,High School,2019-12-21,,,,Active,Part-Time,1,1007,4,5,E100073,54000,USD,21
+3,E100002,Matthew,Rodriguez,Male,1983,43,Single,Bachelor's,2020-06-24,,,,Active,Full-Time,1,1000,2,1,E100110,78000,USD,1
+4,E100003,Yuki,Costa,Female,1995,31,Single,Bachelor's,2020-03-30,,,,Active,Full-Time,1,1002,4,3,E100124,107500,USD,1
+5,E100004,Linda,Kumar,Female,1982,44,Married,Bachelor's,2014-06-18,2024-12-27,Personal Reasons,Voluntary,Terminated,Full-Time,1,1007,4,5,E100078,62000,USD,8
+6,E100005,James,Garcia,Male,1999,27,Single,PhD,2020-12-04,,,,Active,Full-Time,1,1007,4,1,E100019,156000,USD,33
+7,E100006,Arjun,Nair,Male,1978,48,Single,Bachelor's,2016-01-19,2026-03-11,Restructuring,Involuntary,Terminated,Full-Time,1,1005,6,6,E100031,278000,USD,5
+8,E100007,Daniel,Ali,Male,1986,40,Single,Bachelor's,2020-04-11,,,,Active,Full-Time,1,1003,5,1,E100036,180000,USD,23
+9,E100008,Ava,Clark,Female,1983,43,Married,Bachelor's,2018-11-09,,,,Active,Full-Time,1,1001,3,1,E100123,84000,USD,7
+10,E100009,Wei,Moore,Male,1980,46,Single,High School,2020-09-21,2023-09-18,Did Not Return from Leave,Voluntary,Terminated,Full-Time,1,1005,6,5,E100031,90000,USD,1
+11,E100010,Mary,Silva,Female,1995,31,Single,Master's,2018-10-12,2022-02-26,Position Eliminated,Involuntary,Terminated,Full-Time,1,1001,3,3,E100025,67500,USD,1
+12,E100011,Fatima,Ramirez,Female,1987,39,Single,Master's,2020-04-02,,,,Active,Full-Time,1,1000,2,6,E100045,62500,USD,19
+13,E100012,David,Wilson,Male,1984,42,Married,Master's,2016-01-09,,,,Active,Full-Time,1,1003,5,1,E100031,194000,USD,8
+14,E100013,Priya,Miller,Female,1986,40,Married,Bachelor's,2019-10-25,,,,Active,Part-Time,1,1001,3,1,E100006,80000,USD,39
+15,E100014,John,Thompson,Male,1999,27,Single,Bachelor's,2020-05-13,,,,On Leave,Full-Time,1,1003,5,2,E100045,149500,USD,3
+16,E100015,Laura,Taylor,Female,1985,41,Married,Bachelor's,2020-08-29,,,,Active,Full-Time,1,1003,5,6,E100044,113500,USD,12
+17,E100016,Aisha,Robinson,Female,1984,42,Single,Bachelor's,2019-04-26,2023-01-12,Restructuring,Involuntary,Terminated,Full-Time,1,1000,2,5,E100125,25000,USD,1
+18,E100017,Amara,Harris,Female,1986,40,Single,Bachelor's,2019-06-05,,,,On Leave,Full-Time,1,1001,3,4,E100044,81000,USD,31
+19,E100018,Joseph,Chen,Male,1988,38,Married,Bachelor's,2016-05-21,,,,Active,Full-Time,1,1002,4,4,E100044,161500,USD,27
+20,E100019,Rachel,White,Female,1976,50,Single,Bachelor's,2015-12-06,2021-12-15,Performance,Involuntary,Terminated,Full-Time,1,1005,6,2,E100031,170000,USD,11
+21,E100020,Fatima,Jones,Female,1982,44,Married,Bachelor's,2020-12-25,,,,Active,Full-Time,1,1000,2,4,E100036,82000,USD,3
+22,E100021,Matthew,Nguyen,Male,1988,38,Single,Bachelor's,2020-02-20,,,,Active,Full-Time,1,1006,3,4,E100025,105500,USD,43
+23,E100022,Robert,Anderson,Male,1988,38,Married,Bachelor's,2019-11-27,,,,On Leave,Full-Time,1,1007,4,4,E100031,116500,USD,15
+24,E100023,Neha,Moore,Female,1991,35,Single,Master's,2020-04-12,,,,Active,Full-Time,1,1000,2,4,E100006,77000,USD,2
+25,E100024,Miguel,White,Male,1984,42,Married,PhD,2019-03-20,,,,Active,Full-Time,1,1007,4,4,E100056,124000,USD,8
+26,E100025,Ryan,Wilson,Male,1993,33,Married,Master's,2016-05-21,,,,Active,Full-Time,1,1005,6,4,E100031,283000,USD,8
+27,E100026,Fatima,Singh,Female,1994,32,Married,Bachelor's,2019-06-22,,,,On Leave,Full-Time,1,1006,3,4,E100123,123000,USD,1
+28,E100027,Laura,Chen,Female,1998,28,Single,Master's,2019-02-08,2024-05-23,Compensation,Voluntary,Terminated,Full-Time,1,1000,2,3,E100123,55500,USD,1
+29,E100028,Mason,Thomas,Male,1989,37,Single,Bachelor's,2019-05-19,2021-03-05,Restructuring,Involuntary,Terminated,Full-Time,1,1006,3,1,E100025,69500,USD,12
+30,E100029,Brian,Moore,Male,1981,45,Single,High School,2018-02-26,,,,Active,Part-Time,1,1007,4,3,E100107,113000,USD,21
+31,E100030,Wei Ling,Khan,Non-binary,1997,29,Married,Master's,2018-05-21,,,,Active,Full-Time,1,1002,4,1,E100102,115000,USD,3
+32,E100031,Yuki,Lee,Female,1993,33,Married,High School,2014-03-10,2022-07-25,Restructuring,Involuntary,Terminated,Full-Time,1,1005,6,3,E000001,195000,USD,1
+33,E100032,Chloe,Brown,Female,1999,27,Married,Bachelor's,2020-11-29,2022-10-12,Personal Reasons,Voluntary,Terminated,Full-Time,1,1006,3,4,E100033,70000,USD,6
+34,E100033,Michael,Lee,Male,1990,36,Married,Bachelor's,2019-11-20,,,,Active,Full-Time,1,1004,5,4,E100031,160500,USD,1
+35,E100034,Robert,Wilson,Male,1972,54,Single,Bachelor's,2018-09-28,2023-10-08,Return to Education,Voluntary,Terminated,Full-Time,1,1000,2,4,E100044,68000,USD,9
+36,E100035,Maria,Ali,Female,1988,38,Single,Master's,2014-10-05,,,,Active,Full-Time,1,1003,5,6,E100078,216000,USD,1
+37,E100036,Liam,Young,Male,1992,34,Single,Bachelor's,2018-05-19,,,,On Leave,Full-Time,1,1004,5,5,E100031,93500,USD,19
+38,E100037,Anthony,Rodriguez,Male,1988,38,Married,High School,2013-07-21,,,,Active,Full-Time,1,1003,5,2,E100078,200000,USD,8
+39,E100038,Rohan,Wright,Male,1991,35,Divorced,Bachelor's,2017-02-24,,,,Active,Full-Time,1,1003,5,5,E100078,89000,USD,7
+40,E100039,Wei,Ramirez,Male,1985,41,Married,Bachelor's,2020-03-29,,,,Active,Full-Time,1,1001,3,4,E100006,94000,USD,5
+41,E100040,Neha,White,Female,1991,35,Single,Master's,2020-09-23,2022-05-09,Retirement,Voluntary,Terminated,Full-Time,1,1000,2,5,E100043,24000,USD,20
+42,E100041,David,Allen,Male,1980,46,Single,Master's,2018-04-23,2023-09-20,Career Change,Voluntary,Terminated,Full-Time,1,1000,2,1,E100056,76500,USD,6
+43,E100042,Chloe,Brown,Female,1976,50,Single,High School,2015-10-18,,,,Active,Full-Time,1,1001,3,3,E100113,84500,USD,12
+44,E100043,Elizabeth,Chen,Female,1996,30,Divorced,High School,2017-12-27,,,,Active,Part-Time,1,1004,5,6,E100031,152500,USD,1
+45,E100044,Noah,Ramirez,Male,1983,43,Divorced,Bachelor's,2016-02-15,,,,Active,Full-Time,1,1004,5,6,E100031,180000,USD,14
+46,E100045,Neha,Harris,Female,1990,36,Single,Bachelor's,2019-09-02,,,,Active,Full-Time,1,1004,5,4,E100031,160000,USD,10
+47,E100046,Emma,King,Female,1985,41,Single,Master's,2020-10-28,,,,Active,Full-Time,1,1007,4,6,E100056,108000,USD,2
+48,E100047,Rohan,Smith,Male,1980,46,Married,High School,2015-09-07,,,,Active,Full-Time,1,1006,3,6,E100031,134000,USD,5
+49,E100048,Patricia,Singh,Female,1988,38,Divorced,Master's,2017-05-06,2023-08-27,Retirement,Voluntary,Terminated,Full-Time,1,1007,4,1,E100006,98000,USD,7
+50,E100049,Chloe,Moore,Female,1988,38,Divorced,Master's,2019-10-29,2024-12-07,Position Eliminated,Involuntary,Terminated,Full-Time,1,1001,3,1,E100125,87500,USD,7
+51,E100050,Priya,Davis,Female,1988,38,Married,Bachelor's,2020-09-12,,,,Active,Full-Time,1,1007,4,4,E100019,113500,USD,13
+52,E100051,William,Robinson,Male,1988,38,Single,Bachelor's,2019-05-22,,,,Active,Full-Time,1,1006,3,3,E100124,101500,USD,16
+53,E100052,Mason,Ferreira,Male,1987,39,Single,Bachelor's,2018-11-15,,,,Active,Full-Time,1,1005,6,1,E100031,237000,USD,5
+54,E100053,Arjun,Silva,Male,1983,43,Single,Bachelor's,2019-06-02,2026-02-19,Did Not Return from Leave,Voluntary,Terminated,Part-Time,1,1006,3,2,E100124,89500,USD,8
+55,E100054,Raj,Miller,Male,1985,41,Single,Bachelor's,2020-02-16,,,,Active,Full-Time,1,1004,5,1,E100031,160000,USD,7
+56,E100055,Nancy,Chen,Female,1994,32,Single,Bachelor's,2018-08-01,,,,On Leave,Full-Time,1,1000,2,1,E100006,73500,USD,1
+57,E100056,Jessica,Martinez,Female,1989,37,Married,Master's,2017-06-21,2023-08-21,Position Eliminated,Involuntary,Terminated,Full-Time,1,1005,6,1,E100031,184500,USD,2
+58,E100057,William,Wright,Male,1994,32,Married,Bachelor's,2019-12-27,,,,Active,Full-Time,1,1003,5,4,E100033,155000,USD,1
+59,E100058,Amara,King,Female,1996,30,Single,Bachelor's,2019-09-13,,,,Active,Full-Time,1,1003,5,1,E100138,139000,USD,4
+60,E100059,Laura,Lee,Female,1983,43,Married,Bachelor's,2020-09-21,,,,Active,Full-Time,1,1007,4,4,E100031,120500,USD,6
+61,E100060,Patricia,White,Female,1991,35,Single,PhD,2020-09-14,2025-01-07,Relocation,Voluntary,Terminated,Full-Time,1,1001,3,2,E100054,87500,USD,3
+62,E100061,Natalie,Martin,Female,1993,33,Married,High School,2020-10-07,2023-02-01,Compensation,Voluntary,Terminated,Full-Time,1,1000,2,1,E100025,58000,USD,6
+63,E100062,Wei,Garcia,Male,1987,39,Single,Bachelor's,2013-04-02,,,,Active,Full-Time,1,1001,3,2,E000001,105500,USD,9
+64,E100063,Eric,Jones,Male,1993,33,Single,High School,2019-02-20,2024-08-06,Restructuring,Involuntary,Terminated,Full-Time,1,1001,3,5,E100056,35500,USD,4
+65,E100064,Ava,Nguyen,Non-binary,1998,28,Single,Bachelor's,2019-02-02,,,,Active,Full-Time,1,1000,2,3,E100124,57500,USD,55
+66,E100065,Noah,Walker,Male,1983,43,Single,Bachelor's,2020-02-24,,,,Active,Full-Time,1,1006,3,1,E100102,105000,USD,21
+67,E100066,Susan,Taylor,Female,1966,60,Married,Master's,2013-08-17,2023-02-21,Personal Reasons,Voluntary,Terminated,Full-Time,1,1001,3,5,E100078,46500,USD,19
+68,E100067,Laura,Ramirez,Female,1987,39,Married,Bachelor's,2020-07-05,,,,Active,Full-Time,1,1000,2,1,E100045,76500,USD,6
+69,E100068,Amara,Wright,Female,1987,39,Single,Master's,2019-12-18,,,,Active,Full-Time,1,1003,5,2,E100006,138500,USD,9
+70,E100069,Fatima,Gonzalez,Female,1984,42,Married,Bachelor's,2015-10-16,,,,On Leave,Full-Time,1,1005,6,1,E100031,285500,USD,26
+71,E100070,Neha,Kim,Female,1990,36,Single,Bachelor's,2017-08-02,,,,Active,Full-Time,1,1001,3,2,E100078,96000,USD,25
+72,E100071,Emma,King,Female,1981,45,Married,Master's,2020-01-31,2024-03-11,Did Not Return from Leave,Voluntary,Terminated,Full-Time,1,1006,3,1,E100033,72000,USD,14
+73,E100072,Matthew,Anderson,Male,1993,33,Married,Master's,2019-04-14,,,,Active,Full-Time,1,1001,3,2,E100075,75000,USD,10
+74,E100073,James,Kumar,Male,1977,49,Single,Bachelor's,2019-06-15,2024-08-27,Position Eliminated,Involuntary,Terminated,Full-Time,1,1004,5,1,E100031,197000,USD,6
+75,E100074,Maria,Anderson,Female,1985,41,Divorced,Master's,2018-01-26,2022-08-08,Did Not Return from Leave,Voluntary,Terminated,Full-Time,1,1007,4,6,E100128,82500,USD,30
+76,E100075,Ethan,Chen,Male,1991,35,Single,Bachelor's,2016-07-08,2022-10-02,Personal Reasons,Voluntary,Terminated,Full-Time,1,1004,5,4,E100031,162000,USD,9
+77,E100076,Robert,Williams,Male,1990,36,Single,Bachelor's,2015-06-14,,,,Active,Full-Time,1,1003,5,2,E100113,197500,USD,2
+78,E100077,Linda,Allen,Female,1982,44,Divorced,Bachelor's,2019-06-27,,,,Active,Full-Time,1,1002,4,5,E100031,42500,USD,1
+79,E100078,Jessica,Wright,Female,1980,46,Single,Master's,2013-04-09,,,,Active,Full-Time,1,1004,5,4,E100031,217000,USD,2
+80,E100079,Raj,Shah,Male,1981,45,Married,Bachelor's,2020-12-03,,,,Active,Full-Time,1,1003,5,4,E100006,118500,USD,23
+81,E100080,Sarah,Walker,Female,1993,33,Single,Bachelor's,2014-07-30,2021-11-05,Did Not Return from Leave,Voluntary,Terminated,Full-Time,1,1003,5,1,E100031,156500,USD,12
+82,E100081,Jessica,Miller,Female,1990,36,Single,High School,2020-12-10,2025-01-05,Did Not Return from Leave,Voluntary,Terminated,Full-Time,1,1001,3,1,E100006,73500,USD,15
+83,E100082,Kevin,Thompson,Male,1994,32,Single,Master's,2016-09-29,2024-02-28,Retirement,Voluntary,Terminated,Full-Time,1,1006,3,2,E100031,72000,USD,1
+84,E100083,Jason,Ferreira,Male,1999,27,Single,Bachelor's,2020-06-28,,,,Active,Full-Time,1,1000,2,1,E100126,83000,USD,11
+85,E100084,Liam,Wang,Male,1995,31,Married,Bachelor's,2019-11-05,,,,Active,Full-Time,1,1003,5,2,E100073,152000,USD,8
+86,E100085,Brian,Ferreira,Male,1971,55,Married,PhD,2016-01-21,,,,Active,Full-Time,1,1006,3,2,E100078,104000,USD,2
+87,E100086,Sanjay,Miller,Male,1993,33,Single,Bachelor's,2020-04-21,2024-01-03,Relocation,Voluntary,Terminated,Full-Time,1,1000,2,5,E100045,31000,USD,21
+88,E100087,Daniel,Wright,Male,1979,47,Divorced,Bachelor's,2020-06-30,2026-06-06,Better Opportunity,Voluntary,Terminated,Full-Time,1,1000,2,1,E100123,76500,USD,8
+89,E100088,Kevin,Lopez,Male,1987,39,Single,Bachelor's,2020-11-24,2021-08-03,Return to Education,Voluntary,Terminated,Full-Time,1,1000,2,5,E100116,24500,USD,5
+90,E100089,Matthew,Jones,Male,1974,52,Single,High School,2018-03-18,,,,On Leave,Full-Time,1,1001,3,4,E100044,105500,USD,10
+91,E100090,Sanjay,Patel,Male,1989,37,Single,High School,2020-11-20,2023-10-12,Better Opportunity,Voluntary,Terminated,Full-Time,1,1003,5,4,E100128,161000,USD,8
+92,E100091,Liam,Wright,Male,1985,41,Married,Bachelor's,2018-06-10,,,,Active,Full-Time,1,1002,4,1,E100056,138000,USD,29
+93,E100092,Linda,Silva,Female,1984,42,Married,Master's,2020-09-05,,,,Active,Full-Time,1,1007,4,3,E100033,108000,USD,12
+94,E100093,Susan,Clark,Female,1997,29,Single,Master's,2018-05-30,2023-04-01,Policy Violation,Involuntary,Terminated,Full-Time,1,1006,3,1,E100107,86500,USD,30
+95,E100094,Jessica,Sanchez,Female,1983,43,Single,Master's,2013-03-18,,,,Active,Full-Time,1,1007,4,3,E000001,119500,USD,10
+96,E100095,Susan,Harris,Female,1998,28,Single,Bachelor's,2020-06-05,,,,On Leave,Full-Time,1,1000,2,1,E100133,74500,USD,4
+97,E100096,Brian,Taylor,Male,1988,38,Divorced,Master's,2018-11-03,2021-05-12,Policy Violation,Involuntary,Terminated,Part-Time,1,1007,4,4,E100128,108500,USD,5
+98,E100097,Hannah,Robinson,Female,1981,45,Married,Bachelor's,2017-10-18,,,,Active,Full-Time,1,1003,5,3,E100075,131500,USD,5
+99,E100098,Ethan,Ferreira,Male,1999,27,Single,Master's,2020-04-04,,,,On Leave,Full-Time,1,1001,3,1,E100110,89000,USD,35
+100,E100099,Ava,Kim,Non-binary,1971,55,Married,Bachelor's,2017-08-10,,,,Active,Full-Time,1,1001,3,2,E100056,80000,USD,2
+101,E100100,Elizabeth,Gonzalez,Female,1979,47,Married,Bachelor's,2020-07-20,,,,Active,Full-Time,1,1006,3,2,E100075,82000,USD,3
+102,E100101,Michael,Kumar,Male,1996,30,Single,Master's,2020-06-12,2023-06-15,Retirement,Voluntary,Terminated,Part-Time,1,1003,5,4,E100128,158000,USD,23
+103,E100102,Jennifer,Costa,Female,1983,43,Single,Bachelor's,2017-05-10,,,,Active,Full-Time,1,1005,6,3,E100031,192000,USD,8
+104,E100103,Michael,Kumar,Male,1999,27,Single,Master's,2020-10-26,,,,On Leave,Full-Time,1,1001,3,4,E100069,90000,USD,3
+105,E100104,Raj,King,Male,1984,42,Married,Master's,2016-05-13,2025-07-08,Did Not Return from Leave,Voluntary,Terminated,Full-Time,1,1006,3,4,E100069,136000,USD,16
+106,E100105,Arjun,Garcia,Male,1993,33,Married,Master's,2020-08-16,,,,On Leave,Full-Time,1,1006,3,5,E100128,38500,USD,1
+107,E100106,Linda,Nair,Female,1987,39,Married,Bachelor's,2020-04-05,2025-09-23,Performance,Involuntary,Terminated,Full-Time,1,1004,5,6,E100031,118500,USD,1
+108,E100107,Sanjay,Thomas,Male,1979,47,Single,Bachelor's,2017-11-08,2021-08-08,Return to Education,Voluntary,Terminated,Full-Time,1,1004,5,6,E100031,117500,USD,1
+109,E100108,Amit,Shah,Male,1987,39,Married,High School,2019-01-31,,,,On Leave,Full-Time,1,1002,4,4,E100075,151500,USD,4
+110,E100109,Chen,Williams,Male,1998,28,Married,Master's,2019-07-13,,,,Active,Full-Time,1,1006,3,4,E100019,98500,USD,1
+111,E100110,Grace,Kim,Female,1990,36,Single,Bachelor's,2018-06-30,,,,Active,Full-Time,1,1004,5,1,E100031,174500,USD,3
+112,E100111,Amara,Taylor,Female,1988,38,Single,Master's,2013-10-19,,,,Active,Full-Time,1,1003,5,5,E100078,92000,USD,41
+113,E100112,Ethan,Lee,Male,1992,34,Married,Bachelor's,2020-07-21,2024-08-06,Did Not Return from Leave,Voluntary,Terminated,Full-Time,1,1006,3,5,E100044,43500,USD,1
+114,E100113,Brian,Rodriguez,Male,1993,33,Single,Bachelor's,2015-06-04,,,,Active,Full-Time,1,1005,6,5,E100031,125000,USD,1
+115,E100114,Nancy,Robinson,Female,1995,31,Single,High School,2019-02-01,2021-07-16,Did Not Return from Leave,Voluntary,Terminated,Full-Time,1,1001,3,5,E100123,33000,USD,7
+116,E100115,Carlos,Jones,Male,1986,40,Single,Bachelor's,2018-12-27,2024-06-01,Career Change,Voluntary,Terminated,Part-Time,1,1001,3,4,E100135,92500,USD,1
+117,E100116,Chen,Shah,Male,1993,33,Single,Bachelor's,2019-06-26,,,,Active,Full-Time,1,1004,5,4,E100031,159500,USD,5
+118,E100117,Linda,Wright,Non-binary,1989,37,Single,Bachelor's,2020-12-05,,,,Active,Full-Time,1,1000,2,2,E100036,54000,USD,12
+119,E100118,Anthony,Rodriguez,Male,1984,42,Married,Master's,2018-04-23,2021-07-18,Retirement,Voluntary,Terminated,Full-Time,1,1000,2,6,E100125,54000,USD,19
+120,E100119,Claire,Jones,Female,1990,36,Married,Bachelor's,2020-02-03,,,,Active,Full-Time,1,1006,3,1,E100078,88500,USD,1
+121,E100120,Anjali,Jackson,Female,1981,45,Divorced,Bachelor's,2020-11-12,2024-06-15,Did Not Return from Leave,Voluntary,Terminated,Full-Time,1,1001,3,1,E100009,75000,USD,18
+122,E100121,Miguel,Wright,Male,1995,31,Married,High School,2018-08-22,,,,Active,Full-Time,1,1003,5,3,E100113,160000,USD,3
+123,E100122,Laura,Wang,Female,1986,40,Single,Bachelor's,2019-08-21,2022-12-03,Compensation,Voluntary,Terminated,Part-Time,1,1006,3,5,E100124,33000,USD,1
+124,E100123,Yuki,Patel,Female,1987,39,Married,Master's,2016-07-25,2021-05-24,Career Change,Voluntary,Terminated,Full-Time,1,1004,5,2,E100031,144000,USD,11
+125,E100124,Noah,Miller,Male,1993,33,Single,Bachelor's,2018-10-22,2022-04-02,Career Change,Voluntary,Terminated,Part-Time,1,1005,6,1,E100031,193000,USD,2
+126,E100125,Elizabeth,Taylor,Female,1988,38,Married,Bachelor's,2016-10-06,,,,Active,Full-Time,1,1004,5,1,E100031,196500,USD,41
+127,E100126,John,Costa,Male,1989,37,Divorced,Bachelor's,2020-05-07,,,,Active,Full-Time,1,1005,6,2,E100031,187500,USD,1
+128,E100127,Karen,Jackson,Female,1992,34,Married,Bachelor's,2020-08-05,,,,Active,Full-Time,1,1003,5,2,E100075,166000,USD,1
+129,E100128,Fatima,Perez,Female,1997,29,Married,Master's,2018-01-26,,,,Active,Full-Time,1,1005,6,3,E100031,209500,USD,1
+130,E100129,Liam,Taylor,Male,1991,35,Married,High School,2020-04-24,,,,On Leave,Full-Time,1,1000,2,3,E100033,52500,USD,51
+131,E100130,Karen,Brown,Female,1980,46,Single,Bachelor's,2013-08-15,,,,Active,Full-Time,1,1000,2,6,E100078,94500,USD,13
+132,E100131,Kevin,Moore,Male,1997,29,Single,Master's,2020-09-03,2023-11-06,Compensation,Voluntary,Terminated,Full-Time,1,1000,2,2,E100043,65000,USD,14
+133,E100132,Andrew,Nguyen,Male,1991,35,Married,Bachelor's,2016-12-30,2022-08-08,Personal Reasons,Voluntary,Terminated,Full-Time,1,1007,4,4,E100006,139000,USD,32
+134,E100133,Anthony,Hernandez,Male,1996,30,Married,PhD,2018-06-07,,,,Active,Full-Time,1,1005,6,1,E100031,264500,USD,45
+135,E100134,Ava,Ali,Female,1987,39,Married,Bachelor's,2019-11-09,,,,Active,Full-Time,1,1006,3,5,E100043,44500,USD,13
+136,E100135,James,Davis,Male,1978,48,Single,Bachelor's,2017-05-17,2024-07-22,Position Eliminated,Involuntary,Terminated,Full-Time,1,1005,6,5,E100031,89500,USD,6
+137,E100136,Amit,Khan,Male,1996,30,Single,High School,2018-05-22,,,,Active,Full-Time,1,1002,4,3,E100056,109500,USD,13
+138,E100137,Ava,Williams,Female,1988,38,Single,Bachelor's,2018-11-17,,,,Active,Full-Time,1,1003,5,2,E100078,141500,USD,10
+139,E100138,Maria,Patel,Female,1990,36,Divorced,High School,2019-04-30,,,,Active,Full-Time,1,1004,5,5,E100031,71000,USD,1
+140,E100139,David,Williams,Male,1990,36,Single,Bachelor's,2018-09-17,,,,Active,Full-Time,1,1007,4,1,E100075,126000,USD,19
+141,E100140,Amit,Williams,Male,1996,30,Single,Bachelor's,2019-04-20,,,,Active,Full-Time,1,1001,3,4,E100069,84500,USD,13
+142,E100141,Jessica,Singh,Female,1989,37,Married,High School,2020-07-25,,,,Active,Full-Time,1,1003,5,4,E100044,148000,USD,36
+143,E100142,John,Thompson,Male,1989,37,Married,Bachelor's,2018-12-24,,,,Active,Full-Time,2,1012,3,5,E100174,37500,USD,27
+144,E100143,Claire,Clark,Female,1985,41,Single,Bachelor's,2020-01-17,2023-05-14,Policy Violation,Involuntary,Terminated,Full-Time,2,1008,2,5,E100179,24500,USD,10
+145,E100144,Aisha,Martinez,Non-binary,1996,30,Single,Bachelor's,2020-08-07,2022-06-26,Compensation,Voluntary,Terminated,Full-Time,2,1011,6,5,E100185,75500,USD,9
+146,E100145,Sarah,Hernandez,Female,1988,38,Single,Bachelor's,2020-06-03,,,,Active,Full-Time,2,1009,4,4,E100159,111000,USD,14
+147,E100146,Mason,Perez,Male,1989,37,Single,High School,2013-03-14,2024-11-24,Performance,Involuntary,Terminated,Full-Time,2,1009,4,1,E000001,146500,USD,26
+148,E100147,Grace,Kim,Female,1995,31,Married,Bachelor's,2020-07-14,,,,On Leave,Full-Time,2,1009,4,1,E100183,97000,USD,25
+149,E100148,Hannah,Thomas,Female,1988,38,Divorced,Bachelor's,2018-09-09,2023-08-14,Career Change,Voluntary,Terminated,Full-Time,2,1010,5,2,E100185,131000,USD,15
+150,E100149,Diego,Khan,Male,1996,30,Single,Master's,2019-08-18,2024-11-09,Restructuring,Involuntary,Terminated,Full-Time,2,1008,2,4,E100185,75500,USD,13
+151,E100150,Sanjay,Williams,Male,1987,39,Divorced,Master's,2017-07-06,2021-12-14,Retirement,Voluntary,Terminated,Full-Time,2,1012,3,1,E100159,74500,USD,22
+152,E100151,Sarah,Gonzalez,Female,1993,33,Married,High School,2019-05-21,2024-03-23,Better Opportunity,Voluntary,Terminated,Full-Time,2,1010,5,1,E100183,158500,USD,3
+153,E100152,Emma,Thompson,Female,1986,40,Single,Bachelor's,2020-01-09,,,,Active,Full-Time,2,1008,2,6,E100159,52500,USD,8
+154,E100153,Diego,Anderson,Male,1988,38,Married,Master's,2015-06-19,,,,Active,Full-Time,2,1010,5,6,E100185,186000,USD,18
+155,E100154,Noah,Gonzalez,Male,1982,44,Single,PhD,2020-03-16,2022-02-25,Return to Education,Voluntary,Terminated,Full-Time,2,1008,2,2,E100174,53500,USD,20
+156,E100155,Anthony,Jones,Male,1973,53,Married,Bachelor's,2020-09-09,2024-12-21,Retirement,Voluntary,Terminated,Full-Time,2,1012,3,6,E100185,73500,USD,5
+157,E100156,Karen,Thompson,Non-binary,1987,39,Divorced,Bachelor's,2020-11-06,2025-08-08,Retirement,Voluntary,Terminated,Full-Time,2,1008,2,1,E100162,62500,USD,8
+158,E100157,Neha,Singh,Female,1986,40,Single,Master's,2019-09-24,,,,Active,Full-Time,2,1008,2,4,E100179,62000,USD,1
+159,E100158,Patricia,Taylor,Female,1981,45,Married,High School,2013-09-11,,,,Active,Full-Time,2,1008,2,4,E000001,89500,USD,68
+160,E100159,Anthony,Williams,Male,1984,42,Married,Bachelor's,2017-04-21,2021-12-14,Did Not Return from Leave,Voluntary,Terminated,Full-Time,2,1011,6,2,E100185,234000,USD,5
+161,E100160,Kevin,Thompson,Male,1991,35,Single,Bachelor's,2019-10-30,2023-06-14,Compensation,Voluntary,Terminated,Full-Time,2,1012,3,5,E100179,34500,USD,1
+162,E100161,Priya,Ramirez,Female,1996,30,Married,High School,2019-04-27,2021-11-25,Did Not Return from Leave,Voluntary,Terminated,Full-Time,2,1008,2,1,E100159,54000,USD,1
+163,E100162,Sophia,Davis,Female,1976,50,Single,Master's,2020-02-21,2022-06-06,Policy Violation,Involuntary,Terminated,Full-Time,2,1011,6,3,E100185,133000,USD,37
+164,E100163,Wei,Gonzalez,Male,1996,30,Married,Bachelor's,2017-08-08,2024-10-02,Compensation,Voluntary,Terminated,Full-Time,2,1010,5,4,E100159,153000,USD,12
+165,E100164,Ethan,Ramirez,Male,1982,44,Married,Master's,2018-11-29,,,,Active,Full-Time,2,1008,2,3,E100183,64000,USD,1
+166,E100165,Raj,Wright,Male,1994,32,Married,Bachelor's,2018-03-26,,,,Active,Full-Time,2,1008,2,1,E100174,80500,USD,2
+167,E100166,Aisha,Costa,Female,1999,27,Married,Bachelor's,2020-10-10,2025-05-03,Career Change,Voluntary,Terminated,Full-Time,2,1011,6,5,E100185,90500,USD,1
+168,E100167,Anjali,Ramirez,Female,1993,33,Married,Master's,2018-11-26,,,,Active,Full-Time,2,1012,3,4,E100183,107500,USD,1
+169,E100168,Noah,Perez,Male,1978,48,Single,Bachelor's,2020-02-05,2022-08-11,Performance,Involuntary,Terminated,Part-Time,2,1012,3,1,E100183,67500,USD,3
+170,E100169,Yuki,Davis,Female,1999,27,Married,Master's,2020-09-19,2023-02-26,Relocation,Voluntary,Terminated,Full-Time,2,1008,2,5,E100162,28500,USD,16
+171,E100170,Nancy,Allen,Female,1988,38,Single,Bachelor's,2019-08-25,,,,On Leave,Part-Time,2,1012,3,5,E100174,45500,USD,33
+172,E100171,Kevin,Lee,Male,1985,41,Married,Master's,2020-11-27,2021-07-01,Personal Reasons,Voluntary,Terminated,Full-Time,2,1008,2,1,E100182,58000,USD,10
+173,E100172,Joseph,Patel,Male,1998,28,Married,Master's,2019-06-11,,,,On Leave,Full-Time,2,1008,2,4,E100183,81500,USD,7
+174,E100173,Kevin,Kim,Male,1981,45,Married,Bachelor's,2020-12-25,,,,Active,Full-Time,2,1008,2,5,E100166,33500,USD,5
+175,E100174,Yuki,Costa,Female,1996,30,Divorced,Bachelor's,2017-08-20,,,,On Leave,Full-Time,2,1011,6,1,E100185,199000,USD,1
+176,E100175,Laura,Shah,Female,1996,30,Married,Bachelor's,2020-03-14,,,,Active,Full-Time,2,1012,3,6,E100183,72000,USD,14
+177,E100176,Rohan,Smith,Male,1988,38,Married,High School,2020-12-30,,,,Active,Full-Time,2,1010,5,2,E100166,134000,USD,9
+178,E100177,Daniel,Ramirez,Male,1994,32,Single,High School,2019-03-13,2021-03-13,Return to Education,Voluntary,Terminated,Full-Time,2,1010,5,4,E100185,148000,USD,18
+179,E100178,Laura,Wang,Female,1979,47,Single,Bachelor's,2018-04-19,2025-09-07,Position Eliminated,Involuntary,Terminated,Full-Time,2,1012,3,3,E100174,77000,USD,2
+180,E100179,Jason,Lewis,Male,1987,39,Married,High School,2018-12-31,,,,Active,Full-Time,2,1011,6,6,E100185,247500,USD,21
+181,E100180,Sophia,Walker,Female,1997,29,Single,High School,2019-12-09,2023-09-10,Performance,Involuntary,Terminated,Full-Time,2,1010,5,4,E100185,136500,USD,21
+182,E100181,Hannah,Costa,Female,1983,43,Married,Bachelor's,2020-04-20,2024-12-24,Policy Violation,Involuntary,Terminated,Full-Time,2,1010,5,2,E100162,121000,USD,1
+183,E100182,Robert,Jackson,Male,1988,38,Married,Bachelor's,2020-10-26,,,,Active,Full-Time,2,1011,6,3,E100185,194500,USD,1
+184,E100183,Wei Ling,Iyer,Female,1994,32,Single,Bachelor's,2017-12-10,2023-04-26,Did Not Return from Leave,Voluntary,Terminated,Full-Time,2,1011,6,6,E100185,161000,USD,7
+185,E100184,Miguel,Silva,Male,1989,37,Single,Master's,2017-09-15,,,,Active,Full-Time,2,1008,2,3,E100159,52500,USD,13
+186,E100185,Joseph,Anderson,Male,1984,42,Divorced,Bachelor's,2013-09-23,,,,Active,Full-Time,2,1011,6,6,E000001,274500,USD,2
+187,E100186,Elizabeth,Johnson,Female,1996,30,Single,Bachelor's,2019-03-04,2021-08-02,Career Change,Voluntary,Terminated,Full-Time,2,1009,4,6,E100183,79500,USD,3
+188,E100187,Eric,Iyer,Male,1989,37,Single,Bachelor's,2016-10-27,2024-03-22,Career Change,Voluntary,Terminated,Full-Time,3,1016,5,3,E100250,136000,USD,2
+189,E100188,Linda,Robinson,Female,1972,54,Married,Bachelor's,2014-08-06,2022-06-24,Relocation,Voluntary,Terminated,Full-Time,3,1017,6,4,E100250,181000,USD,8
+190,E100189,Liam,Shah,Male,1992,34,Single,Master's,2017-05-23,2025-08-23,Return to Education,Voluntary,Terminated,Full-Time,3,1016,5,1,E100250,168500,USD,2
+191,E100190,Ethan,Harris,Male,1990,36,Divorced,Master's,2016-05-18,2026-07-01,Better Opportunity,Voluntary,Terminated,Full-Time,3,1018,3,5,E100227,49000,USD,1
+192,E100191,Sarah,Martinez,Female,1996,30,Single,Master's,2019-08-19,2024-12-01,Return to Education,Voluntary,Terminated,Part-Time,3,1018,3,3,E100187,71500,USD,2
+193,E100192,Mary,Silva,Female,1986,40,Married,Bachelor's,2019-05-17,,,,Active,Full-Time,3,1013,1,5,E100302,27500,USD,9
+194,E100193,Claire,Miller,Female,1985,41,Divorced,Bachelor's,2020-08-16,2024-04-01,Personal Reasons,Voluntary,Terminated,Full-Time,3,1016,5,5,E100250,58500,USD,2
+195,E100194,Sarah,Lopez,Female,1983,43,Single,Master's,2016-01-25,2021-04-23,Position Eliminated,Involuntary,Terminated,Full-Time,3,1017,6,1,E100250,211000,USD,8
+196,E100195,Fatima,King,Female,1975,51,Single,Bachelor's,2013-06-28,2023-07-16,Restructuring,Involuntary,Terminated,Full-Time,3,1016,5,6,E100250,186000,USD,15
+197,E100196,Rohan,Thomas,Male,1988,38,Married,Bachelor's,2016-02-22,2024-02-24,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1014,3,5,E100216,43500,USD,4
+198,E100197,Patricia,Robinson,Female,1990,36,Single,Master's,2019-08-09,2021-12-15,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1017,6,3,E100250,112000,USD,1
+199,E100198,Jason,Kim,Male,1984,42,Married,Bachelor's,2020-05-26,,,,Active,Full-Time,3,1013,1,2,E100187,53500,USD,22
+200,E100199,Ava,Nair,Female,1987,39,Single,Bachelor's,2019-08-08,2021-05-09,Personal Reasons,Voluntary,Terminated,Full-Time,3,1018,3,4,E100248,81000,USD,3
+201,E100200,Carlos,Lewis,Male,1995,31,Single,Bachelor's,2017-01-05,2025-03-22,Compensation,Voluntary,Terminated,Full-Time,3,1015,4,4,E100228,138000,USD,4
+202,E100201,Aisha,Allen,Female,1983,43,Divorced,Master's,2018-09-04,2022-01-14,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1018,3,5,E100216,34000,USD,1
+203,E100202,Raj,Patel,Male,1984,42,Divorced,High School,2019-09-13,2021-12-14,Better Opportunity,Voluntary,Terminated,Full-Time,3,1014,3,5,E100194,27500,USD,1
+204,E100203,William,Costa,Male,1992,34,Married,High School,2018-01-15,,,,Active,Part-Time,3,1018,3,2,E100195,89000,USD,15
+205,E100204,Emma,Taylor,Female,1988,38,Single,Bachelor's,2020-03-15,2022-03-23,Retirement,Voluntary,Terminated,Full-Time,3,1017,6,2,E100250,170000,USD,7
+206,E100205,Natalie,Chen,Female,1983,43,Married,Master's,2020-03-19,2023-09-12,Restructuring,Involuntary,Terminated,Full-Time,3,1015,4,2,E100227,93500,USD,1
+207,E100206,Carlos,King,Male,1984,42,Single,Master's,2020-05-26,2021-12-25,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1017,6,1,E100250,181500,USD,1
+208,E100207,Matthew,Moore,Male,1986,40,Single,Master's,2020-10-14,2026-01-11,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1018,3,4,E100189,125000,USD,26
+209,E100208,Ethan,Jackson,Male,1994,32,Single,Bachelor's,2019-09-19,2021-06-27,Restructuring,Involuntary,Terminated,Full-Time,3,1015,4,4,E100197,117000,USD,5
+210,E100209,Andrew,Lee,Male,1979,47,Single,Bachelor's,2019-07-14,2023-05-15,Performance,Involuntary,Terminated,Full-Time,3,1016,5,6,E100250,145500,USD,7
+211,E100210,Linda,Rodriguez,Female,1990,36,Married,Bachelor's,2020-11-25,2022-07-07,Policy Violation,Involuntary,Terminated,Full-Time,3,1013,1,1,E100302,36000,USD,8
+212,E100211,Brian,Khan,Male,1983,43,Single,Master's,2020-12-28,2021-06-16,Position Eliminated,Involuntary,Terminated,Full-Time,3,1013,1,1,E100255,40500,USD,1
+213,E100212,Daniel,Jones,Male,1969,57,Married,Master's,2018-11-22,2025-01-24,Performance,Involuntary,Terminated,Part-Time,3,1013,1,2,E100307,57000,USD,1
+214,E100213,Andrew,Wright,Male,1985,41,Single,Master's,2020-04-18,2022-10-19,Did Not Return from Leave,Voluntary,Terminated,Part-Time,3,1014,3,2,E100261,70500,USD,20
+215,E100214,Michael,Wilson,Male,1980,46,Single,Bachelor's,2020-12-31,2025-05-09,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1015,4,1,E100234,125500,USD,5
+216,E100215,Neha,Nguyen,Female,1987,39,Single,Bachelor's,2020-09-20,2021-04-07,Better Opportunity,Voluntary,Terminated,Full-Time,3,1014,3,5,E100218,31500,USD,12
+217,E100216,Fatima,Johnson,Female,1977,49,Divorced,High School,2015-08-17,,,,Active,Full-Time,3,1017,6,5,E100250,105500,USD,1
+218,E100217,Chloe,Shah,Female,1972,54,Married,Bachelor's,2020-12-23,2022-03-07,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1014,3,2,E100216,57000,USD,14
+219,E100218,James,Thompson,Male,1984,42,Single,Master's,2019-10-08,2023-02-18,Compensation,Voluntary,Terminated,Full-Time,3,1016,5,1,E100250,144000,USD,23
+220,E100219,Brian,Clark,Male,1994,32,Married,Bachelor's,2015-07-16,,,,Active,Full-Time,3,1016,5,2,E100250,228500,USD,6
+221,E100220,Aisha,Wright,Female,1985,41,Single,High School,2020-08-31,2021-12-28,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1018,3,2,E100224,80000,USD,4
+222,E100221,Claire,Anderson,Female,1975,51,Single,Bachelor's,2018-07-08,,,,Active,Part-Time,3,1015,4,2,E100232,96000,USD,5
+223,E100222,Karen,Ramirez,Female,1999,27,Single,Master's,2020-12-01,,,,Active,Full-Time,3,1013,1,2,E100254,43500,USD,37
+224,E100223,Neha,Perez,Female,1999,27,Single,Bachelor's,2020-03-05,2022-12-25,Position Eliminated,Involuntary,Terminated,Full-Time,3,1018,3,4,E100224,66500,USD,17
+225,E100224,Hannah,Sanchez,Female,1996,30,Single,Bachelor's,2017-01-21,,,,On Leave,Full-Time,3,1016,5,2,E100250,171500,USD,40
+226,E100225,Natalie,Robinson,Female,1991,35,Single,PhD,2019-03-18,2023-08-09,Career Change,Voluntary,Terminated,Full-Time,3,1014,3,4,E100228,72500,USD,11
+227,E100226,Laura,Wright,Female,1973,53,Married,Bachelor's,2019-02-24,,,,On Leave,Full-Time,3,1015,4,1,E100249,117500,USD,39
+228,E100227,Brian,Kumar,Male,1988,38,Married,Master's,2015-09-20,2023-12-01,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1017,6,3,E100250,239500,USD,7
+229,E100228,Liam,Ramirez,Male,1977,49,Single,Bachelor's,2013-10-22,2026-04-25,Restructuring,Involuntary,Terminated,Full-Time,3,1016,5,5,E100250,95000,USD,5
+230,E100229,Jason,Lopez,Male,1981,45,Divorced,Bachelor's,2019-06-06,2023-11-15,Retirement,Voluntary,Terminated,Full-Time,3,1014,3,4,E100232,80500,USD,23
+231,E100230,Brian,Lee,Male,1979,47,Married,Master's,2019-09-25,,,,Active,Full-Time,3,1018,3,5,E100209,41000,USD,7
+232,E100231,Andrew,Perez,Male,1991,35,Single,Bachelor's,2018-06-11,,,,Active,Part-Time,3,1016,5,4,E100250,166500,USD,1
+233,E100232,Natalie,Clark,Female,1987,39,Married,Bachelor's,2013-07-09,2024-09-15,Performance,Involuntary,Terminated,Full-Time,3,1017,6,5,E100250,133000,USD,17
+234,E100233,Robert,Walker,Male,1994,32,Single,Bachelor's,2018-08-22,2025-03-06,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1017,6,5,E100250,94500,USD,5
+235,E100234,Rohan,Brown,Male,1991,35,Single,Bachelor's,2020-09-29,2023-02-15,Performance,Involuntary,Terminated,Full-Time,3,1017,6,6,E100250,147500,USD,14
+236,E100235,Anjali,Anderson,Non-binary,1997,29,Divorced,Bachelor's,2020-11-21,,,,On Leave,Full-Time,3,1013,1,2,E100248,40000,USD,4
+237,E100236,Chloe,Wang,Female,1994,32,Single,Bachelor's,2019-08-01,2022-06-26,Restructuring,Involuntary,Terminated,Full-Time,3,1013,1,4,E100219,45500,USD,26
+238,E100237,James,Thomas,Male,1994,32,Married,Master's,2019-06-20,2025-11-01,Compensation,Voluntary,Terminated,Full-Time,3,1014,3,4,E100195,99500,USD,9
+239,E100238,James,Iyer,Male,1984,42,Single,Bachelor's,2019-05-22,,,,Active,Full-Time,3,1013,1,5,E100227,23000,USD,1
+240,E100239,David,Walker,Male,1992,34,Single,Master's,2017-12-19,,,,Active,Full-Time,3,1015,4,1,E100232,127500,USD,3
+241,E100240,Maria,Wilson,Female,1996,30,Married,Bachelor's,2018-01-12,2022-06-16,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1013,1,1,E100194,39000,USD,26
+242,E100241,Anthony,Nguyen,Male,1990,36,Married,High School,2019-10-02,2024-11-09,Restructuring,Involuntary,Terminated,Full-Time,3,1018,3,2,E100228,96500,USD,14
+243,E100242,Chen,Nair,Male,1997,29,Single,High School,2018-08-03,,,,Active,Full-Time,3,1018,3,5,E100195,55500,USD,12
+244,E100243,Fatima,Davis,Female,1999,27,Single,Bachelor's,2020-11-23,2021-12-05,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1014,3,6,E100306,69000,USD,17
+245,E100244,Susan,Martin,Female,1991,35,Married,Master's,2019-10-27,,,,On Leave,Full-Time,3,1017,6,5,E100250,88000,USD,13
+246,E100245,James,Martin,Male,1980,46,Single,Master's,2018-12-11,2022-03-08,Performance,Involuntary,Terminated,Full-Time,3,1013,1,1,E100307,50500,USD,26
+247,E100246,Amara,Harris,Female,1999,27,Single,Master's,2020-04-04,2025-04-11,Policy Violation,Involuntary,Terminated,Full-Time,3,1014,3,1,E100233,82000,USD,5
+248,E100247,Ethan,Gonzalez,Male,1992,34,Married,High School,2020-02-06,2022-07-11,Policy Violation,Involuntary,Terminated,Full-Time,3,1013,1,1,E100227,35500,USD,39
+249,E100248,Ethan,Chen,Male,1998,28,Married,PhD,2019-05-24,2026-04-03,Retirement,Voluntary,Terminated,Full-Time,3,1016,5,2,E100250,159000,USD,1
+250,E100249,Ethan,Nguyen,Male,1981,45,Single,High School,2017-10-08,2025-12-22,Policy Violation,Involuntary,Terminated,Full-Time,3,1017,6,1,E100250,176000,USD,12
+251,E100250,Hannah,Davis,Female,1982,44,Married,Bachelor's,2013-05-28,2022-03-03,Performance,Involuntary,Terminated,Full-Time,3,1017,6,1,E000001,220000,USD,4
+252,E100251,Maria,Williams,Female,1979,47,Divorced,Master's,2020-11-08,,,,On Leave,Full-Time,3,1013,1,1,E100228,50500,USD,56
+253,E100252,Kevin,Kim,Male,1990,36,Single,Bachelor's,2019-04-11,2023-04-19,Restructuring,Involuntary,Terminated,Full-Time,3,1018,3,1,E100232,73500,USD,18
+254,E100253,Arjun,Wang,Male,1998,28,Single,Master's,2019-02-08,2021-06-03,Career Change,Voluntary,Terminated,Full-Time,3,1013,1,5,E100250,23000,USD,7
+255,E100254,Sanjay,Clark,Male,1981,45,Single,PhD,2016-02-23,2021-05-22,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1017,6,1,E100250,211000,USD,3
+256,E100255,Patricia,Ramirez,Female,1984,42,Single,High School,2019-06-24,,,,Active,Full-Time,3,1016,5,1,E100250,147500,USD,7
+257,E100256,Wei Ling,Robinson,Female,1999,27,Divorced,Bachelor's,2020-06-27,2023-03-17,Did Not Return from Leave,Voluntary,Terminated,Part-Time,3,1013,1,5,E100268,21000,USD,63
+258,E100257,Grace,Lopez,Female,1991,35,Married,PhD,2018-04-08,2023-06-14,Performance,Involuntary,Terminated,Full-Time,3,1018,3,4,E100228,71000,USD,18
+259,E100258,Wei Ling,Moore,Female,1984,42,Married,Bachelor's,2015-10-04,2021-02-04,Relocation,Voluntary,Terminated,Full-Time,3,1018,3,6,E100228,79500,USD,15
+260,E100259,Amara,Wright,Female,1989,37,Single,High School,2020-05-18,,,,On Leave,Full-Time,3,1016,5,4,E100250,147500,USD,31
+261,E100260,Emma,Ramirez,Female,1980,46,Married,High School,2020-06-07,2024-10-26,Restructuring,Involuntary,Terminated,Full-Time,3,1015,4,1,E100286,102000,USD,1
+262,E100261,Maria,Moore,Female,1995,31,Married,Master's,2019-07-25,2022-11-16,Career Change,Voluntary,Terminated,Part-Time,3,1016,5,1,E100250,116500,USD,10
+263,E100262,Matthew,Garcia,Male,1999,27,Married,Bachelor's,2020-01-12,,,,Active,Full-Time,3,1017,6,1,E100250,168500,USD,30
+264,E100263,Jason,Thomas,Male,1989,37,Married,Bachelor's,2020-10-07,2021-07-02,Return to Education,Voluntary,Terminated,Full-Time,3,1014,3,1,E100259,67500,USD,3
+265,E100264,Maria,Iyer,Female,1977,49,Married,Bachelor's,2020-01-18,2025-07-22,Relocation,Voluntary,Terminated,Full-Time,3,1018,3,6,E100268,76000,USD,2
+266,E100265,Priya,Johnson,Female,1992,34,Single,Master's,2019-01-14,2023-04-09,Career Change,Voluntary,Terminated,Full-Time,3,1013,1,2,E100231,41000,USD,4
+267,E100266,Priya,Lopez,Female,1984,42,Single,High School,2018-05-27,2021-04-03,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1017,6,4,E100250,156000,USD,17
+268,E100267,Anjali,Taylor,Female,1997,29,Single,Master's,2021-01-01,,,,Active,Part-Time,3,1014,3,3,E100290,77000,USD,3
+269,E100268,Amit,Nair,Male,1994,32,Single,Master's,2018-08-11,2022-02-14,Performance,Involuntary,Terminated,Full-Time,3,1016,5,5,E100250,51000,USD,2
+270,E100269,Karen,Patel,Female,1979,47,Married,Master's,2019-12-26,2024-06-04,Relocation,Voluntary,Terminated,Full-Time,3,1018,3,5,E100266,27500,USD,18
+271,E100270,Daniel,Garcia,Male,1988,38,Single,Master's,2019-01-28,2022-02-24,Better Opportunity,Voluntary,Terminated,Full-Time,3,1018,3,1,E100194,90000,USD,1
+272,E100271,Kevin,Young,Male,1982,44,Married,Master's,2019-06-02,2024-09-19,Better Opportunity,Voluntary,Terminated,Full-Time,3,1015,4,2,E100286,113000,USD,3
+273,E100272,Sarah,Khan,Female,1988,38,Married,Bachelor's,2017-05-20,2023-05-19,Retirement,Voluntary,Terminated,Part-Time,3,1015,4,2,E100302,101000,USD,8
+274,E100273,Ethan,Young,Male,1994,32,Single,Master's,2019-12-14,2021-06-25,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1013,1,5,E100228,22500,USD,9
+275,E100274,James,Garcia,Male,1980,46,Single,Master's,2013-07-01,,,,Active,Full-Time,3,1014,3,3,E100195,123500,USD,6
+276,E100275,Brian,Khan,Male,1998,28,Married,Bachelor's,2020-09-10,2021-11-28,Compensation,Voluntary,Terminated,Full-Time,3,1018,3,1,E100232,66000,USD,10
+277,E100276,Noah,Kumar,Male,1982,44,Married,Bachelor's,2017-01-25,2024-02-23,Compensation,Voluntary,Terminated,Full-Time,3,1018,3,1,E100224,101000,USD,5
+278,E100277,Rohan,King,Male,1993,33,Single,Master's,2018-11-13,2024-11-20,Relocation,Voluntary,Terminated,Full-Time,3,1013,1,5,E100232,23000,USD,1
+279,E100278,Mason,Patel,Male,1983,43,Single,Bachelor's,2019-12-22,,,,Active,Full-Time,3,1018,3,4,E100218,116000,USD,1
+280,E100279,Ethan,Robinson,Male,1999,27,Married,Bachelor's,2020-04-15,2022-08-17,Restructuring,Involuntary,Terminated,Full-Time,3,1013,1,2,E100204,43500,USD,6
+281,E100280,Anthony,Anderson,Male,1995,31,Married,PhD,2020-04-30,2021-05-03,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1013,1,3,E100218,33000,USD,1
+282,E100281,Daniel,Lee,Male,1989,37,Single,High School,2020-10-30,,,,Active,Part-Time,3,1018,3,2,E100304,78000,USD,3
+283,E100282,Rohan,Silva,Male,1980,46,Married,Master's,2018-07-11,2023-05-02,Personal Reasons,Voluntary,Terminated,Part-Time,3,1016,5,4,E100250,131500,USD,1
+284,E100283,Jessica,Wilson,Female,1992,34,Married,Bachelor's,2020-08-19,2022-04-25,Relocation,Voluntary,Terminated,Full-Time,3,1018,3,5,E100195,34000,USD,10
+285,E100284,Karen,Ferreira,Female,1985,41,Single,Master's,2020-05-12,2022-12-15,Personal Reasons,Voluntary,Terminated,Part-Time,3,1014,3,6,E100248,75000,USD,1
+286,E100285,Chloe,King,Female,1988,38,Single,Master's,2020-12-26,,,,Active,Full-Time,3,1014,3,1,E100306,77000,USD,10
+287,E100286,Patricia,Gonzalez,Female,1992,34,Single,Master's,2018-11-30,2026-07-13,Return to Education,Voluntary,Terminated,Full-Time,3,1016,5,1,E100250,166000,USD,1
+288,E100287,Ryan,Lopez,Male,1979,47,Single,PhD,2020-05-17,2024-06-19,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1013,1,1,E100302,46500,USD,19
+289,E100288,Ethan,Wright,Male,1981,45,Married,Master's,2017-03-12,2021-10-15,Policy Violation,Involuntary,Terminated,Full-Time,3,1018,3,3,E100188,79000,USD,1
+290,E100289,Michael,Brown,Male,1998,28,Married,Master's,2019-12-26,,,,Active,Full-Time,3,1018,3,4,E100227,94500,USD,11
+291,E100290,Fatima,Rodriguez,Female,1992,34,Divorced,High School,2020-05-17,2022-01-03,Retirement,Voluntary,Terminated,Full-Time,3,1016,5,2,E100250,133500,USD,4
+292,E100291,Chloe,Young,Female,1994,32,Single,Master's,2019-09-18,2022-07-22,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1013,1,2,E100227,41000,USD,12
+293,E100292,James,Shah,Male,1991,35,Married,Master's,2020-05-04,,,,Active,Full-Time,3,1013,1,1,E100216,55500,USD,4
+294,E100293,Eric,Lewis,Male,1999,27,Married,Bachelor's,2020-03-10,2022-06-12,Compensation,Voluntary,Terminated,Full-Time,3,1013,1,3,E100302,42500,USD,36
+295,E100294,Michael,Taylor,Male,1994,32,Married,Bachelor's,2020-02-19,2021-03-07,Personal Reasons,Voluntary,Terminated,Full-Time,3,1014,3,3,E100282,60500,USD,23
+296,E100295,Olivia,Davis,Female,1991,35,Married,Bachelor's,2018-07-09,,,,Active,Full-Time,3,1018,3,5,E100254,42000,USD,3
+297,E100296,Neha,Young,Female,1988,38,Married,Bachelor's,2020-09-23,,,,Active,Full-Time,3,1013,1,1,E100244,60500,USD,1
+298,E100297,Liam,Singh,Male,1996,30,Married,Bachelor's,2020-08-09,2024-02-02,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1018,3,1,E100216,79000,USD,5
+299,E100298,David,Shah,Male,1999,27,Single,Bachelor's,2020-06-01,2022-01-06,Retirement,Voluntary,Terminated,Full-Time,3,1013,1,6,E100231,48000,USD,14
+300,E100299,Linda,Thomas,Female,1981,45,Single,Bachelor's,2018-05-04,,,,On Leave,Full-Time,3,1013,1,3,E100194,41500,USD,4
+301,E100300,Carlos,Clark,Male,1975,51,Single,Bachelor's,2020-08-31,,,,On Leave,Full-Time,3,1016,5,1,E100250,184500,USD,1
+302,E100301,Hannah,Iyer,Female,1973,53,Single,Master's,2017-07-17,,,,On Leave,Full-Time,3,1014,3,3,E100227,91000,USD,21
+303,E100302,Arjun,Harris,Male,1982,44,Single,Bachelor's,2017-03-19,2024-01-14,Policy Violation,Involuntary,Terminated,Full-Time,3,1017,6,3,E100250,202000,USD,25
+304,E100303,Jason,Martin,Male,1991,35,Single,Bachelor's,2019-08-16,,,,On Leave,Full-Time,3,1013,1,2,E100197,52500,USD,5
+305,E100304,Grace,Martin,Female,1987,39,Single,Bachelor's,2017-06-03,2021-06-02,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1016,5,6,E100250,99000,USD,1
+306,E100305,Jennifer,Iyer,Female,1980,46,Single,Master's,2019-12-28,,,,Active,Full-Time,3,1014,3,5,E100286,41500,USD,9
+307,E100306,Patricia,Silva,Female,1976,50,Married,Bachelor's,2020-11-07,2022-08-04,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1017,6,4,E100250,192500,USD,13
+308,E100307,Daniel,Taylor,Male,1987,39,Married,Bachelor's,2018-11-15,2025-10-19,Return to Education,Voluntary,Terminated,Full-Time,3,1016,5,1,E100250,148000,USD,26
+309,E100308,Susan,Thomas,Female,1988,38,Single,Bachelor's,2019-02-07,2023-09-23,Career Change,Voluntary,Terminated,Full-Time,3,1015,4,1,E100232,125000,USD,3
+310,E100309,Robert,Hernandez,Male,1999,27,Single,Master's,2020-06-21,2025-02-22,Compensation,Voluntary,Terminated,Full-Time,4,1020,3,5,E100342,40500,USD,19
+311,E100310,Jason,Khan,Male,1994,32,Single,Bachelor's,2020-04-21,2021-10-16,Did Not Return from Leave,Voluntary,Terminated,Full-Time,4,1022,3,1,E100315,76000,USD,14
+312,E100311,Nancy,Williams,Female,1983,43,Single,High School,2020-06-17,,,,Active,Full-Time,4,1021,5,1,E100325,185000,USD,5
+313,E100312,Ethan,Jackson,Male,1984,42,Single,Bachelor's,2019-10-04,,,,On Leave,Full-Time,4,1019,2,1,E100342,65000,USD,27
+314,E100313,Emma,Jones,Female,1990,36,Single,PhD,2016-03-08,,,,Active,Full-Time,4,1021,5,5,E100325,86500,USD,16
+315,E100314,Amara,Taylor,Female,1987,39,Single,Bachelor's,2017-05-22,,,,Active,Full-Time,4,1023,6,6,E100325,216500,USD,10
+316,E100315,Wei Ling,Kumar,Female,1981,45,Married,Master's,2020-03-06,2025-08-08,Career Change,Voluntary,Terminated,Full-Time,4,1021,5,1,E100325,154000,USD,10
+317,E100316,Grace,Davis,Female,1969,57,Single,Bachelor's,2013-11-26,2024-03-06,Did Not Return from Leave,Voluntary,Terminated,Full-Time,4,1023,6,3,E100325,178000,USD,31
+318,E100317,Wei Ling,Martinez,Female,1983,43,Single,Bachelor's,2020-01-31,,,,Active,Full-Time,4,1021,5,1,E100325,183000,USD,13
+319,E100318,Natalie,Martinez,Female,1978,48,Married,Bachelor's,2019-12-23,,,,Active,Full-Time,4,1023,6,1,E100325,217500,USD,2
+320,E100319,William,Martin,Male,1991,35,Single,High School,2018-10-13,2026-08-12,Did Not Return from Leave,Voluntary,Terminated,Full-Time,4,1021,5,1,E100325,200500,USD,11
+321,E100320,Natalie,Shah,Female,1985,41,Married,Bachelor's,2018-05-11,,,,Active,Full-Time,4,1022,3,5,E100341,41500,USD,10
+322,E100321,Emma,Davis,Female,1999,27,Married,Master's,2020-04-16,2026-07-20,Did Not Return from Leave,Voluntary,Terminated,Full-Time,4,1023,6,4,E100325,215500,USD,12
+323,E100322,Joseph,Khan,Male,1992,34,Single,Master's,2020-06-25,,,,Active,Part-Time,4,1022,3,5,E100315,41500,USD,1
+324,E100323,Anthony,Allen,Male,1977,49,Single,PhD,2015-12-30,2023-05-14,Did Not Return from Leave,Voluntary,Terminated,Full-Time,4,1022,3,6,E100316,82000,USD,22
+325,E100324,Emma,Garcia,Female,1988,38,Single,High School,2014-11-21,,,,Active,Full-Time,4,1019,2,2,E100325,82500,USD,1
+326,E100325,Claire,Ramirez,Female,1992,34,Single,Bachelor's,2013-01-19,2023-10-06,Retirement,Voluntary,Terminated,Full-Time,4,1023,6,6,E000001,226500,USD,3
+327,E100326,Laura,Taylor,Female,1983,43,Single,Bachelor's,2020-01-15,2024-02-05,Did Not Return from Leave,Voluntary,Terminated,Full-Time,4,1022,3,1,E100341,79500,USD,2
+328,E100327,Matthew,Singh,Male,1981,45,Married,Bachelor's,2020-10-24,2023-06-20,Position Eliminated,Involuntary,Terminated,Full-Time,4,1020,3,2,E100319,73000,USD,3
+329,E100328,Maria,Kumar,Female,1997,29,Single,Bachelor's,2019-07-14,2022-10-22,Compensation,Voluntary,Terminated,Full-Time,4,1019,2,3,E100337,54500,USD,15
+330,E100329,Chloe,Singh,Female,1992,34,Divorced,Master's,2019-02-15,,,,Active,Full-Time,4,1022,3,5,E100361,43500,USD,2
+331,E100330,Maria,Williams,Female,1989,37,Single,Master's,2019-07-11,2021-05-20,Return to Education,Voluntary,Terminated,Full-Time,4,1022,3,3,E100341,68500,USD,4
+332,E100331,Susan,Walker,Female,1988,38,Married,Bachelor's,2019-09-03,2021-08-24,Return to Education,Voluntary,Terminated,Full-Time,4,1022,3,1,E100337,72000,USD,5
+333,E100332,Emma,Moore,Female,1970,56,Single,Bachelor's,2018-08-15,2021-10-15,Compensation,Voluntary,Terminated,Full-Time,4,1019,2,4,E100341,55000,USD,4
+334,E100333,Wei,Ramirez,Male,1988,38,Single,Bachelor's,2015-03-30,2023-04-06,Did Not Return from Leave,Voluntary,Terminated,Full-Time,4,1023,6,4,E100325,206000,USD,19
+335,E100334,Olivia,Garcia,Female,1982,44,Single,Bachelor's,2020-07-31,,,,Active,Full-Time,4,1022,3,1,E100313,94500,USD,24
+336,E100335,Kevin,Perez,Male,1988,38,Married,Master's,2017-07-17,2025-10-21,Position Eliminated,Involuntary,Terminated,Full-Time,4,1022,3,5,E100316,40500,USD,4
+337,E100336,John,Hernandez,Male,1992,34,Married,Bachelor's,2020-06-29,,,,Active,Full-Time,4,1019,2,5,E100361,24500,USD,6
+338,E100337,Ethan,Young,Male,1981,45,Married,Bachelor's,2019-01-02,,,,Active,Full-Time,4,1023,6,5,E100325,103000,USD,8
+339,E100338,Brian,Silva,Male,1997,29,Married,Bachelor's,2019-06-22,,,,On Leave,Full-Time,4,1019,2,1,E100337,61000,USD,7
+340,E100339,Emma,Garcia,Female,1989,37,Single,Master's,2020-05-29,2025-08-24,Relocation,Voluntary,Terminated,Full-Time,4,1019,2,5,E100343,23500,USD,16
+341,E100340,Andrew,Davis,Male,1994,32,Divorced,Bachelor's,2020-09-16,2022-01-23,Relocation,Voluntary,Terminated,Full-Time,4,1022,3,1,E100319,83000,USD,1
+342,E100341,Neha,Allen,Non-binary,1992,34,Single,Bachelor's,2017-02-22,,,,Active,Full-Time,4,1021,5,5,E100325,67500,USD,4
+343,E100342,Mary,Kim,Female,1985,41,Single,PhD,2016-11-09,,,,Active,Full-Time,4,1023,6,5,E100325,103000,USD,15
+344,E100343,Emma,Clark,Female,1996,30,Single,Bachelor's,2018-04-23,,,,Active,Full-Time,4,1021,5,6,E100325,135500,USD,32
+345,E100344,Arjun,White,Male,1996,30,Single,PhD,2020-07-20,,,,Active,Full-Time,4,1020,3,6,E100311,91000,USD,8
+346,E100345,Olivia,Chen,Female,1985,41,Married,Master's,2020-05-19,,,,Active,Full-Time,4,1020,3,4,E100318,92500,USD,1
+347,E100346,Michael,Wilson,Male,1989,37,Married,Master's,2020-06-24,,,,Active,Full-Time,4,1022,3,2,E100321,100500,USD,14
+348,E100347,David,Jackson,Male,1996,30,Single,Bachelor's,2020-04-22,2022-05-13,Personal Reasons,Voluntary,Terminated,Full-Time,4,1019,2,1,E100343,51500,USD,10
+349,E100348,Ethan,Young,Male,1978,48,Single,Master's,2019-10-02,2025-08-16,Restructuring,Involuntary,Terminated,Full-Time,4,1019,2,1,E100353,80000,USD,32
+350,E100349,Liam,Nair,Male,1989,37,Single,Bachelor's,2017-03-21,,,,Active,Full-Time,4,1022,3,4,E100313,109000,USD,1
+351,E100350,Rohan,Smith,Male,1980,46,Single,Bachelor's,2013-04-23,2025-02-04,Policy Violation,Involuntary,Terminated,Full-Time,4,1020,3,1,E100325,124500,USD,1
+352,E100351,Linda,Anderson,Female,1991,35,Single,Master's,2020-08-02,,,,Active,Full-Time,4,1021,5,2,E100325,137000,USD,3
+353,E100352,Amara,Davis,Non-binary,1990,36,Married,Bachelor's,2018-11-29,2022-03-21,Did Not Return from Leave,Voluntary,Terminated,Full-Time,4,1019,2,4,E100313,65500,USD,5
+354,E100353,John,Wang,Male,1988,38,Single,Bachelor's,2017-05-26,2022-08-01,Retirement,Voluntary,Terminated,Full-Time,4,1021,5,1,E100325,144000,USD,20
+355,E100354,Olivia,Ali,Female,1990,36,Married,High School,2019-12-08,,,,Active,Full-Time,4,1020,3,2,E100316,79500,USD,6
+356,E100355,Ethan,Moore,Male,1978,48,Single,Bachelor's,2020-08-13,2025-01-18,Restructuring,Involuntary,Terminated,Full-Time,4,1021,5,6,E100325,141000,USD,13
+357,E100356,Eric,Walker,Male,1995,31,Married,Bachelor's,2020-10-29,,,,Active,Full-Time,4,1020,3,3,E100359,93500,USD,3
+358,E100357,Rohan,Martinez,Male,1982,44,Single,Bachelor's,2020-10-04,2026-03-23,Better Opportunity,Voluntary,Terminated,Full-Time,4,1020,3,2,E100333,87000,USD,1
+359,E100358,Raj,Nair,Male,1994,32,Married,Master's,2019-10-23,2022-12-27,Retirement,Voluntary,Terminated,Part-Time,4,1019,2,5,E100325,23500,USD,2
+360,E100359,Claire,Rodriguez,Female,1977,49,Married,Master's,2016-03-22,2025-11-04,Did Not Return from Leave,Voluntary,Terminated,Full-Time,4,1023,6,5,E100325,127000,USD,15
+361,E100360,Karen,Nguyen,Female,1991,35,Single,Bachelor's,2017-03-05,,,,Active,Full-Time,4,1020,3,5,E100316,49000,USD,3
+362,E100361,Grace,Perez,Female,1982,44,Single,High School,2016-11-29,,,,Active,Part-Time,4,1021,5,3,E100325,121000,USD,40
+363,E100362,Sophia,Moore,Female,1990,36,Divorced,Bachelor's,2019-11-24,2023-12-09,Relocation,Voluntary,Terminated,Full-Time,4,1022,3,2,E100313,91500,USD,3
+364,E100363,Natalie,Kumar,Female,1975,51,Single,Bachelor's,2013-01-10,2022-07-28,Did Not Return from Leave,Voluntary,Terminated,Full-Time,4,1019,2,4,E000001,87000,USD,6
+365,E100364,Yuki,Young,Female,1999,27,Single,Bachelor's,2020-08-14,2021-06-07,Personal Reasons,Voluntary,Terminated,Full-Time,4,1019,2,2,E100337,50500,USD,1
+366,E100365,Emma,Wright,Female,1991,35,Single,Bachelor's,2018-08-15,,,,Active,Full-Time,4,1021,5,1,E100325,149000,USD,1
+367,E100366,Andrew,Patel,Male,1990,36,Married,Bachelor's,2019-01-29,2024-03-20,Restructuring,Involuntary,Terminated,Part-Time,4,1019,2,5,E100359,29500,USD,9
+368,E100367,Neha,Robinson,Female,1992,34,Single,Master's,2020-04-18,,,,Active,Full-Time,5,1026,3,1,E100441,89500,USD,3
+369,E100368,Rachel,Gonzalez,Female,1990,36,Single,Master's,2020-06-10,,,,On Leave,Full-Time,5,1027,4,6,E100398,106500,USD,2
+370,E100369,Sarah,Shah,Non-binary,1996,30,Single,Bachelor's,2017-12-07,2021-05-08,Position Eliminated,Involuntary,Terminated,Full-Time,5,1024,1,3,E100415,39000,USD,17
+371,E100370,Sanjay,Nguyen,Male,1999,27,Married,High School,2020-08-20,,,,Active,Full-Time,5,1024,1,1,E100445,50000,USD,5
+372,E100371,Andrew,Costa,Male,1985,41,Single,Bachelor's,2018-05-18,2022-08-03,Compensation,Voluntary,Terminated,Full-Time,5,1024,1,4,E100372,48500,USD,13
+373,E100372,Raj,Harris,Male,1983,43,Married,Bachelor's,2017-02-26,2023-06-25,Relocation,Voluntary,Terminated,Full-Time,5,1028,5,5,E100398,62500,USD,3
+374,E100373,Noah,Wang,Male,1986,40,Single,Bachelor's,2020-10-25,2025-12-24,Retirement,Voluntary,Terminated,Full-Time,5,1028,5,1,E100398,174000,USD,6
+375,E100374,Olivia,Williams,Non-binary,1988,38,Divorced,Master's,2019-10-11,2024-01-02,Policy Violation,Involuntary,Terminated,Full-Time,5,1024,1,4,E100372,54000,USD,9
+376,E100375,Wei,Perez,Male,1983,43,Single,Bachelor's,2017-09-05,,,,On Leave,Part-Time,5,1024,1,5,E100372,25500,USD,13
+377,E100376,Rachel,Lewis,Female,1989,37,Married,Bachelor's,2016-11-16,2022-09-28,Restructuring,Involuntary,Terminated,Full-Time,5,1026,3,4,E100411,102500,USD,3
+378,E100377,Raj,Robinson,Male,1983,43,Single,Bachelor's,2017-10-13,2023-03-03,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1026,3,4,E100372,87000,USD,22
+379,E100378,David,Clark,Male,1986,40,Single,Bachelor's,2020-11-26,2021-11-06,Performance,Involuntary,Terminated,Full-Time,5,1026,3,2,E100448,79500,USD,1
+380,E100379,Elizabeth,Jones,Female,1980,46,Married,PhD,2020-05-06,2023-05-17,Position Eliminated,Involuntary,Terminated,Full-Time,5,1024,1,4,E100461,35500,USD,26
+381,E100380,Anthony,Perez,Male,1996,30,Divorced,Bachelor's,2019-02-10,2021-12-12,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1025,2,3,E100468,49500,USD,15
+382,E100381,Neha,Wang,Female,1990,36,Divorced,Bachelor's,2020-03-28,2024-07-27,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1025,2,4,E100437,65500,USD,3
+383,E100382,Andrew,Singh,Male,1982,44,Married,Bachelor's,2020-06-18,2025-09-13,Return to Education,Voluntary,Terminated,Full-Time,5,1026,3,4,E100398,94500,USD,9
+384,E100383,Neha,Lee,Female,1996,30,Married,High School,2020-01-30,,,,Active,Full-Time,5,1024,1,1,E100411,56500,USD,14
+385,E100384,Claire,Silva,Female,1995,31,Divorced,Bachelor's,2020-01-13,,,,Active,Full-Time,5,1024,1,1,E100418,56000,USD,1
+386,E100385,Ava,Williams,Female,1998,28,Single,Bachelor's,2019-04-03,2021-09-25,Did Not Return from Leave,Voluntary,Terminated,Part-Time,5,1025,2,4,E100455,54000,USD,7
+387,E100386,Sarah,Chen,Female,1994,32,Single,Bachelor's,2019-05-03,2023-02-27,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1027,4,6,E100398,112000,USD,13
+388,E100387,Nancy,Anderson,Female,1995,31,Married,Master's,2018-06-25,,,,Active,Full-Time,5,1024,1,1,E100428,61500,USD,8
+389,E100388,Grace,Miller,Female,1984,42,Married,Bachelor's,2018-02-14,,,,Active,Full-Time,5,1026,3,1,E100392,109000,USD,39
+390,E100389,Fatima,Miller,Female,1996,30,Single,Bachelor's,2020-10-02,,,,Active,Full-Time,5,1025,2,4,E100411,71000,USD,1
+391,E100390,Ethan,Martin,Male,1974,52,Married,Master's,2019-06-28,2021-12-12,Relocation,Voluntary,Terminated,Full-Time,5,1026,3,1,E100372,81500,USD,15
+392,E100391,Jennifer,Lee,Female,1986,40,Divorced,High School,2020-01-03,2024-02-25,Better Opportunity,Voluntary,Terminated,Full-Time,5,1026,3,3,E100428,62500,USD,1
+393,E100392,Nancy,Thompson,Female,1982,44,Married,Bachelor's,2017-10-21,2021-10-07,Return to Education,Voluntary,Terminated,Full-Time,5,1028,5,2,E100398,118000,USD,32
+394,E100393,David,Thomas,Male,1991,35,Married,Bachelor's,2020-05-14,,,,Active,Full-Time,5,1024,1,4,E100422,54000,USD,73
+395,E100394,Maria,Singh,Female,1993,33,Married,Bachelor's,2019-09-07,2024-07-24,Better Opportunity,Voluntary,Terminated,Full-Time,5,1024,1,2,E100386,31500,USD,1
+396,E100395,Susan,Lopez,Female,1970,56,Single,Bachelor's,2017-04-22,,,,On Leave,Full-Time,5,1028,5,4,E100398,163500,USD,2
+397,E100396,Sanjay,Harris,Male,1978,48,Married,Bachelor's,2018-02-01,2026-07-27,Retirement,Voluntary,Terminated,Full-Time,5,1024,1,1,E100395,60000,USD,19
+398,E100397,Sarah,Young,Female,1991,35,Single,Bachelor's,2019-04-18,2025-02-07,Compensation,Voluntary,Terminated,Full-Time,5,1024,1,4,E100432,63000,USD,1
+399,E100398,Elizabeth,Anderson,Female,1988,38,Married,Master's,2014-10-31,2024-10-25,Compensation,Voluntary,Terminated,Full-Time,5,1028,5,4,E000001,219000,USD,33
+400,E100399,Anthony,Robinson,Male,1987,39,Married,Bachelor's,2020-09-17,2021-07-18,Policy Violation,Involuntary,Terminated,Full-Time,5,1027,4,6,E100398,81000,USD,13
+401,E100400,James,Robinson,Male,1993,33,Single,Bachelor's,2019-07-24,2023-05-20,Restructuring,Involuntary,Terminated,Full-Time,5,1027,4,6,E100398,92000,USD,1
+402,E100401,Yuki,Wright,Female,1991,35,Single,Master's,2018-12-28,2022-01-23,Policy Violation,Involuntary,Terminated,Full-Time,5,1028,5,2,E100398,120000,USD,20
+403,E100402,Jason,Thompson,Male,1980,46,Married,Bachelor's,2018-10-22,2026-08-03,Restructuring,Involuntary,Terminated,Full-Time,5,1027,4,4,E100398,126500,USD,11
+404,E100403,Nancy,Chen,Non-binary,1980,46,Married,High School,2019-02-20,2024-12-21,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1024,1,1,E100412,52000,USD,2
+405,E100404,Fatima,Taylor,Female,1990,36,Married,Bachelor's,2020-07-22,2023-11-18,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1024,1,2,E100402,41500,USD,21
+406,E100405,Joseph,Gonzalez,Male,1990,36,Married,PhD,2020-08-28,2022-04-14,Policy Violation,Involuntary,Terminated,Full-Time,5,1025,2,1,E100431,55500,USD,1
+407,E100406,Rachel,Walker,Non-binary,1989,37,Divorced,Master's,2020-11-26,2025-05-13,Relocation,Voluntary,Terminated,Full-Time,5,1024,1,3,E100424,41500,USD,1
+408,E100407,Brian,Shah,Male,1999,27,Single,Bachelor's,2020-08-05,2024-08-22,Better Opportunity,Voluntary,Terminated,Full-Time,5,1024,1,1,E100398,48000,USD,1
+409,E100408,Joseph,Khan,Male,1990,36,Single,High School,2020-12-29,,,,Active,Full-Time,5,1026,3,4,E100429,81500,USD,2
+410,E100409,Miguel,Kim,Male,1997,29,Single,Bachelor's,2020-10-10,2021-05-08,Restructuring,Involuntary,Terminated,Full-Time,5,1028,5,4,E100398,138500,USD,13
+411,E100410,James,Shah,Male,1993,33,Single,Master's,2019-04-06,,,,Active,Part-Time,5,1025,2,6,E100412,66000,USD,3
+412,E100411,Chloe,Costa,Female,1995,31,Married,Bachelor's,2016-06-10,2023-06-25,Better Opportunity,Voluntary,Terminated,Full-Time,5,1028,5,1,E100398,129500,USD,21
+413,E100412,Amara,Nair,Non-binary,1980,46,Single,Bachelor's,2017-06-01,,,,On Leave,Full-Time,5,1028,5,1,E100398,147500,USD,8
+414,E100413,Claire,Jackson,Female,1991,35,Married,Bachelor's,2013-12-16,,,,Active,Full-Time,5,1025,2,4,E000001,86000,USD,10
+415,E100414,Sarah,Nair,Female,1998,28,Single,Master's,2019-02-13,,,,On Leave,Full-Time,5,1024,1,3,E100464,58500,USD,5
+416,E100415,Sarah,Chen,Female,1983,43,Married,Bachelor's,2017-09-02,2021-11-09,Performance,Involuntary,Terminated,Full-Time,5,1027,4,1,E100398,126500,USD,3
+417,E100416,Anthony,Singh,Male,1984,42,Married,High School,2019-10-23,2025-08-18,Personal Reasons,Voluntary,Terminated,Full-Time,5,1026,3,3,E100464,70500,USD,34
+418,E100417,Chloe,Kim,Female,1985,41,Married,Bachelor's,2020-07-31,,,,On Leave,Full-Time,5,1025,2,1,E100431,89500,USD,23
+419,E100418,Elizabeth,Chen,Female,1998,28,Married,Master's,2019-02-10,2021-08-09,Retirement,Voluntary,Terminated,Full-Time,5,1028,5,4,E100398,143500,USD,2
+420,E100419,Liam,Wang,Male,1987,39,Married,High School,2020-04-25,2022-06-21,Policy Violation,Involuntary,Terminated,Full-Time,5,1024,1,1,E100435,35500,USD,2
+421,E100420,Diego,Lewis,Male,1976,50,Single,Bachelor's,2019-05-26,2021-07-21,Retirement,Voluntary,Terminated,Full-Time,5,1024,1,2,E100398,47000,USD,19
+422,E100421,Ryan,Ferreira,Male,1986,40,Married,Master's,2015-01-24,,,,On Leave,Part-Time,5,1024,1,1,E100398,80500,USD,15
+423,E100422,Raj,Jackson,Male,1985,41,Single,Bachelor's,2020-04-04,,,,Active,Full-Time,5,1027,4,1,E100398,130500,USD,23
+424,E100423,Kevin,Lopez,Male,1984,42,Single,PhD,2019-06-24,,,,Active,Full-Time,5,1026,3,1,E100401,97000,USD,32
+425,E100424,Diego,Wright,Male,1999,27,Married,Master's,2020-03-17,2024-09-18,Position Eliminated,Involuntary,Terminated,Full-Time,5,1027,4,5,E100398,47500,USD,2
+426,E100425,Anjali,King,Female,1980,46,Single,Bachelor's,2019-06-17,,,,Active,Full-Time,5,1024,1,2,E100401,50000,USD,28
+427,E100426,Karen,Hernandez,Female,1998,28,Divorced,Bachelor's,2019-12-27,2023-01-28,Personal Reasons,Voluntary,Terminated,Full-Time,5,1026,3,5,E100428,33000,USD,1
+428,E100427,Miguel,Walker,Male,1983,43,Married,Master's,2019-07-16,2022-08-23,Relocation,Voluntary,Terminated,Full-Time,5,1024,1,1,E100411,49000,USD,1
+429,E100428,Nancy,Costa,Non-binary,1983,43,Married,Bachelor's,2018-06-05,2021-12-06,Position Eliminated,Involuntary,Terminated,Full-Time,5,1028,5,4,E100398,134500,USD,4
+430,E100429,Hannah,Davis,Female,1988,38,Married,Master's,2017-06-09,,,,Active,Full-Time,5,1028,5,1,E100398,177500,USD,23
+431,E100430,Robert,Martinez,Male,1985,41,Married,Bachelor's,2020-09-10,,,,Active,Full-Time,5,1026,3,5,E100431,42000,USD,15
+432,E100431,Sarah,Singh,Female,1987,39,Married,Bachelor's,2019-08-02,,,,On Leave,Full-Time,5,1027,4,2,E100398,103500,USD,7
+433,E100432,Neha,Patel,Female,1986,40,Single,Master's,2017-02-14,2021-02-11,Restructuring,Involuntary,Terminated,Full-Time,5,1028,5,4,E100398,172000,USD,1
+434,E100433,Diego,Sanchez,Male,1989,37,Single,Master's,2019-11-08,2023-06-11,Position Eliminated,Involuntary,Terminated,Full-Time,5,1027,4,1,E100398,100500,USD,17
+435,E100434,Rohan,Davis,Male,1984,42,Single,Bachelor's,2019-11-27,2022-12-21,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1024,1,1,E100432,48000,USD,8
+436,E100435,Noah,Costa,Male,1997,29,Married,Bachelor's,2019-09-23,2023-11-25,Compensation,Voluntary,Terminated,Full-Time,5,1027,4,3,E100398,103000,USD,18
+437,E100436,Maria,Harris,Female,1994,32,Single,Master's,2020-07-10,2023-03-24,Personal Reasons,Voluntary,Terminated,Full-Time,5,1027,4,4,E100398,84500,USD,4
+438,E100437,Anjali,Miller,Female,1991,35,Single,Master's,2019-01-04,2023-10-20,Policy Violation,Involuntary,Terminated,Full-Time,5,1028,5,2,E100398,128500,USD,16
+439,E100438,Olivia,Johnson,Female,1993,33,Single,High School,2020-08-07,2021-07-16,Restructuring,Involuntary,Terminated,Full-Time,5,1024,1,1,E100386,41500,USD,5
+440,E100439,Ava,Lee,Female,1990,36,Single,Master's,2019-12-21,2026-06-14,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1026,3,4,E100372,77000,USD,23
+441,E100440,Sarah,Wang,Female,1979,47,Married,PhD,2016-07-31,,,,Active,Full-Time,5,1024,1,5,E100398,28500,USD,3
+442,E100441,Miguel,Robinson,Male,1987,39,Married,Bachelor's,2019-04-21,2021-12-04,Better Opportunity,Voluntary,Terminated,Full-Time,5,1028,5,5,E100398,60000,USD,1
+443,E100442,Nancy,Wang,Female,1994,32,Single,Bachelor's,2020-03-12,2021-04-22,Policy Violation,Involuntary,Terminated,Full-Time,5,1024,1,1,E100433,34500,USD,28
+444,E100443,David,Williams,Male,1997,29,Married,Bachelor's,2019-07-06,2021-12-27,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1024,1,1,E100386,40000,USD,1
+445,E100444,Nancy,Young,Female,1994,32,Single,PhD,2020-11-04,2021-11-28,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1028,5,1,E100398,126500,USD,23
+446,E100445,Matthew,Wright,Male,1980,46,Single,Bachelor's,2020-08-06,2026-02-23,Personal Reasons,Voluntary,Terminated,Full-Time,5,1027,4,1,E100398,108500,USD,9
+447,E100446,Jason,White,Male,1997,29,Married,Master's,2020-08-15,,,,Active,Full-Time,5,1026,3,1,E100432,79500,USD,2
+448,E100447,Aisha,Khan,Female,1993,33,Single,Bachelor's,2019-04-06,2021-03-28,Career Change,Voluntary,Terminated,Full-Time,5,1024,1,2,E100415,38500,USD,35
+449,E100448,Grace,Kumar,Female,1988,38,Married,Bachelor's,2020-09-01,,,,Active,Full-Time,5,1027,4,1,E100398,109500,USD,2
+450,E100449,Elizabeth,Clark,Female,1989,37,Married,Bachelor's,2020-08-28,2022-11-03,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1028,5,5,E100398,58500,USD,10
+451,E100450,Natalie,Young,Female,1995,31,Single,Bachelor's,2017-04-19,2021-02-21,Compensation,Voluntary,Terminated,Full-Time,5,1026,3,1,E100432,72500,USD,14
+452,E100451,Karen,Williams,Female,1981,45,Married,High School,2020-01-06,2022-04-27,Better Opportunity,Voluntary,Terminated,Full-Time,5,1027,4,1,E100398,95000,USD,4
+453,E100452,Jessica,Lewis,Female,1985,41,Single,Bachelor's,2020-11-16,2021-12-26,Retirement,Voluntary,Terminated,Full-Time,5,1026,3,1,E100445,67000,USD,29
+454,E100453,Matthew,White,Male,1987,39,Married,Master's,2020-12-28,,,,Active,Full-Time,5,1025,2,1,E100455,68000,USD,9
+455,E100454,Noah,White,Male,1996,30,Married,Bachelor's,2020-07-11,,,,Active,Part-Time,5,1024,1,5,E100437,21000,USD,16
+456,E100455,Wei Ling,Thompson,Female,1991,35,Divorced,Bachelor's,2019-01-01,2023-08-14,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1027,4,1,E100398,100000,USD,39
+457,E100456,Anthony,Gonzalez,Male,1995,31,Married,Master's,2019-09-17,2021-05-05,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1025,2,2,E100392,55000,USD,6
+458,E100457,Rachel,Robinson,Non-binary,1985,41,Married,Bachelor's,2016-11-07,2024-11-05,Position Eliminated,Involuntary,Terminated,Full-Time,5,1026,3,5,E100398,42500,USD,6
+459,E100458,Daniel,Wang,Male,1984,42,Single,Master's,2018-07-16,2024-11-15,Better Opportunity,Voluntary,Terminated,Full-Time,5,1025,2,5,E100415,30500,USD,2
+460,E100459,Mary,Brown,Female,1997,29,Married,Bachelor's,2020-03-30,2023-06-11,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1026,3,3,E100455,51500,USD,1
+461,E100460,Sarah,Rodriguez,Female,1984,42,Married,Bachelor's,2020-06-30,2021-11-21,Policy Violation,Involuntary,Terminated,Full-Time,5,1024,1,1,E100392,45500,USD,11
+462,E100461,Jessica,Jones,Female,1997,29,Married,High School,2018-02-11,2021-11-12,Policy Violation,Involuntary,Terminated,Full-Time,5,1027,4,6,E100398,110000,USD,20
+463,E100462,Ava,Wilson,Female,1988,38,Married,High School,2019-01-02,,,,On Leave,Full-Time,5,1025,2,3,E100412,60500,USD,22
+464,E100463,Natalie,Anderson,Female,1988,38,Single,High School,2020-07-24,2021-10-23,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1025,2,1,E100412,64500,USD,9
+465,E100464,David,Nair,Male,1983,43,Single,High School,2016-09-16,2025-10-20,Restructuring,Involuntary,Terminated,Full-Time,5,1028,5,2,E100398,206000,USD,1
+466,E100465,Sanjay,Martinez,Male,1999,27,Divorced,Master's,2020-03-18,2022-07-04,Retirement,Voluntary,Terminated,Full-Time,5,1025,2,4,E100401,69500,USD,17
+467,E100466,Ava,Taylor,Non-binary,1998,28,Married,Bachelor's,2019-01-13,,,,Active,Full-Time,5,1024,1,4,E100464,73000,USD,8
+468,E100467,Patricia,Kim,Female,1991,35,Single,Bachelor's,2020-07-09,2025-06-04,Relocation,Voluntary,Terminated,Full-Time,5,1027,4,1,E100398,91500,USD,32
+469,E100468,Elizabeth,Smith,Female,1972,54,Divorced,High School,2015-05-17,2021-03-16,Return to Education,Voluntary,Terminated,Full-Time,5,1027,4,2,E100398,80500,USD,16
+470,E100469,Diego,Thomas,Male,1973,53,Single,High School,2019-07-18,,,,Active,Full-Time,6,1029,2,6,E100480,75500,USD,21
+471,E100470,Mary,Lopez,Female,1999,27,Single,High School,2020-05-26,,,,Active,Full-Time,6,1029,2,3,E100486,57000,USD,1
+472,E100471,David,Costa,Male,1994,32,Married,Bachelor's,2020-11-25,,,,Active,Full-Time,6,1030,4,5,E100496,41000,USD,4
+473,E100472,John,Costa,Male,1994,32,Single,Bachelor's,2020-10-03,,,,Active,Full-Time,6,1030,4,1,E100480,135500,USD,7
+474,E100473,Jason,Nguyen,Male,1981,45,Single,Bachelor's,2017-11-19,,,,Active,Full-Time,6,1030,4,2,E100491,113000,USD,9
+475,E100474,Wei,Miller,Male,1974,52,Married,High School,2019-05-31,,,,Active,Full-Time,6,1029,2,1,E100493,69000,USD,32
+476,E100475,Matthew,Iyer,Male,1993,33,Married,Bachelor's,2019-02-13,2021-12-05,Restructuring,Involuntary,Terminated,Full-Time,6,1029,2,4,E100486,78000,USD,4
+477,E100476,Diego,Kim,Male,1985,41,Single,Master's,2020-07-04,,,,Active,Full-Time,6,1033,6,5,E100493,82000,USD,3
+478,E100477,Emma,Wang,Female,1997,29,Married,Bachelor's,2018-11-23,,,,Active,Full-Time,6,1029,2,2,E100486,67000,USD,1
+479,E100478,Jennifer,Walker,Female,1993,33,Single,Master's,2020-12-04,2022-11-15,Better Opportunity,Voluntary,Terminated,Full-Time,6,1030,4,5,E100486,44000,USD,32
+480,E100479,Grace,Singh,Female,1984,42,Married,Master's,2017-12-10,,,,Active,Full-Time,6,1033,6,4,E100493,246000,USD,2
+481,E100480,Ethan,Lewis,Male,1996,30,Single,PhD,2017-06-26,,,,Active,Full-Time,6,1033,6,1,E100493,233500,USD,15
+482,E100481,David,Jones,Male,1976,50,Married,Bachelor's,2013-02-03,2021-03-21,Relocation,Voluntary,Terminated,Full-Time,6,1031,3,5,E000001,42000,USD,7
+483,E100482,Chen,Chen,Male,1996,30,Single,Bachelor's,2018-01-08,,,,On Leave,Full-Time,6,1029,2,1,E100496,79000,USD,1
+484,E100483,Fatima,Lee,Female,1978,48,Single,Bachelor's,2019-01-29,,,,Active,Full-Time,6,1033,6,1,E100493,271500,USD,14
+485,E100484,Chen,King,Male,1993,33,Married,Master's,2018-08-15,2023-08-03,Restructuring,Involuntary,Terminated,Full-Time,6,1029,2,2,E100486,59000,USD,10
+486,E100485,Arjun,Nair,Male,1996,30,Married,Bachelor's,2017-06-27,2024-03-16,Compensation,Voluntary,Terminated,Full-Time,6,1033,6,3,E100493,165500,USD,2
+487,E100486,Diego,Khan,Male,1988,38,Single,Bachelor's,2017-02-24,,,,On Leave,Full-Time,6,1032,5,1,E100493,182000,USD,4
+488,E100487,Liam,Wang,Male,1992,34,Single,Master's,2020-07-14,2022-03-20,Performance,Involuntary,Terminated,Full-Time,6,1029,2,2,E100496,58000,USD,53
+489,E100488,Ava,Ferreira,Female,1993,33,Divorced,High School,2019-07-18,2023-05-12,Better Opportunity,Voluntary,Terminated,Full-Time,6,1029,2,5,E100485,31500,USD,15
+490,E100489,Grace,Lewis,Female,1991,35,Single,Master's,2020-04-10,,,,On Leave,Full-Time,6,1029,2,1,E100485,61500,USD,17
+491,E100490,Grace,Perez,Female,1973,53,Married,Master's,2016-01-30,,,,On Leave,Full-Time,6,1031,3,3,E100491,64000,USD,11
+492,E100491,Neha,Clark,Female,1994,32,Single,Bachelor's,2015-04-01,2022-04-26,Personal Reasons,Voluntary,Terminated,Part-Time,6,1033,6,3,E100493,159500,USD,1
+493,E100492,Priya,Ramirez,Female,1985,41,Single,Bachelor's,2019-02-07,,,,Active,Full-Time,6,1029,2,1,E100479,63500,USD,4
+494,E100493,Anthony,White,Male,1978,48,Single,Bachelor's,2013-07-12,2024-06-08,Did Not Return from Leave,Voluntary,Terminated,Full-Time,6,1033,6,2,E000001,231000,USD,15
+495,E100494,Linda,Garcia,Female,1983,43,Single,PhD,2013-03-22,2021-10-08,Career Change,Voluntary,Terminated,Full-Time,6,1030,4,3,E000001,93000,USD,8
+496,E100495,Linda,Ramirez,Female,1987,39,Single,Bachelor's,2018-12-21,2026-08-11,Career Change,Voluntary,Terminated,Full-Time,6,1029,2,3,E100496,82000,USD,6
+497,E100496,Mason,White,Male,1992,34,Married,Bachelor's,2017-08-27,,,,Active,Full-Time,6,1032,5,5,E100493,69000,USD,8
+498,E100497,Ava,Brown,Female,1999,27,Married,Bachelor's,2020-05-04,,,,On Leave,Full-Time,6,1029,2,4,E100496,77000,USD,24
+499,E100498,Ava,Patel,Female,1986,40,Single,Master's,2019-01-29,2025-07-28,Position Eliminated,Involuntary,Terminated,Full-Time,6,1031,3,2,E100496,80500,USD,40
+500,E100499,John,Clark,Male,1993,33,Single,Master's,2014-01-09,2025-06-03,Did Not Return from Leave,Voluntary,Terminated,Full-Time,6,1030,4,2,E100493,122000,USD,1
+501,E100500,Noah,Silva,Male,1988,38,Single,Bachelor's,2019-12-06,2026-01-09,Career Change,Voluntary,Terminated,Part-Time,6,1030,4,2,E100491,91500,USD,6
+502,E100501,Raj,Ferreira,Male,1984,42,Single,Master's,2019-09-17,,,,Active,Full-Time,7,1036,3,6,E100505,86500,USD,10
+503,E100502,Joseph,Nair,Male,1978,48,Single,PhD,2018-01-16,,,,Active,Full-Time,7,1034,3,5,E100512,36000,USD,2
+504,E100503,John,Shah,Male,1993,33,Single,Master's,2020-01-24,,,,Active,Full-Time,7,1037,5,3,E100535,122000,USD,5
+505,E100504,Elizabeth,Kim,Female,1994,32,Single,Bachelor's,2019-11-30,2026-01-22,Did Not Return from Leave,Voluntary,Terminated,Full-Time,7,1039,6,6,E100535,210000,USD,8
+506,E100505,Sanjay,Miller,Male,1978,48,Married,High School,2017-09-11,2024-04-16,Better Opportunity,Voluntary,Terminated,Full-Time,7,1039,6,5,E100535,85500,USD,4
+507,E100506,Rohan,White,Male,1990,36,Single,Master's,2018-05-28,,,,Active,Full-Time,7,1038,6,2,E100535,203000,USD,52
+508,E100507,Anthony,Shah,Male,1988,38,Single,Bachelor's,2020-06-11,2023-12-06,Did Not Return from Leave,Voluntary,Terminated,Full-Time,7,1037,5,4,E100535,161500,USD,10
+509,E100508,Kevin,Patel,Male,1997,29,Single,Bachelor's,2018-10-22,,,,Active,Full-Time,7,1036,3,1,E100513,87500,USD,4
+510,E100509,Natalie,Iyer,Non-binary,1995,31,Married,High School,2020-05-07,2023-12-08,Position Eliminated,Involuntary,Terminated,Full-Time,7,1036,3,1,E100505,77000,USD,21
+511,E100510,Wei Ling,Patel,Female,1985,41,Married,High School,2019-02-09,2025-06-17,Better Opportunity,Voluntary,Terminated,Full-Time,7,1037,5,3,E100535,118500,USD,4
+512,E100511,Raj,Kim,Male,1993,33,Married,High School,2019-04-09,,,,Active,Full-Time,7,1034,3,4,E100505,103000,USD,24
+513,E100512,Karen,Johnson,Female,1980,46,Single,Bachelor's,2017-02-16,2022-01-12,Performance,Involuntary,Terminated,Part-Time,7,1038,6,1,E100535,184000,USD,11
+514,E100513,Ethan,Silva,Male,1994,32,Divorced,Bachelor's,2017-01-15,,,,On Leave,Full-Time,7,1038,6,1,E100535,266000,USD,32
+515,E100514,Andrew,Thompson,Male,1982,44,Married,Bachelor's,2020-12-12,,,,Active,Full-Time,7,1037,5,5,E100535,71000,USD,48
+516,E100515,Sanjay,Martinez,Male,1978,48,Single,Bachelor's,2015-08-30,2022-06-21,Did Not Return from Leave,Voluntary,Terminated,Full-Time,7,1037,5,1,E100535,170000,USD,31
+517,E100516,Neha,Jones,Female,1976,50,Single,Master's,2018-10-01,2024-01-11,Restructuring,Involuntary,Terminated,Full-Time,7,1035,4,3,E100518,78000,USD,15
+518,E100517,Liam,Johnson,Male,1993,33,Married,Bachelor's,2020-04-26,,,,On Leave,Full-Time,7,1035,4,1,E100535,126000,USD,1
+519,E100518,Arjun,Wilson,Male,1987,39,Married,Bachelor's,2018-07-24,,,,Active,Full-Time,7,1038,6,1,E100535,250500,USD,2
+520,E100519,Jason,Perez,Male,1992,34,Single,Master's,2020-10-07,,,,Active,Full-Time,7,1039,6,5,E100535,110000,USD,2
+521,E100520,Joseph,Ferreira,Male,1999,27,Single,High School,2020-07-18,,,,On Leave,Full-Time,7,1034,3,1,E100538,99000,USD,20
+522,E100521,Wei,Nair,Male,1985,41,Married,Bachelor's,2020-02-19,2024-01-10,Return to Education,Voluntary,Terminated,Full-Time,7,1035,4,4,E100533,144000,USD,1
+523,E100522,Michael,Martinez,Male,1987,39,Single,High School,2020-09-12,2022-02-19,Retirement,Voluntary,Terminated,Full-Time,7,1037,5,5,E100535,59500,USD,10
+524,E100523,Chen,Brown,Male,1984,42,Single,PhD,2018-11-20,2024-01-24,Did Not Return from Leave,Voluntary,Terminated,Full-Time,7,1038,6,4,E100535,234000,USD,10
+525,E100524,Karen,Lewis,Female,1999,27,Divorced,Bachelor's,2020-08-08,2021-04-09,Personal Reasons,Voluntary,Terminated,Full-Time,7,1037,5,1,E100535,113000,USD,17
+526,E100525,Olivia,Nair,Female,1998,28,Married,Master's,2019-06-24,,,,Active,Full-Time,7,1039,6,1,E100535,242500,USD,7
+527,E100526,Anthony,Wilson,Male,1996,30,Married,Bachelor's,2019-11-11,2026-05-14,Performance,Involuntary,Terminated,Full-Time,7,1039,6,2,E100535,181500,USD,3
+528,E100527,Patricia,Thompson,Female,1987,39,Single,Bachelor's,2016-01-11,2024-10-09,Did Not Return from Leave,Voluntary,Terminated,Full-Time,7,1034,3,4,E100532,107500,USD,1
+529,E100528,Joseph,Singh,Male,1988,38,Single,Bachelor's,2020-08-30,,,,On Leave,Full-Time,7,1034,3,2,E100513,92500,USD,1
+530,E100529,Olivia,King,Female,1981,45,Married,Bachelor's,2020-08-08,,,,Active,Full-Time,7,1039,6,5,E100535,85000,USD,1
+531,E100530,Jennifer,Anderson,Female,1987,39,Married,PhD,2019-09-01,,,,On Leave,Part-Time,7,1039,6,4,E100535,244500,USD,13
+532,E100531,Chen,Brown,Male,1990,36,Single,Bachelor's,2020-05-22,2021-02-01,Position Eliminated,Involuntary,Terminated,Full-Time,7,1038,6,1,E100535,177000,USD,17
+533,E100532,Joseph,Wilson,Male,1993,33,Single,High School,2014-12-13,2024-05-12,Restructuring,Involuntary,Terminated,Full-Time,7,1039,6,1,E100535,249000,USD,29
+534,E100533,Chloe,Taylor,Female,1978,48,Single,Bachelor's,2018-10-19,2024-12-21,Return to Education,Voluntary,Terminated,Full-Time,7,1037,5,1,E100535,132000,USD,10
+535,E100534,John,Smith,Male,1993,33,Divorced,Bachelor's,2020-10-02,,,,Active,Full-Time,7,1034,3,5,E100522,42000,USD,13
+536,E100535,Grace,Lopez,Female,1986,40,Single,Bachelor's,2013-08-07,,,,Active,Full-Time,7,1039,6,3,E000001,256000,USD,5
+537,E100536,Rohan,Ali,Male,1996,30,Single,PhD,2020-10-19,,,,Active,Full-Time,7,1035,4,6,E100503,108000,USD,3
+538,E100537,Rohan,Kim,Male,1985,41,Single,Master's,2020-11-04,,,,On Leave,Full-Time,7,1034,3,1,E100504,86500,USD,2
+539,E100538,Linda,Sanchez,Female,1991,35,Divorced,Bachelor's,2020-01-07,2024-10-21,Performance,Involuntary,Terminated,Full-Time,7,1037,5,1,E100535,134500,USD,6
+540,E100539,Jennifer,Ramirez,Female,1975,51,Single,High School,2017-07-03,2025-05-05,Return to Education,Voluntary,Terminated,Full-Time,8,1042,5,5,E100544,70000,USD,24
+541,E100540,Raj,Jones,Male,1978,48,Single,PhD,2020-05-30,2026-03-26,Performance,Involuntary,Terminated,Full-Time,8,1040,3,5,E100544,38000,USD,23
+542,E100541,Maria,Ramirez,Female,1998,28,Single,Master's,2019-11-09,,,,Active,Full-Time,8,1042,5,1,E100544,189000,USD,15
+543,E100542,Fatima,Chen,Female,1990,36,Married,Master's,2020-06-02,2024-09-03,Return to Education,Voluntary,Terminated,Full-Time,8,1043,6,4,E100544,195500,USD,3
+544,E100543,John,Sanchez,Male,1995,31,Divorced,Bachelor's,2016-07-25,2021-08-24,Compensation,Voluntary,Terminated,Full-Time,8,1042,5,3,E100544,130000,USD,10
+545,E100544,Andrew,Hernandez,Male,1976,50,Married,Bachelor's,2015-07-15,,,,Active,Full-Time,8,1043,6,3,E000001,244000,USD,3
+546,E100545,Laura,Robinson,Female,1970,56,Single,High School,2015-08-02,,,,Active,Full-Time,8,1041,5,6,E100544,179500,USD,7
+547,E100546,Amara,White,Female,1987,39,Married,Bachelor's,2017-09-10,,,,On Leave,Full-Time,8,1041,5,1,E100544,168000,USD,1
+548,E100547,Sarah,Ramirez,Female,1990,36,Married,Master's,2013-02-14,,,,Active,Full-Time,8,1042,5,2,E000001,208000,USD,11
+549,E100548,Sophia,Garcia,Female,1981,45,Married,Bachelor's,2016-02-06,2025-03-09,Did Not Return from Leave,Voluntary,Terminated,Full-Time,8,1040,3,2,E100544,112500,USD,3
+550,E100549,Joseph,Costa,Male,1998,28,Single,Master's,2019-11-03,,,,Active,Full-Time,8,1040,3,1,E100551,77000,USD,1
+551,E100550,Andrew,Nguyen,Male,1987,39,Single,Master's,2018-11-11,,,,Active,Full-Time,8,1040,3,2,E100544,98500,USD,17
+552,E100551,Arjun,Chen,Male,1986,40,Married,Bachelor's,2019-07-20,2026-05-04,Career Change,Voluntary,Terminated,Part-Time,8,1043,6,5,E100544,102000,USD,1
+553,E100552,Arjun,Gonzalez,Male,1994,32,Married,Master's,2020-08-24,,,,Active,Full-Time,9,1046,4,4,E100555,125500,USD,9
+554,E100553,Anjali,Thompson,Female,1989,37,Single,Bachelor's,2019-08-26,2022-04-16,Did Not Return from Leave,Voluntary,Terminated,Full-Time,9,1045,3,1,E100580,87000,USD,24
+555,E100554,Natalie,Wang,Female,1977,49,Married,Bachelor's,2018-11-30,,,,Active,Full-Time,9,1044,2,6,E100555,59500,USD,20
+556,E100555,Anthony,Gonzalez,Male,1987,39,Single,Bachelor's,2013-03-08,2022-05-01,Personal Reasons,Voluntary,Terminated,Full-Time,9,1047,5,3,E000001,210000,USD,23
+557,E100556,David,Silva,Male,1976,50,Married,Bachelor's,2020-10-10,2023-12-07,Performance,Involuntary,Terminated,Full-Time,9,1044,2,1,E100562,55500,USD,3
+558,E100557,Linda,Lopez,Female,1987,39,Single,Master's,2018-10-05,,,,Active,Full-Time,9,1044,2,4,E100555,73500,USD,1
+559,E100558,Wei Ling,Young,Female,1997,29,Married,Bachelor's,2019-06-15,,,,Active,Full-Time,9,1047,5,6,E100555,151000,USD,8
+560,E100559,Wei,Silva,Male,1992,34,Married,Bachelor's,2019-08-07,,,,Active,Full-Time,9,1045,3,5,E100580,47000,USD,7
+561,E100560,Yuki,Shah,Female,1999,27,Single,Bachelor's,2020-02-10,,,,Active,Full-Time,9,1044,2,1,E100566,63000,USD,1
+562,E100561,Laura,Lee,Female,1996,30,Single,Bachelor's,2020-02-23,2026-07-09,Did Not Return from Leave,Voluntary,Terminated,Full-Time,9,1046,4,3,E100566,73000,USD,17
+563,E100562,Wei Ling,Lee,Female,1988,38,Single,Bachelor's,2020-06-30,,,,Active,Full-Time,9,1047,5,1,E100555,163000,USD,16
+564,E100563,Robert,Walker,Male,1993,33,Divorced,Bachelor's,2020-11-19,,,,On Leave,Full-Time,9,1048,4,1,E100566,120000,USD,8
+565,E100564,Joseph,Moore,Male,1982,44,Divorced,Bachelor's,2020-10-25,2025-12-10,Retirement,Voluntary,Terminated,Full-Time,9,1044,2,6,E100580,60000,USD,14
+566,E100565,Anjali,Allen,Female,1991,35,Single,Bachelor's,2018-08-21,,,,Active,Full-Time,9,1048,4,1,E100555,121500,USD,5
+567,E100566,Jason,Lewis,Male,1977,49,Married,Master's,2017-11-24,2025-04-15,Did Not Return from Leave,Voluntary,Terminated,Full-Time,9,1047,5,1,E100555,177500,USD,5
+568,E100567,Ryan,Jackson,Male,1990,36,Divorced,Bachelor's,2020-10-01,,,,Active,Full-Time,9,1048,4,5,E100558,49000,USD,1
+569,E100568,Sanjay,Garcia,Male,1992,34,Single,Master's,2020-11-10,2022-06-18,Did Not Return from Leave,Voluntary,Terminated,Full-Time,9,1044,2,1,E100566,62000,USD,4
+570,E100569,Sophia,Harris,Female,1999,27,Married,Bachelor's,2020-05-16,,,,Active,Full-Time,9,1045,3,1,E100555,85000,USD,9
+571,E100570,Rohan,Costa,Male,1989,37,Single,PhD,2020-08-04,2022-08-09,Position Eliminated,Involuntary,Terminated,Full-Time,9,1044,2,2,E100562,46500,USD,19
+572,E100571,Emma,Shah,Female,1984,42,Divorced,Master's,2017-08-04,2023-12-24,Policy Violation,Involuntary,Terminated,Full-Time,9,1046,4,1,E100555,115000,USD,3
+573,E100572,Priya,Nair,Female,1982,44,Divorced,Bachelor's,2016-12-10,,,,Active,Full-Time,9,1045,3,1,E100555,106500,USD,35
+574,E100573,David,Brown,Male,1991,35,Single,Master's,2020-05-06,,,,Active,Full-Time,9,1045,3,2,E100580,76000,USD,1
+575,E100574,Diego,Perez,Male,1997,29,Single,Bachelor's,2020-01-01,,,,Active,Full-Time,9,1045,3,1,E100580,100500,USD,11
+576,E100575,Linda,Allen,Non-binary,1981,45,Single,Bachelor's,2020-09-20,2023-10-10,Return to Education,Voluntary,Terminated,Full-Time,9,1048,4,5,E100558,40500,USD,12
+577,E100576,Jennifer,Thomas,Female,1983,43,Married,Bachelor's,2018-09-09,,,,Active,Full-Time,9,1048,4,5,E100566,61000,USD,19
+578,E100577,Emma,King,Female,1992,34,Married,Bachelor's,2018-03-15,,,,Active,Full-Time,9,1044,2,3,E100566,58000,USD,21
+579,E100578,Susan,White,Female,1992,34,Divorced,High School,2020-06-21,2022-07-07,Position Eliminated,Involuntary,Terminated,Full-Time,9,1044,2,5,E100566,26000,USD,12
+580,E100579,Joseph,Harris,Male,1975,51,Single,Master's,2020-01-21,2022-11-19,Did Not Return from Leave,Voluntary,Terminated,Full-Time,9,1048,4,1,E100580,106500,USD,21
+581,E100580,Andrew,Singh,Male,1984,42,Married,Bachelor's,2019-03-09,2021-05-03,Position Eliminated,Involuntary,Terminated,Part-Time,9,1047,5,4,E100555,138000,USD,7
+582,E100581,Hannah,Chen,Female,1985,41,Single,Master's,2020-08-31,,,,Active,Full-Time,9,1045,3,6,E100580,86000,USD,18
+583,E100582,Linda,Perez,Female,1984,42,Single,Bachelor's,2019-09-20,2022-11-19,Retirement,Voluntary,Terminated,Full-Time,9,1045,3,5,E100555,33500,USD,19
+584,E100583,Noah,Harris,Male,1997,29,Married,Bachelor's,2020-01-07,,,,Active,Full-Time,9,1046,4,4,E100580,107500,USD,11
+585,E100584,Mason,Kim,Male,1988,38,Married,High School,2019-06-09,,,,Active,Full-Time,9,1046,4,2,E100555,119500,USD,15
+586,E100585,Laura,Martinez,Female,1994,32,Single,Bachelor's,2019-04-22,,,,On Leave,Full-Time,9,1045,3,1,E100566,103500,USD,12
+587,E100586,Wei,Kim,Male,1996,30,Single,Bachelor's,2017-03-05,,,,Active,Full-Time,9,1046,4,1,E100555,163000,USD,10
+588,E100587,Ryan,Martin,Male,1981,45,Married,Bachelor's,2015-06-05,,,,On Leave,Full-Time,9,1048,4,3,E100555,135000,USD,7
+589,E100588,Fatima,Kim,Non-binary,1988,38,Married,Bachelor's,2019-01-31,,,,Active,Full-Time,9,1045,3,1,E100566,109500,USD,29
+590,E100589,Chen,Ali,Male,1989,37,Single,Bachelor's,2020-06-27,2022-06-26,Performance,Involuntary,Terminated,Full-Time,9,1044,2,5,E100566,27500,USD,9
+591,E100590,Nancy,Patel,Female,1988,38,Married,Master's,2018-01-07,,,,Active,Part-Time,10,1050,3,4,E100613,94500,USD,3
+592,E100591,Diego,Perez,Male,1986,40,Married,High School,2019-06-27,2021-03-28,Restructuring,Involuntary,Terminated,Full-Time,10,1050,3,3,E100619,69000,USD,4
+593,E100592,Yuki,Khan,Female,1988,38,Married,Bachelor's,2020-03-04,,,,Active,Full-Time,10,1051,5,6,E100621,140500,USD,6
+594,E100593,Aisha,Singh,Female,1987,39,Single,Bachelor's,2019-12-07,2021-12-10,Did Not Return from Leave,Voluntary,Terminated,Full-Time,10,1053,2,5,E100608,23500,USD,35
+595,E100594,Linda,Wang,Female,1988,38,Married,Bachelor's,2017-10-19,2024-07-08,Relocation,Voluntary,Terminated,Full-Time,10,1050,3,4,E100614,90500,USD,9
+596,E100595,Sophia,White,Female,1998,28,Married,PhD,2019-03-27,,,,Active,Full-Time,10,1049,2,1,E100628,68500,USD,1
+597,E100596,Joseph,Lopez,Male,1992,34,Divorced,Bachelor's,2019-03-29,2023-12-12,Career Change,Voluntary,Terminated,Full-Time,10,1053,2,6,E100628,54000,USD,6
+598,E100597,Priya,Nguyen,Female,1988,38,Single,Bachelor's,2020-11-29,2022-01-09,Relocation,Voluntary,Terminated,Full-Time,10,1050,3,1,E100609,72500,USD,32
+599,E100598,Sarah,Rodriguez,Female,1992,34,Married,Master's,2017-10-21,,,,On Leave,Full-Time,10,1052,6,5,E100621,114000,USD,1
+600,E100599,Joseph,Miller,Male,1973,53,Single,Bachelor's,2019-05-09,,,,On Leave,Full-Time,10,1049,2,4,E100613,74000,USD,11
+601,E100600,Ava,Costa,Female,1991,35,Single,Master's,2020-03-22,2023-02-08,Return to Education,Voluntary,Terminated,Full-Time,10,1050,3,1,E100592,70500,USD,1
+602,E100601,Jennifer,Kim,Female,1985,41,Married,Master's,2019-08-04,2024-12-26,Retirement,Voluntary,Terminated,Full-Time,10,1049,2,1,E100628,61500,USD,8
+603,E100602,Carlos,Iyer,Male,1990,36,Married,Bachelor's,2020-06-02,2024-11-04,Did Not Return from Leave,Voluntary,Terminated,Full-Time,10,1053,2,5,E100636,25500,USD,78
+604,E100603,Brian,Martinez,Male,1989,37,Married,Bachelor's,2020-12-12,2021-12-12,Position Eliminated,Involuntary,Terminated,Full-Time,10,1053,2,2,E100623,57500,USD,2
+605,E100604,Miguel,Khan,Male,1996,30,Married,Bachelor's,2017-05-29,2023-12-02,Policy Violation,Involuntary,Terminated,Full-Time,10,1053,2,1,E100621,65500,USD,7
+606,E100605,Hannah,Hernandez,Female,1997,29,Married,Bachelor's,2020-02-10,2026-04-20,Return to Education,Voluntary,Terminated,Full-Time,10,1051,5,4,E100621,159000,USD,14
+607,E100606,Jennifer,Clark,Female,1993,33,Single,Master's,2019-03-14,,,,Active,Full-Time,10,1050,3,2,E100613,92500,USD,14
+608,E100607,Mason,Thomas,Male,1979,47,Single,Bachelor's,2015-06-13,,,,Active,Full-Time,10,1050,3,2,E100621,130000,USD,2
+609,E100608,Laura,Jackson,Non-binary,1992,34,Married,Bachelor's,2017-07-25,2021-05-06,Did Not Return from Leave,Voluntary,Terminated,Full-Time,10,1051,5,2,E100621,135500,USD,3
+610,E100609,Hannah,Lewis,Female,1994,32,Single,Bachelor's,2015-06-05,,,,Active,Full-Time,10,1052,6,3,E100621,229000,USD,33
+611,E100610,Matthew,Martin,Male,1981,45,Single,Bachelor's,2020-03-11,2021-04-22,Better Opportunity,Voluntary,Terminated,Full-Time,10,1053,2,5,E100621,25000,USD,15
+612,E100611,Hannah,Walker,Non-binary,1981,45,Married,Bachelor's,2020-09-27,,,,Active,Full-Time,10,1050,3,3,E100617,84500,USD,6
+613,E100612,Jessica,White,Female,1994,32,Divorced,Bachelor's,2020-09-04,,,,Active,Full-Time,10,1052,6,3,E100621,163500,USD,7
+614,E100613,Maria,Lewis,Female,1990,36,Married,Master's,2017-11-24,2022-08-21,Restructuring,Involuntary,Terminated,Full-Time,10,1052,6,3,E100621,165000,USD,1
+615,E100614,Joseph,Nguyen,Male,1988,38,Single,Bachelor's,2016-08-06,2022-11-03,Relocation,Voluntary,Terminated,Full-Time,10,1051,5,1,E100621,134000,USD,4
+616,E100615,Arjun,Clark,Male,1986,40,Married,Bachelor's,2019-02-19,,,,On Leave,Full-Time,10,1050,3,2,E100621,86000,USD,5
+617,E100616,Natalie,Gonzalez,Non-binary,1979,47,Married,Bachelor's,2017-05-18,,,,Active,Full-Time,10,1050,3,1,E100636,105500,USD,3
+618,E100617,Elizabeth,Taylor,Female,1982,44,Married,Bachelor's,2016-08-10,2025-02-14,Return to Education,Voluntary,Terminated,Full-Time,10,1051,5,4,E100621,167500,USD,13
+619,E100618,Eric,White,Male,1998,28,Single,Bachelor's,2020-01-14,,,,On Leave,Full-Time,10,1053,2,2,E100636,77000,USD,20
+620,E100619,Patricia,Ali,Female,1980,46,Single,High School,2015-02-27,,,,Active,Full-Time,10,1051,5,4,E100621,205000,USD,3
+621,E100620,Rachel,Davis,Female,1989,37,Married,High School,2020-03-31,2022-11-06,Performance,Involuntary,Terminated,Full-Time,10,1053,2,1,E100628,65000,USD,1
+622,E100621,Carlos,Hernandez,Male,1990,36,Single,Bachelor's,2013-11-01,,,,Active,Full-Time,10,1052,6,3,E000001,237000,USD,2
+623,E100622,Amit,Allen,Male,1990,36,Married,High School,2020-09-27,2024-04-23,Position Eliminated,Involuntary,Terminated,Part-Time,10,1051,5,5,E100621,66000,USD,6
+624,E100623,Kevin,Garcia,Male,1982,44,Single,Bachelor's,2020-04-04,,,,On Leave,Full-Time,10,1051,5,2,E100621,140500,USD,18
+625,E100624,Sarah,Lewis,Female,1992,34,Single,Master's,2015-10-23,,,,Active,Full-Time,10,1053,2,1,E100621,72500,USD,2
+626,E100625,Amara,Johnson,Female,1988,38,Married,Bachelor's,2019-10-08,2022-09-10,Better Opportunity,Voluntary,Terminated,Full-Time,10,1050,3,5,E100621,35000,USD,15
+627,E100626,Brian,Allen,Male,1990,36,Married,Bachelor's,2016-06-07,,,,Active,Full-Time,10,1053,2,5,E100619,38000,USD,4
+628,E100627,Brian,Garcia,Male,1994,32,Single,Bachelor's,2019-08-14,2021-10-10,Relocation,Voluntary,Terminated,Full-Time,10,1050,3,6,E100617,68000,USD,6
+629,E100628,James,Lee,Male,1987,39,Married,High School,2017-06-19,2024-05-09,Career Change,Voluntary,Terminated,Full-Time,10,1052,6,2,E100621,192500,USD,19
+630,E100629,Natalie,Ali,Female,1991,35,Divorced,Bachelor's,2019-07-30,,,,Active,Full-Time,10,1049,2,1,E100628,110500,USD,2
+631,E100630,Hannah,Martinez,Female,1990,36,Divorced,Bachelor's,2020-06-22,2023-02-16,Performance,Involuntary,Terminated,Full-Time,10,1052,6,2,E100621,168000,USD,11
+632,E100631,Joseph,Walker,Male,1993,33,Single,Bachelor's,2020-08-15,2024-10-23,Restructuring,Involuntary,Terminated,Full-Time,10,1053,2,5,E100617,27000,USD,28
+633,E100632,Elizabeth,Silva,Female,1995,31,Divorced,Bachelor's,2017-08-29,2021-07-23,Position Eliminated,Involuntary,Terminated,Full-Time,10,1049,2,2,E100609,47000,USD,28
+634,E100633,Emma,Iyer,Female,1991,35,Divorced,Bachelor's,2014-01-16,2024-11-26,Compensation,Voluntary,Terminated,Full-Time,10,1049,2,3,E100621,58500,USD,11
+635,E100634,Robert,Johnson,Male,1999,27,Married,Bachelor's,2020-02-02,,,,On Leave,Full-Time,10,1053,2,2,E100619,61500,USD,2
+636,E100635,Miguel,Martinez,Male,1997,29,Divorced,Master's,2020-02-25,,,,Active,Full-Time,10,1050,3,6,E100609,79000,USD,8
+637,E100636,Aisha,Nair,Female,1981,45,Single,Bachelor's,2016-01-08,,,,On Leave,Full-Time,10,1052,6,1,E100621,207500,USD,12
+638,E100637,Patricia,Nguyen,Female,1988,38,Divorced,Bachelor's,2020-05-02,,,,On Leave,Full-Time,10,1049,2,1,E100621,57000,USD,4
+639,E100638,Joseph,Davis,Male,1994,32,Divorced,High School,2020-08-02,2021-03-11,Did Not Return from Leave,Voluntary,Terminated,Full-Time,10,1050,3,5,E100621,30000,USD,10
+640,E100639,Kevin,Chen,Male,1979,47,Single,Bachelor's,2018-11-25,,,,Active,Full-Time,10,1049,2,2,E100598,74500,USD,35
+641,E100640,Emma,Jones,Female,1982,44,Married,Master's,2019-08-02,2026-04-24,Did Not Return from Leave,Voluntary,Terminated,Full-Time,10,1050,3,5,E100621,34000,USD,1
+642,E100641,Ethan,Khan,Male,1989,37,Single,Master's,2021-02-28,,,,Active,Full-Time,1,1001,3,5,E100124,37000,USD,9
+643,E100642,Joseph,Iyer,Male,1994,32,Single,Bachelor's,2021-02-09,2021-07-22,Career Change,Voluntary,Terminated,Full-Time,2,1008,2,1,E100159,59500,USD,6
+644,E100643,Chloe,Kumar,Female,2000,26,Single,Bachelor's,2021-02-21,2022-09-12,Performance,Involuntary,Terminated,Full-Time,3,1018,3,5,E100307,31000,USD,1
+645,E100644,Ethan,Garcia,Male,1988,38,Single,Bachelor's,2021-02-02,2023-06-02,Did Not Return from Leave,Voluntary,Terminated,Full-Time,4,1021,5,1,E100325,125000,USD,3
+646,E100645,Hannah,Kim,Female,2000,26,Married,Bachelor's,2021-02-16,2024-05-09,Position Eliminated,Involuntary,Terminated,Full-Time,5,1027,4,1,E100398,97000,USD,38
+647,E100646,Jennifer,Kim,Female,1980,46,Single,Bachelor's,2021-02-24,,,,Active,Full-Time,7,1037,5,2,E100535,152000,USD,13
+648,E100647,Ava,King,Non-binary,2000,26,Married,High School,2021-02-14,,,,Active,Full-Time,9,1048,4,3,E100555,100000,USD,3
+649,E100648,Natalie,Singh,Female,1978,48,Single,Bachelor's,2021-03-15,2024-07-02,Performance,Involuntary,Terminated,Full-Time,3,1013,1,2,E100302,39000,USD,9
+650,E100649,Andrew,Davis,Male,1981,45,Single,Bachelor's,2021-03-01,2021-12-02,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1024,1,1,E100401,40000,USD,1
+651,E100650,Olivia,Jones,Female,1988,38,Divorced,Bachelor's,2021-03-14,2023-05-08,Policy Violation,Involuntary,Terminated,Full-Time,5,1026,3,1,E100449,75500,USD,8
+652,E100651,Kevin,Ferreira,Male,1991,35,Single,Master's,2021-03-03,2024-01-13,Compensation,Voluntary,Terminated,Full-Time,8,1041,5,3,E100544,117000,USD,7
+653,E100652,Sarah,Clark,Female,1989,37,Married,Master's,2021-03-07,,,,Active,Full-Time,10,1049,2,6,E100614,62000,USD,7
+654,E100653,Wei,Lee,Male,1995,31,Married,Bachelor's,2021-04-06,2026-07-09,Relocation,Voluntary,Terminated,Full-Time,1,1003,5,3,E100124,141000,USD,14
+655,E100654,Amara,Kumar,Female,1993,33,Married,PhD,2021-04-24,,,,Active,Full-Time,1,1001,3,3,E100128,75500,USD,2
+656,E100655,Laura,Martinez,Female,1982,44,Married,Bachelor's,2021-04-19,2025-12-26,Compensation,Voluntary,Terminated,Full-Time,3,1014,3,4,E100302,90000,USD,9
+657,E100656,William,Wilson,Male,1996,30,Married,Bachelor's,2021-04-25,2023-05-06,Retirement,Voluntary,Terminated,Full-Time,3,1013,1,3,E100262,34000,USD,3
+658,E100657,Ethan,Shah,Male,1997,29,Single,Bachelor's,2021-04-24,2021-06-25,Better Opportunity,Voluntary,Terminated,Full-Time,5,1028,5,6,E100398,120000,USD,9
+659,E100658,Sophia,Perez,Female,1991,35,Married,Master's,2021-04-24,,,,Active,Full-Time,8,1041,5,2,E100551,139500,USD,3
+660,E100659,Brian,Robinson,Male,1979,47,Married,Bachelor's,2021-04-06,2022-11-16,Retirement,Voluntary,Terminated,Full-Time,10,1049,2,1,E100612,52500,USD,39
+661,E100660,Sophia,Martin,Female,1996,30,Single,Bachelor's,2021-05-23,,,,Active,Full-Time,1,1006,3,4,E100036,83500,USD,4
+662,E100661,Priya,Ali,Female,1992,34,Married,Bachelor's,2021-05-23,,,,Active,Full-Time,1,1007,4,1,E100031,80500,USD,3
+663,E100662,Arjun,Miller,Male,1991,35,Single,Bachelor's,2021-05-03,,,,Active,Full-Time,3,1013,1,6,E100248,47500,USD,14
+664,E100663,Laura,Garcia,Female,1987,39,Single,High School,2021-05-26,2022-03-09,Relocation,Voluntary,Terminated,Full-Time,3,1015,4,1,E100224,71000,USD,12
+665,E100664,Wei,Hernandez,Male,1989,37,Married,Bachelor's,2021-05-02,,,,Active,Full-Time,5,1025,2,3,E100400,63500,USD,17
+666,E100665,Claire,Shah,Female,1987,39,Single,Bachelor's,2021-05-21,2021-07-15,Career Change,Voluntary,Terminated,Full-Time,5,1025,2,3,E100395,47500,USD,2
+667,E100666,Carlos,Robinson,Male,1979,47,Divorced,Bachelor's,2021-05-25,,,,Active,Full-Time,10,1049,2,2,E100592,62500,USD,12
+668,E100667,Linda,Hernandez,Female,1987,39,Single,Bachelor's,2021-06-28,,,,Active,Full-Time,1,1001,3,1,E100135,109000,USD,13
+669,E100668,Rohan,Miller,Male,1990,36,Single,Bachelor's,2021-06-21,,,,Active,Full-Time,3,1013,1,1,E100259,49000,USD,5
+670,E100669,Rohan,Wang,Male,1985,41,Single,Bachelor's,2021-06-16,2023-04-08,Performance,Involuntary,Terminated,Full-Time,3,1014,3,1,E100204,79000,USD,12
+671,E100670,Emma,Ferreira,Female,2000,26,Married,PhD,2021-06-12,2026-04-28,Better Opportunity,Voluntary,Terminated,Full-Time,3,1016,5,1,E100250,175000,USD,6
+672,E100671,Anjali,Ferreira,Female,1993,33,Married,Bachelor's,2021-06-01,2021-12-18,Restructuring,Involuntary,Terminated,Full-Time,3,1014,3,2,E100193,68500,USD,20
+673,E100672,Hannah,Ali,Female,1993,33,Single,PhD,2021-06-14,2023-04-18,Did Not Return from Leave,Voluntary,Terminated,Full-Time,4,1020,3,1,E100321,55500,USD,19
+674,E100673,Ethan,Anderson,Male,1999,27,Single,Bachelor's,2021-06-05,2021-12-08,Career Change,Voluntary,Terminated,Full-Time,5,1025,2,5,E100451,26000,USD,31
+675,E100674,Neha,Lewis,Female,1971,55,Married,Bachelor's,2021-06-02,2022-06-27,Relocation,Voluntary,Terminated,Full-Time,5,1024,1,2,E100398,38500,USD,12
+676,E100675,Eric,Rodriguez,Male,2000,26,Single,High School,2021-07-18,,,,Active,Full-Time,1,1000,2,1,E100138,60500,USD,3
+677,E100676,Natalie,Lopez,Female,1991,35,Married,Bachelor's,2021-07-20,2022-09-17,Restructuring,Involuntary,Terminated,Full-Time,2,1010,5,3,E100159,101000,USD,15
+678,E100677,Miguel,Khan,Male,2000,26,Divorced,Master's,2021-07-19,,,,On Leave,Full-Time,3,1013,1,5,E100194,25500,USD,6
+679,E100678,Noah,Wang,Male,1988,38,Single,Bachelor's,2021-07-04,,,,Active,Full-Time,3,1013,1,1,E100282,55500,USD,4
+680,E100679,William,Williams,Male,1995,31,Single,Master's,2021-07-26,2024-06-19,Better Opportunity,Voluntary,Terminated,Part-Time,5,1028,5,2,E100398,111500,USD,6
+681,E100680,Aisha,Shah,Female,1985,41,Married,Bachelor's,2021-07-20,2026-06-15,Performance,Involuntary,Terminated,Part-Time,5,1026,3,5,E100373,35000,USD,13
+682,E100681,Jason,Silva,Male,1995,31,Married,High School,2021-07-11,2023-08-28,Performance,Involuntary,Terminated,Full-Time,10,1052,6,3,E100621,145000,USD,1
+683,E100682,Rachel,Gonzalez,Female,1982,44,Single,Bachelor's,2021-08-08,2024-03-23,Relocation,Voluntary,Terminated,Full-Time,1,1004,5,1,E100031,132000,USD,24
+684,E100683,Wei,Young,Male,1984,42,Married,Bachelor's,2021-08-08,,,,Active,Full-Time,1,1003,5,4,E100107,170000,USD,17
+685,E100684,Olivia,Khan,Female,1997,29,Single,PhD,2021-08-14,2026-02-09,Better Opportunity,Voluntary,Terminated,Full-Time,2,1010,5,6,E100166,147500,USD,12
+686,E100685,Matthew,Garcia,Male,1989,37,Single,Bachelor's,2021-08-04,,,,Active,Full-Time,2,1010,5,5,E100166,60000,USD,36
+687,E100686,Mason,Clark,Male,1987,39,Single,High School,2021-08-25,,,,Active,Full-Time,2,1011,6,5,E100185,97500,USD,1
+688,E100687,Nancy,Lopez,Female,1997,29,Married,Bachelor's,2021-08-06,2026-04-17,Return to Education,Voluntary,Terminated,Full-Time,3,1013,1,5,E100306,19500,USD,4
+689,E100688,Claire,Kim,Female,1988,38,Married,High School,2021-08-27,,,,Active,Full-Time,3,1013,1,5,E100250,20500,USD,14
+690,E100689,Joseph,White,Male,1979,47,Single,Bachelor's,2021-08-01,2023-01-15,Compensation,Voluntary,Terminated,Full-Time,5,1026,3,1,E100441,64000,USD,27
+691,E100690,Raj,Hernandez,Male,1987,39,Married,Bachelor's,2021-08-16,,,,Active,Full-Time,5,1028,5,3,E100398,141500,USD,12
+692,E100691,David,Johnson,Male,1988,38,Single,Bachelor's,2021-09-07,,,,Active,Full-Time,1,1001,3,1,E100075,74000,USD,33
+693,E100692,Yuki,Patel,Female,1987,39,Married,Bachelor's,2021-09-26,,,,On Leave,Full-Time,1,1005,6,3,E100031,142000,USD,11
+694,E100693,Aisha,Young,Female,1978,48,Married,Bachelor's,2021-09-21,2023-02-18,Personal Reasons,Voluntary,Terminated,Full-Time,1,1000,2,3,E100075,52000,USD,1
+695,E100694,Amit,Garcia,Male,1995,31,Divorced,Bachelor's,2021-09-01,,,,On Leave,Full-Time,1,1002,4,2,E100078,95000,USD,5
+696,E100695,Claire,Nair,Female,1978,48,Single,Bachelor's,2021-09-01,,,,Active,Full-Time,2,1011,6,2,E100185,160500,USD,26
+697,E100696,Eric,Rodriguez,Male,1983,43,Single,Master's,2021-09-15,2023-09-10,Compensation,Voluntary,Terminated,Full-Time,3,1017,6,3,E100250,149000,USD,2
+698,E100697,Eric,Taylor,Male,1983,43,Single,High School,2021-09-08,2023-11-09,Return to Education,Voluntary,Terminated,Full-Time,4,1020,3,5,E100353,35000,USD,13
+699,E100698,John,Young,Male,1996,30,Married,Bachelor's,2021-09-23,,,,Active,Full-Time,4,1023,6,1,E100325,204500,USD,1
+700,E100699,Nancy,Shah,Female,2000,26,Married,Master's,2021-09-08,,,,Active,Full-Time,5,1028,5,1,E100398,133500,USD,3
+701,E100700,Michael,Allen,Male,1997,29,Single,Bachelor's,2021-09-18,2025-03-24,Career Change,Voluntary,Terminated,Full-Time,5,1027,4,1,E100398,109500,USD,6
+702,E100701,John,Robinson,Male,1991,35,Single,Bachelor's,2021-09-17,,,,Active,Full-Time,5,1028,5,5,E100398,71500,USD,2
+703,E100702,Rachel,Kim,Female,1998,28,Single,Bachelor's,2021-09-15,2023-11-27,Restructuring,Involuntary,Terminated,Full-Time,6,1031,3,1,E100486,62000,USD,1
+704,E100703,Sanjay,Ali,Male,1996,30,Single,Master's,2021-09-01,,,,Active,Full-Time,7,1035,4,4,E100514,140500,USD,7
+705,E100704,Aisha,Kumar,Female,1995,31,Married,Master's,2021-09-14,2025-09-01,Career Change,Voluntary,Terminated,Full-Time,7,1038,6,2,E100535,152000,USD,12
+706,E100705,Emma,Clark,Female,1992,34,Married,High School,2021-09-04,,,,Active,Full-Time,10,1053,2,1,E100617,56500,USD,1
+707,E100706,Raj,Khan,Male,2000,26,Single,Bachelor's,2021-10-20,2022-08-07,Personal Reasons,Voluntary,Terminated,Full-Time,3,1014,3,3,E100248,63500,USD,6
+708,E100707,Andrew,Jackson,Male,1983,43,Single,Master's,2021-10-16,,,,Active,Full-Time,5,1025,2,2,E100461,59500,USD,36
+709,E100708,Yuki,Singh,Female,1977,49,Married,Bachelor's,2021-10-01,,,,Active,Full-Time,5,1024,1,1,E100402,42500,USD,8
+710,E100709,Rohan,Harris,Male,1996,30,Single,Bachelor's,2021-10-26,2025-08-15,Return to Education,Voluntary,Terminated,Full-Time,7,1037,5,1,E100535,136500,USD,12
+711,E100710,John,Wright,Male,1996,30,Single,PhD,2021-11-04,,,,Active,Full-Time,1,1007,4,3,E100692,101000,USD,4
+712,E100711,Daniel,Smith,Male,1988,38,Divorced,Bachelor's,2021-11-07,,,,Active,Full-Time,3,1016,5,2,E100250,158000,USD,7
+713,E100712,Aisha,White,Female,1992,34,Single,Bachelor's,2021-11-28,,,,Active,Full-Time,3,1013,1,5,E100250,23000,USD,1
+714,E100713,Nancy,Singh,Female,1996,30,Single,Bachelor's,2021-11-16,2022-05-13,Retirement,Voluntary,Terminated,Full-Time,5,1028,5,3,E100398,112500,USD,5
+715,E100714,Amit,Lewis,Male,1993,33,Single,High School,2021-11-28,2023-05-16,Compensation,Voluntary,Terminated,Full-Time,5,1024,1,2,E100411,40500,USD,2
+716,E100715,Sarah,Thomas,Female,1985,41,Married,Master's,2021-11-16,2024-10-23,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1025,2,4,E100444,58000,USD,1
+717,E100716,Yuki,Khan,Female,1993,33,Single,Bachelor's,2021-11-06,,,,Active,Full-Time,5,1026,3,3,E100401,66500,USD,18
+718,E100717,Ethan,Johnson,Male,1998,28,Married,Master's,2021-11-04,,,,Active,Part-Time,5,1026,3,1,E100449,93500,USD,1
+719,E100718,Robert,Chen,Male,2000,26,Single,High School,2021-12-25,2023-10-22,Personal Reasons,Voluntary,Terminated,Full-Time,1,1006,3,1,E100135,87500,USD,10
+720,E100719,Maria,Sanchez,Female,1992,34,Married,Master's,2021-12-01,,,,Active,Full-Time,2,1009,4,6,E100144,97500,USD,1
+721,E100720,John,Rodriguez,Male,1981,45,Married,Bachelor's,2021-12-13,2025-06-15,Personal Reasons,Voluntary,Terminated,Full-Time,3,1017,6,5,E100250,89500,USD,2
+722,E100721,Jennifer,Kumar,Female,1983,43,Single,Master's,2021-12-24,,,,Active,Full-Time,3,1013,1,1,E100266,41500,USD,23
+723,E100722,Ethan,Lewis,Male,1992,34,Married,Bachelor's,2021-12-27,2024-05-10,Better Opportunity,Voluntary,Terminated,Full-Time,3,1013,1,5,E100304,24500,USD,7
+724,E100723,Laura,Martinez,Female,1990,36,Single,Bachelor's,2021-12-03,2023-06-07,Restructuring,Involuntary,Terminated,Full-Time,5,1025,2,6,E100437,58000,USD,21
+725,E100724,Laura,Lopez,Female,1994,32,Married,Master's,2021-12-14,2025-05-16,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1024,1,1,E100464,44500,USD,18
+726,E100725,Noah,Singh,Male,2000,26,Single,Bachelor's,2021-12-14,2022-01-15,Better Opportunity,Voluntary,Terminated,Full-Time,5,1026,3,4,E100448,67000,USD,8
+727,E100726,Anjali,Miller,Female,1997,29,Divorced,Master's,2021-12-20,,,,Active,Full-Time,5,1028,5,2,E100398,124500,USD,14
+728,E100727,Ava,Anderson,Female,1987,39,Single,Bachelor's,2021-12-18,,,,Active,Part-Time,6,1031,3,3,E100486,72500,USD,5
+729,E100728,Grace,King,Female,2000,26,Single,PhD,2021-12-03,2024-09-23,Return to Education,Voluntary,Terminated,Full-Time,6,1032,5,1,E100493,137000,USD,1
+730,E100729,Elizabeth,Silva,Female,2000,26,Single,Bachelor's,2021-12-27,,,,Active,Full-Time,7,1034,3,4,E100506,70500,USD,2
+731,E100730,Chloe,Singh,Female,1989,37,Single,PhD,2021-12-02,,,,Active,Full-Time,10,1050,3,6,E100592,75000,USD,3
+732,E100731,Rohan,Nguyen,Male,1991,35,Single,Master's,2022-01-07,2023-06-22,Did Not Return from Leave,Voluntary,Terminated,Full-Time,1,1000,2,1,E100078,51500,USD,1
+733,E100732,Ryan,Wilson,Male,1986,40,Single,Bachelor's,2022-01-20,2025-04-23,Compensation,Voluntary,Terminated,Full-Time,1,1007,4,6,E100006,105500,USD,1
+734,E100733,Ava,Harris,Female,1999,27,Single,Bachelor's,2022-01-08,2022-12-16,Personal Reasons,Voluntary,Terminated,Full-Time,2,1009,4,2,E100174,82500,USD,4
+735,E100734,Patricia,Thompson,Female,1993,33,Single,Bachelor's,2022-01-07,,,,On Leave,Full-Time,2,1008,2,6,E100185,62000,USD,9
+736,E100735,Miguel,Wang,Male,1982,44,Married,Bachelor's,2022-01-15,,,,Active,Full-Time,2,1012,3,1,E100166,101500,USD,26
+737,E100736,Amara,Gonzalez,Female,1996,30,Divorced,High School,2022-01-17,2023-03-01,Return to Education,Voluntary,Terminated,Full-Time,3,1014,3,3,E100259,65500,USD,6
+738,E100737,Sanjay,Ali,Male,1989,37,Married,Bachelor's,2022-01-06,,,,Active,Full-Time,3,1017,6,1,E100250,204000,USD,30
+739,E100738,Diego,Nguyen,Male,1999,27,Single,Master's,2022-01-13,,,,On Leave,Full-Time,3,1013,1,1,E100233,53500,USD,3
+740,E100739,Daniel,Ferreira,Male,1981,45,Divorced,Master's,2022-01-10,2025-07-23,Return to Education,Voluntary,Terminated,Full-Time,3,1016,5,5,E100250,66000,USD,9
+741,E100740,Grace,Nair,Female,2001,25,Married,Master's,2022-01-14,2026-05-14,Restructuring,Involuntary,Terminated,Full-Time,3,1018,3,1,E100268,80000,USD,29
+742,E100741,Mary,Robinson,Female,1992,34,Single,Master's,2022-01-26,,,,Active,Full-Time,4,1019,2,4,E100311,70000,USD,3
+743,E100742,Neha,Williams,Female,1984,42,Single,Bachelor's,2022-01-05,,,,Active,Full-Time,4,1020,3,4,E100311,97000,USD,6
+744,E100743,Liam,Johnson,Male,2001,25,Married,Bachelor's,2022-01-17,2023-03-13,Return to Education,Voluntary,Terminated,Full-Time,4,1019,2,4,E100314,51500,USD,25
+745,E100744,Diego,Clark,Male,1996,30,Single,High School,2022-01-16,2026-03-04,Did Not Return from Leave,Voluntary,Terminated,Full-Time,4,1021,5,4,E100325,136000,USD,1
+746,E100745,Raj,Patel,Male,1989,37,Single,Bachelor's,2022-01-12,2022-03-06,Career Change,Voluntary,Terminated,Full-Time,5,1026,3,2,E100679,57500,USD,6
+747,E100746,David,Sanchez,Male,1975,51,Single,Bachelor's,2022-01-12,2026-06-12,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1028,5,4,E100398,128000,USD,8
+748,E100747,Jennifer,Lewis,Female,2001,25,Married,Master's,2022-01-14,2024-05-22,Policy Violation,Involuntary,Terminated,Full-Time,5,1025,2,5,E100467,26500,USD,4
+749,E100748,Liam,Harris,Male,2001,25,Single,Bachelor's,2022-01-12,2024-02-17,Career Change,Voluntary,Terminated,Full-Time,5,1025,2,1,E100448,54000,USD,48
+750,E100749,Daniel,Sanchez,Male,1982,44,Married,Bachelor's,2022-01-14,,,,Active,Full-Time,5,1025,2,2,E100461,62000,USD,1
+751,E100750,Andrew,Singh,Male,1993,33,Single,Master's,2022-01-23,,,,Active,Full-Time,6,1029,2,2,E100483,56500,USD,1
+752,E100751,Kevin,Robinson,Male,1984,42,Married,Bachelor's,2022-01-15,2025-09-19,Did Not Return from Leave,Voluntary,Terminated,Full-Time,10,1049,2,5,E100598,31500,USD,15
+753,E100752,Carlos,Clark,Male,2000,26,Married,Master's,2022-01-18,2023-04-12,Policy Violation,Involuntary,Terminated,Full-Time,10,1052,6,2,E100621,148500,USD,7
+754,E100753,Raj,Martin,Male,1996,30,Married,Bachelor's,2022-01-25,2023-12-09,Personal Reasons,Voluntary,Terminated,Full-Time,10,1049,2,1,E100622,52000,USD,14
+755,E100754,Ethan,Lewis,Male,1985,41,Single,Bachelor's,2022-02-06,,,,On Leave,Full-Time,1,1000,2,5,E100033,22500,USD,15
+756,E100755,Maria,Patel,Non-binary,1992,34,Single,Master's,2022-02-05,2026-08-08,Did Not Return from Leave,Voluntary,Terminated,Full-Time,1,1007,4,1,E100009,114500,USD,15
+757,E100756,Jason,Singh,Male,1994,32,Single,Bachelor's,2022-02-07,,,,Active,Full-Time,1,1003,5,1,E100056,169500,USD,8
+758,E100757,Jason,Williams,Male,2001,25,Single,Bachelor's,2022-02-28,,,,Active,Full-Time,3,1016,5,2,E100250,124000,USD,7
+759,E100758,Noah,Ramirez,Male,1994,32,Single,Bachelor's,2022-02-07,2024-02-20,Better Opportunity,Voluntary,Terminated,Full-Time,3,1016,5,2,E100250,117000,USD,1
+760,E100759,Jennifer,Wright,Female,1987,39,Married,PhD,2022-02-02,2023-03-17,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1015,4,4,E100193,115000,USD,18
+761,E100760,Miguel,Rodriguez,Male,1992,34,Married,Bachelor's,2022-02-14,2023-08-05,Policy Violation,Involuntary,Terminated,Full-Time,5,1025,2,3,E100398,47500,USD,1
+762,E100761,Grace,Singh,Female,1999,27,Married,Bachelor's,2022-02-08,,,,Active,Full-Time,5,1026,3,4,E100401,68500,USD,31
+763,E100762,Sanjay,Davis,Male,1996,30,Single,Bachelor's,2022-03-03,2023-01-25,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1018,3,4,E100739,73500,USD,10
+764,E100763,Jennifer,Lee,Female,1999,27,Single,Master's,2022-03-15,2022-06-12,Position Eliminated,Involuntary,Terminated,Full-Time,3,1013,1,1,E100268,43000,USD,4
+765,E100764,Rachel,Gonzalez,Female,2001,25,Married,Bachelor's,2022-03-28,,,,Active,Full-Time,3,1016,5,2,E100250,122000,USD,2
+766,E100765,Priya,Singh,Female,1986,40,Single,Bachelor's,2022-03-20,,,,Active,Full-Time,3,1016,5,2,E100250,124000,USD,10
+767,E100766,Andrew,Silva,Male,2001,25,Single,Bachelor's,2022-03-04,2023-03-13,Position Eliminated,Involuntary,Terminated,Full-Time,5,1027,4,1,E100398,99000,USD,9
+768,E100767,Sarah,Silva,Female,1988,38,Single,Bachelor's,2022-04-23,,,,Active,Part-Time,1,1000,2,2,E100128,54000,USD,8
+769,E100768,Robert,Perez,Male,1990,36,Married,Bachelor's,2022-04-13,,,,Active,Full-Time,2,1008,2,1,E100183,70000,USD,1
+770,E100769,Anjali,Martinez,Female,1990,36,Single,Bachelor's,2022-04-28,2023-05-25,Career Change,Voluntary,Terminated,Full-Time,3,1016,5,5,E100250,60000,USD,4
+771,E100770,Natalie,Costa,Female,1998,28,Married,Master's,2022-04-11,2023-03-19,Performance,Involuntary,Terminated,Full-Time,3,1013,1,4,E100233,44000,USD,1
+772,E100771,Michael,Lewis,Male,1990,36,Married,Master's,2022-04-24,2022-11-24,Performance,Involuntary,Terminated,Full-Time,5,1024,1,1,E100467,40500,USD,9
+773,E100772,Carlos,Harris,Male,1993,33,Single,PhD,2022-04-13,2025-05-25,Retirement,Voluntary,Terminated,Full-Time,5,1028,5,5,E100398,69000,USD,11
+774,E100773,Liam,Perez,Male,2001,25,Single,Bachelor's,2022-05-19,2025-09-04,Relocation,Voluntary,Terminated,Full-Time,1,1004,5,2,E100031,167000,USD,6
+775,E100774,Hannah,Johnson,Female,1991,35,Divorced,Bachelor's,2022-05-10,2022-12-13,Retirement,Voluntary,Terminated,Full-Time,1,1000,2,1,E100106,54000,USD,5
+776,E100775,Susan,Lopez,Female,1999,27,Single,Bachelor's,2022-05-20,,,,Active,Full-Time,3,1018,3,1,E100696,90500,USD,9
+777,E100776,Wei Ling,Martin,Female,1987,39,Married,Bachelor's,2022-05-23,2022-09-18,Retirement,Voluntary,Terminated,Full-Time,5,1026,3,1,E100746,80000,USD,1
+778,E100777,Daniel,Perez,Male,1997,29,Married,Bachelor's,2022-05-08,,,,Active,Full-Time,7,1034,3,2,E100646,82000,USD,10
+779,E100778,Anjali,Williams,Female,1981,45,Single,Bachelor's,2022-05-24,2023-04-02,Better Opportunity,Voluntary,Terminated,Full-Time,8,1042,5,3,E100544,101500,USD,4
+780,E100779,Neha,Rodriguez,Female,1986,40,Married,Bachelor's,2022-05-18,,,,Active,Full-Time,9,1045,3,1,E100562,79000,USD,17
+781,E100780,Mason,Garcia,Male,2000,26,Single,Bachelor's,2022-06-05,2026-01-24,Career Change,Voluntary,Terminated,Full-Time,1,1005,6,4,E100031,167500,USD,5
+782,E100781,Diego,Wang,Male,1998,28,Married,Bachelor's,2022-06-18,,,,On Leave,Full-Time,3,1018,3,5,E100304,40000,USD,8
+783,E100782,Nancy,Ferreira,Female,1993,33,Married,Bachelor's,2022-06-20,2023-11-19,Retirement,Voluntary,Terminated,Full-Time,3,1018,3,5,E100304,26500,USD,15
+784,E100783,Sophia,Allen,Female,1999,27,Married,Bachelor's,2022-06-24,,,,Active,Full-Time,3,1014,3,3,E100259,76000,USD,11
+785,E100784,Grace,Khan,Female,1985,41,Single,Bachelor's,2022-06-08,2022-08-15,Personal Reasons,Voluntary,Terminated,Full-Time,3,1013,1,5,E100206,20500,USD,44
+786,E100785,Anjali,Jones,Female,1986,40,Single,High School,2022-06-14,2025-12-03,Compensation,Voluntary,Terminated,Full-Time,5,1027,4,1,E100398,113000,USD,21
+787,E100786,Nancy,Nguyen,Female,1992,34,Married,Bachelor's,2022-06-14,,,,Active,Full-Time,5,1025,2,1,E100409,60000,USD,2
+788,E100787,Sarah,Silva,Female,1984,42,Married,Bachelor's,2022-06-23,2025-05-17,Did Not Return from Leave,Voluntary,Terminated,Part-Time,9,1046,4,5,E100555,42500,USD,79
+789,E100788,Ava,Chen,Female,1989,37,Single,Bachelor's,2022-06-10,2023-07-17,Retirement,Voluntary,Terminated,Full-Time,9,1045,3,3,E100558,51000,USD,2
+790,E100789,James,Johnson,Male,1990,36,Married,Bachelor's,2022-06-27,,,,Active,Full-Time,9,1045,3,1,E100558,77500,USD,9
+791,E100790,Natalie,Khan,Female,1988,38,Single,Master's,2022-07-13,2023-06-21,Compensation,Voluntary,Terminated,Full-Time,1,1006,3,5,E100009,27500,USD,1
+792,E100791,Anthony,Walker,Male,1993,33,Single,Bachelor's,2022-07-09,2023-12-09,Relocation,Voluntary,Terminated,Full-Time,3,1018,3,4,E100206,69000,USD,2
+793,E100792,Wei,Wang,Male,1983,43,Single,Bachelor's,2022-07-06,2024-08-16,Performance,Involuntary,Terminated,Full-Time,3,1013,1,4,E100300,46000,USD,25
+794,E100793,Jason,Lopez,Male,2001,25,Single,Bachelor's,2022-07-09,,,,Active,Full-Time,4,1022,3,5,E100698,35500,USD,12
+795,E100794,Susan,Chen,Female,1987,39,Single,Bachelor's,2022-07-04,,,,Active,Full-Time,4,1021,5,5,E100325,56000,USD,2
+796,E100795,Brian,Rodriguez,Male,1982,44,Single,Bachelor's,2022-07-25,2025-02-01,Did Not Return from Leave,Voluntary,Terminated,Full-Time,4,1019,2,3,E100341,66000,USD,33
+797,E100796,David,Gonzalez,Male,1994,32,Married,High School,2022-07-02,2022-11-27,Policy Violation,Involuntary,Terminated,Full-Time,5,1028,5,2,E100398,134500,USD,2
+798,E100797,Diego,Martinez,Male,1995,31,Single,Master's,2022-07-19,2024-12-25,Position Eliminated,Involuntary,Terminated,Full-Time,5,1024,1,1,E100713,48000,USD,12
+799,E100798,Amara,Wilson,Female,1991,35,Single,Bachelor's,2022-07-18,2024-01-03,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1026,3,5,E100467,28000,USD,8
+800,E100799,Jennifer,Sanchez,Female,1986,40,Single,Bachelor's,2022-07-08,,,,Active,Part-Time,9,1044,2,1,E100562,63500,USD,19
+801,E100800,Chloe,Sanchez,Female,1993,33,Single,High School,2022-08-04,,,,Active,Full-Time,1,1002,4,1,E100133,74500,USD,2
+802,E100801,Liam,Walker,Male,1983,43,Divorced,High School,2022-08-06,,,,Active,Part-Time,1,1001,3,5,E100052,33000,USD,23
+803,E100802,Robert,King,Male,2001,25,Single,Bachelor's,2022-08-28,,,,Active,Full-Time,2,1009,4,5,E100179,44500,USD,14
+804,E100803,Aisha,Martin,Female,1995,31,Single,Bachelor's,2022-08-03,,,,Active,Full-Time,2,1008,2,3,E100185,43500,USD,18
+805,E100804,John,Jackson,Male,1988,38,Married,Bachelor's,2022-08-10,2025-01-21,Relocation,Voluntary,Terminated,Full-Time,3,1013,1,3,E100189,44500,USD,3
+806,E100805,Kevin,Nguyen,Male,1988,38,Single,Bachelor's,2022-08-10,,,,Active,Part-Time,3,1014,3,4,E100282,80000,USD,1
+807,E100806,Sophia,Jones,Female,2001,25,Married,PhD,2022-08-16,2023-08-15,Return to Education,Voluntary,Terminated,Full-Time,3,1017,6,3,E100250,132500,USD,5
+808,E100807,Liam,Anderson,Male,1998,28,Married,Master's,2022-08-15,2024-12-07,Personal Reasons,Voluntary,Terminated,Full-Time,3,1015,4,5,E100209,43000,USD,2
+809,E100808,Anthony,Nair,Male,2001,25,Married,Master's,2022-08-15,2026-05-27,Relocation,Voluntary,Terminated,Full-Time,5,1024,1,3,E100464,44000,USD,15
+810,E100809,Laura,Patel,Female,1997,29,Married,High School,2022-08-14,,,,Active,Full-Time,9,1045,3,5,E100562,37000,USD,12
+811,E100810,Ethan,Miller,Male,1993,33,Single,Bachelor's,2022-09-24,2023-01-05,Compensation,Voluntary,Terminated,Part-Time,1,1007,4,2,E100811,75500,USD,2
+812,E100811,Carlos,Johnson,Male,1990,36,Single,Bachelor's,2022-09-24,2022-12-12,Better Opportunity,Voluntary,Terminated,Full-Time,1,1004,5,5,E100031,54500,USD,7
+813,E100812,Emma,Khan,Female,1982,44,Single,Bachelor's,2022-09-04,2024-06-10,Compensation,Voluntary,Terminated,Full-Time,2,1011,6,6,E100185,163000,USD,3
+814,E100813,Olivia,Silva,Female,1993,33,Married,Master's,2022-09-27,2023-02-27,Compensation,Voluntary,Terminated,Full-Time,3,1017,6,1,E100250,162000,USD,11
+815,E100814,Sanjay,Allen,Male,1987,39,Single,Bachelor's,2022-09-01,2023-01-10,Career Change,Voluntary,Terminated,Full-Time,3,1017,6,6,E100250,171000,USD,13
+816,E100815,Amit,Harris,Male,2001,25,Single,PhD,2022-09-20,2023-06-23,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1017,6,4,E100250,189500,USD,1
+817,E100816,Carlos,Harris,Male,1997,29,Single,Bachelor's,2022-09-02,2023-08-26,Restructuring,Involuntary,Terminated,Full-Time,3,1018,3,2,E100282,77000,USD,12
+818,E100817,Amara,Lee,Female,1998,28,Divorced,Master's,2022-09-03,2023-05-01,Policy Violation,Involuntary,Terminated,Full-Time,4,1020,3,1,E100342,72000,USD,1
+819,E100818,Carlos,Perez,Male,1998,28,Married,Bachelor's,2022-09-22,2022-10-07,Restructuring,Involuntary,Terminated,Full-Time,5,1024,1,1,E100679,42500,USD,10
+820,E100819,Yuki,Taylor,Female,1990,36,Single,Master's,2022-09-15,,,,On Leave,Full-Time,5,1027,4,1,E100398,103500,USD,15
+821,E100820,Nancy,Wang,Female,1987,39,Single,Bachelor's,2022-09-09,2025-06-06,Did Not Return from Leave,Voluntary,Terminated,Full-Time,6,1030,4,1,E100728,96000,USD,4
+822,E100821,Rachel,White,Female,1996,30,Single,Bachelor's,2022-09-01,,,,Active,Part-Time,8,1043,6,4,E100544,231500,USD,21
+823,E100822,Aisha,Walker,Female,2001,25,Single,Bachelor's,2022-09-18,,,,Active,Full-Time,9,1046,4,5,E100558,47000,USD,8
+824,E100823,Amit,Wilson,Male,1998,28,Married,Bachelor's,2022-09-06,2024-11-10,Performance,Involuntary,Terminated,Full-Time,10,1053,2,4,E100619,68000,USD,8
+825,E100824,Yuki,Costa,Female,1993,33,Married,PhD,2022-10-27,,,,On Leave,Full-Time,1,1007,4,6,E100025,86500,USD,5
+826,E100825,Ava,Thomas,Female,1985,41,Married,Master's,2022-10-13,,,,Active,Full-Time,1,1001,3,2,E100135,60000,USD,23
+827,E100826,Jessica,Iyer,Female,1984,42,Married,Master's,2022-10-15,,,,Active,Full-Time,3,1018,3,1,E100244,85500,USD,8
+828,E100827,Joseph,Shah,Male,1996,30,Divorced,Master's,2022-10-24,,,,Active,Full-Time,3,1013,1,1,E100231,54000,USD,13
+829,E100828,Amara,Lewis,Female,1988,38,Divorced,Bachelor's,2022-10-06,,,,Active,Full-Time,5,1024,1,3,E100455,43500,USD,7
+830,E100829,Brian,Ramirez,Male,1998,28,Married,Master's,2022-10-27,,,,Active,Full-Time,5,1024,1,4,E100645,46500,USD,8
+831,E100830,Emma,Thompson,Female,1996,30,Single,Master's,2022-10-06,2026-05-01,Career Change,Voluntary,Terminated,Full-Time,9,1046,4,4,E100566,109000,USD,3
+832,E100831,Kevin,Singh,Male,1988,38,Divorced,Bachelor's,2022-11-03,,,,Active,Full-Time,1,1001,3,1,E100110,94500,USD,3
+833,E100832,Sanjay,Patel,Male,1998,28,Married,High School,2022-11-06,2024-07-16,Retirement,Voluntary,Terminated,Full-Time,3,1014,3,1,E100764,76500,USD,8
+834,E100833,Rohan,Robinson,Male,1977,49,Married,Bachelor's,2022-11-20,,,,Active,Full-Time,4,1019,2,1,E100313,62000,USD,7
+835,E100834,Amit,Kim,Male,1995,31,Married,Bachelor's,2022-11-14,2023-06-17,Restructuring,Involuntary,Terminated,Full-Time,5,1027,4,2,E100398,87500,USD,3
+836,E100835,Robert,Smith,Male,1976,50,Single,Bachelor's,2022-11-14,,,,Active,Full-Time,5,1025,2,5,E100657,25500,USD,8
+837,E100836,Emma,Clark,Female,1982,44,Married,Bachelor's,2022-11-26,2026-08-19,Did Not Return from Leave,Voluntary,Terminated,Full-Time,10,1050,3,2,E100614,64000,USD,11
+838,E100837,Rachel,Clark,Female,1987,39,Single,Bachelor's,2022-11-18,2025-05-18,Policy Violation,Involuntary,Terminated,Full-Time,10,1049,2,1,E100752,50500,USD,2
+839,E100838,Robert,Wright,Male,1992,34,Married,High School,2022-12-25,2023-07-11,Restructuring,Involuntary,Terminated,Full-Time,1,1000,2,4,E100135,56000,USD,15
+840,E100839,Patricia,Anderson,Female,1990,36,Single,Master's,2022-12-21,,,,Active,Full-Time,1,1006,3,1,E100036,73500,USD,19
+841,E100840,Priya,Taylor,Non-binary,2001,25,Single,Bachelor's,2022-12-07,2025-03-26,Did Not Return from Leave,Voluntary,Terminated,Full-Time,2,1008,2,3,E100182,48000,USD,24
+842,E100841,Elizabeth,Kim,Non-binary,1997,29,Single,PhD,2022-12-27,,,,Active,Full-Time,3,1014,3,2,E100248,57000,USD,30
+843,E100842,Olivia,Sanchez,Female,1999,27,Married,High School,2022-12-28,2024-06-10,Restructuring,Involuntary,Terminated,Full-Time,5,1028,5,5,E100398,53000,USD,13
+844,E100843,Daniel,Robinson,Male,1999,27,Divorced,Bachelor's,2022-12-11,2023-05-16,Policy Violation,Involuntary,Terminated,Part-Time,9,1048,4,1,E100580,91500,USD,1
+845,E100844,David,Ferreira,Male,1997,29,Married,Master's,2022-12-26,2023-05-02,Return to Education,Voluntary,Terminated,Full-Time,10,1051,5,1,E100621,111500,USD,10
+846,E100845,Elizabeth,Martin,Female,2002,24,Single,Master's,2023-01-24,,,,Active,Full-Time,1,1002,4,5,E100780,41500,USD,6
+847,E100846,Chloe,Ali,Female,1995,31,Married,Master's,2023-01-07,,,,Active,Full-Time,1,1005,6,1,E100031,200000,USD,37
+848,E100847,Rohan,Shah,Male,1986,40,Married,Bachelor's,2023-01-20,,,,Active,Part-Time,1,1004,5,4,E100031,148500,USD,8
+849,E100848,Wei,King,Male,1996,30,Married,High School,2023-01-15,,,,On Leave,Full-Time,1,1005,6,1,E100031,193000,USD,8
+850,E100849,Michael,Smith,Male,1997,29,Married,Bachelor's,2023-01-16,2023-07-06,Policy Violation,Involuntary,Terminated,Full-Time,2,1008,2,6,E100686,49000,USD,18
+851,E100850,Patricia,Rodriguez,Female,2002,24,Single,Master's,2023-01-24,2026-02-04,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1013,1,2,E100231,43000,USD,4
+852,E100851,Sanjay,Robinson,Male,1978,48,Single,Bachelor's,2023-01-04,,,,Active,Full-Time,3,1018,3,2,E100234,72000,USD,17
+853,E100852,Ryan,King,Male,2002,24,Married,Bachelor's,2023-01-28,2024-12-04,Career Change,Voluntary,Terminated,Full-Time,3,1018,3,5,E100813,32500,USD,43
+854,E100853,Chen,Williams,Male,1984,42,Married,Bachelor's,2023-01-06,,,,Active,Full-Time,5,1025,2,5,E100372,28500,USD,1
+855,E100854,Priya,Harris,Female,1992,34,Single,Bachelor's,2023-01-19,2023-05-09,Better Opportunity,Voluntary,Terminated,Full-Time,5,1024,1,1,E100842,40500,USD,11
+856,E100855,Fatima,Taylor,Female,1986,40,Married,Bachelor's,2023-01-25,,,,Active,Full-Time,5,1027,4,2,E100398,84500,USD,9
+857,E100856,Laura,Iyer,Female,1980,46,Single,Master's,2023-01-04,,,,Active,Full-Time,6,1032,5,4,E100493,135500,USD,1
+858,E100857,Jessica,Hernandez,Female,1980,46,Single,Bachelor's,2023-01-14,,,,Active,Full-Time,8,1040,3,1,E100551,83500,USD,17
+859,E100858,Arjun,Walker,Male,1983,43,Married,Bachelor's,2023-01-16,,,,Active,Part-Time,10,1050,3,4,E100608,81500,USD,1
+860,E100859,Brian,Silva,Male,1990,36,Married,Bachelor's,2023-02-27,,,,Active,Full-Time,1,1002,4,6,E100069,115500,USD,28
+861,E100860,Maria,Miller,Female,1996,30,Single,Bachelor's,2023-02-20,,,,Active,Full-Time,1,1003,5,2,E100019,125000,USD,14
+862,E100861,Joseph,Iyer,Male,1994,32,Single,Bachelor's,2023-02-11,,,,Active,Full-Time,1,1001,3,4,E100692,98000,USD,16
+863,E100862,Susan,Perez,Female,1995,31,Married,Master's,2023-02-19,,,,Active,Part-Time,1,1002,4,3,E100125,80000,USD,12
+864,E100863,Hannah,Sanchez,Female,1991,35,Single,Master's,2023-02-22,,,,Active,Full-Time,2,1008,2,2,E100183,55000,USD,3
+865,E100864,Linda,Ali,Female,1992,34,Single,Bachelor's,2023-02-03,,,,On Leave,Full-Time,3,1018,3,5,E100737,43500,USD,9
+866,E100865,Carlos,Chen,Male,2002,24,Single,Master's,2023-02-16,,,,Active,Full-Time,3,1013,1,1,E100262,48500,USD,2
+867,E100866,Olivia,Hernandez,Non-binary,1988,38,Single,High School,2023-02-21,,,,Active,Full-Time,3,1014,3,6,E100248,67500,USD,3
+868,E100867,Robert,Robinson,Male,1990,36,Single,PhD,2023-02-28,,,,Active,Full-Time,5,1026,3,2,E100437,67000,USD,10
+869,E100868,Sophia,Martin,Female,1988,38,Married,Master's,2023-02-11,,,,Active,Full-Time,5,1024,1,6,E100772,41000,USD,5
+870,E100869,Wei Ling,Khan,Female,1998,28,Married,Bachelor's,2023-02-22,2024-01-25,Did Not Return from Leave,Voluntary,Terminated,Full-Time,10,1051,5,1,E100621,113000,USD,7
+871,E100870,Neha,Shah,Female,2000,26,Married,Bachelor's,2023-03-07,,,,Active,Full-Time,1,1004,5,3,E100031,113500,USD,1
+872,E100871,Anthony,Harris,Male,1986,40,Single,Bachelor's,2023-03-18,,,,On Leave,Full-Time,3,1014,3,4,E100219,100000,USD,1
+873,E100872,Raj,Nair,Male,1986,40,Single,Master's,2023-03-02,,,,Active,Full-Time,3,1014,3,5,E100306,38500,USD,2
+874,E100873,Sophia,Moore,Non-binary,1992,34,Married,Bachelor's,2023-03-27,,,,Active,Full-Time,3,1014,3,5,E100757,29500,USD,17
+875,E100874,Maria,Brown,Female,1991,35,Divorced,Master's,2023-03-03,,,,Active,Full-Time,5,1024,1,6,E100392,38500,USD,3
+876,E100875,Michael,Clark,Male,1993,33,Married,Bachelor's,2023-03-07,2023-10-19,Return to Education,Voluntary,Terminated,Full-Time,5,1025,2,5,E100398,25500,USD,4
+877,E100876,Michael,Lewis,Male,1990,36,Married,High School,2023-04-27,,,,Active,Part-Time,1,1000,2,5,E100056,27500,USD,1
+878,E100877,James,Lewis,Male,1998,28,Single,Bachelor's,2023-04-14,,,,Active,Full-Time,1,1004,5,2,E100031,120500,USD,32
+879,E100878,Olivia,Ali,Female,1997,29,Single,Bachelor's,2023-04-20,,,,Active,Full-Time,2,1008,2,2,E100185,56000,USD,4
+880,E100879,Eric,White,Male,1981,45,Single,Bachelor's,2023-04-01,2024-12-13,Restructuring,Involuntary,Terminated,Full-Time,3,1014,3,2,E100195,66000,USD,26
+881,E100880,Mary,Hernandez,Female,1990,36,Married,Master's,2023-04-14,,,,Active,Full-Time,3,1015,4,2,E100234,92500,USD,2
+882,E100881,Ethan,Miller,Male,1985,41,Single,Master's,2023-04-18,2025-05-14,Relocation,Voluntary,Terminated,Full-Time,3,1013,1,2,E100227,46500,USD,90
+883,E100882,Priya,Iyer,Female,1985,41,Married,Bachelor's,2023-04-25,,,,Active,Full-Time,4,1020,3,4,E100316,84500,USD,2
+884,E100883,Michael,Davis,Male,2002,24,Single,Master's,2023-04-20,,,,On Leave,Full-Time,4,1023,6,1,E100325,235000,USD,7
+885,E100884,William,Robinson,Male,1994,32,Divorced,Master's,2023-04-24,,,,Active,Full-Time,9,1046,4,4,E100566,121000,USD,9
+886,E100885,Aisha,Ali,Female,1991,35,Divorced,Bachelor's,2023-04-07,2025-10-06,Did Not Return from Leave,Voluntary,Terminated,Full-Time,10,1052,6,2,E100621,189000,USD,30
+887,E100886,Robert,Robinson,Male,1977,49,Married,High School,2023-05-26,,,,Active,Full-Time,1,1007,4,3,E100692,75500,USD,1
+888,E100887,Brian,Wang,Male,1994,32,Married,Bachelor's,2023-05-01,2026-06-05,Relocation,Voluntary,Terminated,Full-Time,2,1012,3,4,E100695,86000,USD,1
+889,E100888,John,Perez,Male,1989,37,Married,High School,2023-05-22,,,,Active,Full-Time,2,1011,6,5,E100185,94500,USD,20
+890,E100889,Elizabeth,Anderson,Non-binary,1987,39,Single,Bachelor's,2023-05-05,2023-10-25,Position Eliminated,Involuntary,Terminated,Full-Time,3,1013,1,5,E100228,17500,USD,3
+891,E100890,Diego,Robinson,Male,1988,38,Married,PhD,2023-05-02,2024-08-11,Policy Violation,Involuntary,Terminated,Full-Time,3,1015,4,4,E100255,90500,USD,1
+892,E100891,Sophia,Clark,Female,1990,36,Married,Bachelor's,2023-05-25,,,,Active,Full-Time,3,1016,5,6,E100250,129000,USD,1
+893,E100892,Ryan,Kumar,Male,1980,46,Single,Master's,2023-05-19,2025-12-27,Policy Violation,Involuntary,Terminated,Full-Time,3,1013,1,1,E100194,40500,USD,5
+894,E100893,Elizabeth,Iyer,Female,2002,24,Married,Bachelor's,2023-05-15,,,,Active,Full-Time,4,1022,3,5,E100319,28500,USD,4
+895,E100894,Hannah,Martin,Female,2002,24,Single,Bachelor's,2023-05-24,2024-05-13,Did Not Return from Leave,Voluntary,Terminated,Full-Time,4,1019,2,5,E100341,23000,USD,4
+896,E100895,Olivia,Clark,Female,2002,24,Single,Bachelor's,2023-05-01,2025-11-06,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1027,4,5,E100398,47500,USD,1
+897,E100896,Laura,Jones,Female,1993,33,Divorced,High School,2023-05-03,,,,Active,Full-Time,5,1025,2,4,E100461,70500,USD,3
+898,E100897,Amara,Khan,Female,2002,24,Married,Master's,2023-05-16,,,,Active,Full-Time,5,1024,1,1,E100455,47000,USD,5
+899,E100898,Maria,Davis,Female,1997,29,Single,Bachelor's,2023-05-01,2025-09-08,Relocation,Voluntary,Terminated,Full-Time,10,1052,6,1,E100621,186500,USD,6
+900,E100899,Emma,Harris,Female,1993,33,Single,Bachelor's,2023-06-26,,,,On Leave,Full-Time,1,1001,3,3,E100780,72500,USD,8
+901,E100900,Susan,Taylor,Female,2002,24,Single,Bachelor's,2023-06-28,2024-08-04,Performance,Involuntary,Terminated,Full-Time,1,1006,3,1,E100135,69500,USD,9
+902,E100901,Arjun,Wang,Male,1995,31,Single,Master's,2023-06-05,2024-02-14,Career Change,Voluntary,Terminated,Full-Time,3,1013,1,1,E100224,43000,USD,13
+903,E100902,Andrew,Kim,Male,1988,38,Single,Bachelor's,2023-06-21,2025-07-18,Position Eliminated,Involuntary,Terminated,Part-Time,3,1013,1,2,E100891,39000,USD,1
+904,E100903,Brian,King,Male,2002,24,Married,High School,2023-06-28,2024-05-27,Relocation,Voluntary,Terminated,Full-Time,3,1016,5,4,E100250,130000,USD,7
+905,E100904,Aisha,Gonzalez,Female,1996,30,Married,PhD,2023-06-13,2024-05-28,Return to Education,Voluntary,Terminated,Part-Time,3,1015,4,1,E100306,92500,USD,18
+906,E100905,Liam,White,Male,1989,37,Single,Master's,2023-06-24,2026-02-20,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1015,4,1,E100300,90500,USD,21
+907,E100906,Laura,Walker,Female,1996,30,Divorced,Master's,2023-06-25,2023-10-26,Better Opportunity,Voluntary,Terminated,Full-Time,4,1020,3,2,E100325,56500,USD,2
+908,E100907,Sanjay,Gonzalez,Male,2002,24,Married,Bachelor's,2023-06-01,,,,Active,Full-Time,4,1022,3,1,E100341,87500,USD,5
+909,E100908,Liam,White,Male,1988,38,Married,Bachelor's,2023-06-14,2024-05-20,Did Not Return from Leave,Voluntary,Terminated,Full-Time,5,1024,1,5,E100401,20500,USD,6
+910,E100909,Chen,Silva,Male,2002,24,Single,Bachelor's,2023-06-18,,,,Active,Full-Time,5,1024,1,5,E100467,21500,USD,11
+911,E100910,Miguel,Walker,Male,1986,40,Married,Bachelor's,2023-06-06,,,,Active,Full-Time,5,1025,2,1,E100699,69000,USD,8
+912,E100911,Sanjay,Lewis,Male,1999,27,Married,Bachelor's,2023-06-17,,,,Active,Part-Time,5,1028,5,2,E100398,146000,USD,9
+913,E100912,Brian,Lopez,Male,1992,34,Married,Bachelor's,2023-06-23,2024-10-16,Compensation,Voluntary,Terminated,Full-Time,5,1025,2,1,E100772,60000,USD,26
+914,E100913,Wei Ling,Lee,Female,2001,25,Divorced,Master's,2023-06-05,2025-03-02,Policy Violation,Involuntary,Terminated,Full-Time,10,1049,2,2,E100622,47500,USD,1
+915,E100914,Olivia,Thompson,Female,2000,26,Single,Master's,2023-07-08,,,,Active,Full-Time,1,1001,3,5,E100123,36000,USD,5
+916,E100915,Eric,Lewis,Male,2001,25,Single,Bachelor's,2023-07-24,2024-05-18,Relocation,Voluntary,Terminated,Full-Time,1,1002,4,5,E100106,44000,USD,9
+917,E100916,Chloe,Jackson,Non-binary,1990,36,Single,High School,2023-07-26,,,,On Leave,Full-Time,2,1012,3,4,E100162,63000,USD,23
+918,E100917,Brian,Davis,Male,1999,27,Married,High School,2023-07-12,2023-12-12,Personal Reasons,Voluntary,Terminated,Full-Time,3,1018,3,4,E100815,74500,USD,9
+919,E100918,John,Robinson,Male,1994,32,Married,Master's,2023-07-27,2024-12-08,Compensation,Voluntary,Terminated,Full-Time,5,1027,4,1,E100398,101000,USD,36
+920,E100919,Rachel,Kumar,Female,1982,44,Married,Bachelor's,2023-07-24,,,,Active,Full-Time,5,1025,2,5,E100700,27000,USD,24
+921,E100920,Ryan,Young,Male,1989,37,Single,Bachelor's,2023-08-18,,,,On Leave,Full-Time,1,1006,3,1,E100036,84500,USD,15
+922,E100921,Nancy,Khan,Female,1980,46,Married,Bachelor's,2023-08-12,,,,Active,Full-Time,1,1007,4,2,E100025,99000,USD,2
+923,E100922,Susan,Wilson,Female,1988,38,Divorced,High School,2023-08-05,2024-06-24,Career Change,Voluntary,Terminated,Full-Time,2,1012,3,2,E100179,60500,USD,4
+924,E100923,Noah,Walker,Male,1994,32,Single,Master's,2023-08-02,2024-02-07,Retirement,Voluntary,Terminated,Full-Time,3,1013,1,1,E100300,33500,USD,15
+925,E100924,David,Johnson,Male,1982,44,Single,Bachelor's,2023-08-25,2024-01-05,Compensation,Voluntary,Terminated,Full-Time,3,1014,3,2,E100814,62500,USD,20
+926,E100925,Robert,Khan,Male,1993,33,Divorced,Bachelor's,2023-08-19,,,,Active,Full-Time,3,1018,3,2,E100197,76500,USD,18
+927,E100926,Elizabeth,Khan,Female,1987,39,Single,Bachelor's,2023-08-21,2023-10-25,Return to Education,Voluntary,Terminated,Full-Time,5,1024,1,5,E100398,15000,USD,3
+928,E100927,Karen,Lee,Female,1985,41,Divorced,Bachelor's,2023-08-19,,,,Active,Full-Time,5,1026,3,1,E100441,95000,USD,7
+929,E100928,Ethan,Wright,Male,1991,35,Single,High School,2023-08-17,,,,On Leave,Full-Time,6,1031,3,5,E100476,33000,USD,3
+930,E100929,Aisha,Chen,Female,1995,31,Single,High School,2023-08-13,,,,Active,Full-Time,6,1031,3,2,E100856,77500,USD,2
+931,E100930,James,Perez,Male,2001,25,Divorced,Master's,2023-08-23,2025-08-25,Career Change,Voluntary,Terminated,Full-Time,6,1031,3,4,E100728,68000,USD,1
+932,E100931,Brian,Kim,Male,1993,33,Single,Bachelor's,2023-09-05,2025-06-13,Retirement,Voluntary,Terminated,Full-Time,1,1006,3,5,E100044,42000,USD,6
+933,E100932,Mason,Harris,Male,1999,27,Married,Master's,2023-09-03,,,,On Leave,Full-Time,1,1000,2,1,E100138,54500,USD,9
+934,E100933,Wei,Johnson,Male,1980,46,Married,Bachelor's,2023-09-01,,,,Active,Full-Time,1,1004,5,5,E100031,57000,USD,1
+935,E100934,Daniel,Martinez,Male,1997,29,Married,Bachelor's,2023-09-25,,,,Active,Full-Time,1,1007,4,1,E100113,104500,USD,4
+936,E100935,Elizabeth,Rodriguez,Female,1987,39,Married,Master's,2023-09-26,,,,On Leave,Full-Time,2,1009,4,6,E100183,100500,USD,1
+937,E100936,Jennifer,Chen,Female,1989,37,Married,Bachelor's,2023-09-12,2026-02-28,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1018,3,4,E100290,87000,USD,5
+938,E100937,David,Kumar,Male,1995,31,Married,Master's,2023-09-21,,,,Active,Full-Time,3,1015,4,6,E100758,81000,USD,19
+939,E100938,Mason,Martinez,Male,1998,28,Married,Bachelor's,2023-09-01,,,,Active,Full-Time,3,1013,1,1,E100195,45000,USD,1
+940,E100939,Liam,Allen,Male,1995,31,Married,Master's,2023-09-21,,,,Active,Full-Time,3,1018,3,4,E100711,91500,USD,6
+941,E100940,Ava,Kim,Female,1996,30,Single,Master's,2023-09-14,2025-08-22,Retirement,Voluntary,Terminated,Full-Time,4,1022,3,5,E100337,31500,USD,1
+942,E100941,Sanjay,Allen,Male,1984,42,Divorced,Master's,2023-09-14,2025-11-22,Return to Education,Voluntary,Terminated,Full-Time,4,1019,2,3,E100744,51500,USD,3
+943,E100942,Karen,Allen,Female,1990,36,Divorced,PhD,2023-09-22,2025-03-06,Policy Violation,Involuntary,Terminated,Full-Time,4,1022,3,5,E100342,35500,USD,4
+944,E100943,Elizabeth,Patel,Female,1999,27,Single,Master's,2023-09-15,2025-05-23,Return to Education,Voluntary,Terminated,Full-Time,5,1024,1,2,E100455,40000,USD,29
+945,E100944,Claire,Lopez,Female,2002,24,Divorced,High School,2023-09-27,2026-01-24,Compensation,Voluntary,Terminated,Full-Time,5,1024,1,2,E100842,42500,USD,38
+946,E100945,Ethan,Brown,Male,1988,38,Single,Master's,2023-09-22,2026-01-11,Relocation,Voluntary,Terminated,Full-Time,5,1028,5,2,E100398,116500,USD,31
+947,E100946,Grace,Lewis,Female,1983,43,Married,Bachelor's,2023-09-22,2026-06-18,Compensation,Voluntary,Terminated,Full-Time,7,1034,3,4,E100530,62000,USD,4
+948,E100947,Patricia,Singh,Female,1997,29,Married,Bachelor's,2023-09-05,,,,On Leave,Full-Time,9,1046,4,1,E100566,87500,USD,1
+949,E100948,Amit,Perez,Male,1988,38,Single,Bachelor's,2023-09-20,,,,Active,Full-Time,9,1045,3,4,E100562,92000,USD,36
+950,E100949,Emma,Silva,Female,1988,38,Single,Bachelor's,2023-09-11,2024-02-16,Return to Education,Voluntary,Terminated,Full-Time,10,1050,3,2,E100621,68500,USD,17
+951,E100950,Carlos,Brown,Male,1980,46,Single,Bachelor's,2023-09-02,,,,Active,Full-Time,10,1050,3,4,E100636,87000,USD,11
+952,E100951,Elizabeth,Nguyen,Female,1981,45,Married,Master's,2023-10-06,2025-10-11,Return to Education,Voluntary,Terminated,Full-Time,1,1001,3,6,E100054,68000,USD,6
+953,E100952,Liam,Hernandez,Male,1984,42,Single,Bachelor's,2023-10-20,,,,Active,Full-Time,1,1007,4,1,E100025,107500,USD,43
+954,E100953,Chen,Anderson,Male,1999,27,Married,High School,2023-10-02,,,,Active,Full-Time,1,1001,3,1,E100811,93500,USD,11
+955,E100954,Diego,Singh,Male,1997,29,Married,Bachelor's,2023-10-16,,,,Active,Full-Time,2,1008,2,1,E100182,49500,USD,1
+956,E100955,Emma,Walker,Female,1979,47,Married,Bachelor's,2023-10-06,,,,On Leave,Full-Time,3,1013,1,2,E100758,43000,USD,5
+957,E100956,Priya,Wang,Female,2002,24,Married,Bachelor's,2023-10-25,,,,Active,Full-Time,3,1013,1,5,E100193,21500,USD,6
+958,E100957,Laura,Wang,Female,1995,31,Married,Bachelor's,2023-10-10,,,,Active,Full-Time,5,1024,1,2,E100700,41500,USD,1
+959,E100958,Kevin,Ramirez,Male,2000,26,Single,Bachelor's,2023-10-22,2023-11-26,Compensation,Voluntary,Terminated,Full-Time,5,1028,5,6,E100398,149000,USD,1
+960,E100959,Daniel,Iyer,Male,2002,24,Divorced,High School,2023-11-27,2026-02-22,Personal Reasons,Voluntary,Terminated,Full-Time,1,1007,4,5,E100682,44500,USD,23
+961,E100960,Wei Ling,Hernandez,Female,1991,35,Married,Master's,2023-11-25,,,,On Leave,Part-Time,1,1006,3,3,E100773,80500,USD,6
+962,E100961,Diego,Thompson,Male,2002,24,Single,Master's,2023-11-09,2025-03-08,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1013,1,6,E100891,41500,USD,13
+963,E100962,Karen,Lewis,Female,1999,27,Divorced,Bachelor's,2023-11-10,,,,Active,Full-Time,3,1013,1,5,E100227,19500,USD,26
+964,E100963,Jennifer,Davis,Female,2002,24,Single,Master's,2023-11-17,,,,Active,Full-Time,5,1028,5,1,E100398,141500,USD,13
+965,E100964,Michael,Garcia,Male,1994,32,Married,Master's,2023-11-26,,,,Active,Full-Time,5,1024,1,1,E100368,47500,USD,29
+966,E100965,Eric,Wang,Male,1996,30,Married,Bachelor's,2023-11-24,,,,Active,Full-Time,5,1024,1,3,E100958,43000,USD,13
+967,E100966,David,Gonzalez,Male,1997,29,Single,Bachelor's,2023-12-26,,,,Active,Full-Time,1,1001,3,5,E100126,38500,USD,11
+968,E100967,Elizabeth,Wright,Female,1997,29,Single,Master's,2023-12-26,,,,Active,Full-Time,3,1014,3,2,E100197,69500,USD,27
+969,E100968,Andrew,White,Male,1990,36,Divorced,Bachelor's,2023-12-07,2025-04-12,Better Opportunity,Voluntary,Terminated,Full-Time,3,1013,1,5,E100696,21500,USD,21
+970,E100969,Karen,Perez,Female,1999,27,Divorced,Bachelor's,2023-12-16,,,,On Leave,Full-Time,4,1021,5,2,E100325,117000,USD,1
+971,E100970,Raj,Nguyen,Male,2002,24,Single,Bachelor's,2023-12-02,2025-09-19,Career Change,Voluntary,Terminated,Full-Time,9,1046,4,1,E100566,99500,USD,21
+972,E100971,Hannah,Nair,Female,1995,31,Married,High School,2023-12-14,,,,Active,Full-Time,10,1053,2,4,E100622,62000,USD,4
+973,E100972,Ryan,Moore,Male,2000,26,Single,Bachelor's,2024-01-14,,,,Active,Full-Time,1,1006,3,6,E100033,78000,USD,14
+974,E100973,Nancy,Anderson,Female,1985,41,Married,Master's,2024-01-08,,,,Active,Full-Time,1,1001,3,2,E100106,66000,USD,1
+975,E100974,James,Moore,Male,1999,27,Married,Master's,2024-01-19,2025-06-20,Career Change,Voluntary,Terminated,Full-Time,1,1006,3,5,E100124,32000,USD,2
+976,E100975,Fatima,Brown,Female,1989,37,Single,Bachelor's,2024-01-09,,,,Active,Part-Time,2,1012,3,1,E100888,86500,USD,6
+977,E100976,Fatima,Nguyen,Female,1998,28,Single,Bachelor's,2024-01-08,2026-03-28,Career Change,Voluntary,Terminated,Full-Time,3,1015,4,1,E100814,90000,USD,13
+978,E100977,Carlos,Sanchez,Male,2000,26,Married,Master's,2024-01-18,2026-01-19,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1018,3,1,E100302,71500,USD,23
+979,E100978,Sophia,Silva,Female,1988,38,Single,Master's,2024-01-15,2026-02-21,Return to Education,Voluntary,Terminated,Full-Time,3,1015,4,4,E100188,105000,USD,5
+980,E100979,Anthony,Kim,Male,1994,32,Married,Bachelor's,2024-01-28,2025-04-02,Did Not Return from Leave,Voluntary,Terminated,Full-Time,4,1019,2,4,E100337,57000,USD,19
+981,E100980,Sarah,Robinson,Female,1990,36,Single,High School,2024-01-08,,,,Active,Full-Time,5,1027,4,6,E100398,87000,USD,14
+982,E100981,Matthew,Jones,Male,2003,23,Married,Master's,2024-01-10,2025-11-17,Position Eliminated,Involuntary,Terminated,Full-Time,5,1025,2,2,E100766,55500,USD,26
+983,E100982,Amara,Wright,Female,1985,41,Single,Bachelor's,2024-01-27,,,,Active,Full-Time,5,1024,1,1,E100433,47000,USD,10
+984,E100983,Daniel,Lewis,Male,1990,36,Single,Master's,2024-01-09,,,,Active,Full-Time,7,1037,5,5,E100535,65000,USD,57
+985,E100984,Maria,Iyer,Female,1998,28,Single,Master's,2024-01-09,2024-10-16,Position Eliminated,Involuntary,Terminated,Full-Time,7,1039,6,2,E100535,128500,USD,9
+986,E100985,Emma,Young,Female,1999,27,Single,High School,2024-01-01,,,,On Leave,Full-Time,9,1048,4,5,E100555,41000,USD,1
+987,E100986,Laura,Walker,Female,2003,23,Married,Bachelor's,2024-01-04,,,,Active,Full-Time,10,1053,2,5,E100869,29500,USD,6
+988,E100987,Fatima,Shah,Female,1984,42,Married,Master's,2024-02-19,,,,Active,Full-Time,1,1000,2,5,E100045,22000,USD,25
+989,E100988,Priya,Rodriguez,Female,2002,24,Single,Bachelor's,2024-02-08,,,,Active,Full-Time,1,1000,2,4,E100110,69500,USD,28
+990,E100989,Amit,Ramirez,Male,1990,36,Single,Bachelor's,2024-02-04,,,,Active,Full-Time,3,1013,1,2,E100720,40000,USD,10
+991,E100990,Olivia,Ferreira,Female,1997,29,Single,High School,2024-02-13,2025-02-22,Compensation,Voluntary,Terminated,Full-Time,3,1013,1,5,E100290,19000,USD,2
+992,E100991,Daniel,Smith,Male,1997,29,Single,Bachelor's,2024-02-10,2024-06-08,Compensation,Voluntary,Terminated,Full-Time,3,1013,1,2,E100696,38500,USD,9
+993,E100992,Anthony,Jones,Male,1999,27,Divorced,Master's,2024-02-12,2026-05-21,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1015,4,1,E100306,74500,USD,13
+994,E100993,Brian,Taylor,Male,1993,33,Single,Bachelor's,2024-02-13,2025-12-13,Return to Education,Voluntary,Terminated,Full-Time,3,1013,1,6,E100204,32500,USD,37
+995,E100994,Rohan,Patel,Male,1996,30,Single,Bachelor's,2024-02-15,,,,Active,Full-Time,4,1021,5,1,E100325,133000,USD,10
+996,E100995,Liam,Miller,Male,2003,23,Divorced,Bachelor's,2024-02-17,2025-09-06,Personal Reasons,Voluntary,Terminated,Full-Time,5,1024,1,3,E100834,38500,USD,1
+997,E100996,Chloe,Thomas,Female,1990,36,Single,Master's,2024-02-25,2026-06-26,Compensation,Voluntary,Terminated,Full-Time,5,1025,2,2,E100398,48000,USD,7
+998,E100997,Maria,Miller,Female,2000,26,Single,Bachelor's,2024-02-15,2025-01-19,Did Not Return from Leave,Voluntary,Terminated,Full-Time,6,1029,2,2,E100496,51500,USD,11
+999,E100998,Emma,Harris,Female,2002,24,Married,Master's,2024-02-22,,,,Active,Full-Time,7,1036,3,5,E100518,34000,USD,1
+1000,E100999,Kevin,Gonzalez,Male,1990,36,Divorced,Master's,2024-02-21,2024-07-17,Relocation,Voluntary,Terminated,Full-Time,10,1051,5,3,E100621,94000,USD,8
+1001,E101000,Karen,Garcia,Female,1993,33,Married,Master's,2024-03-12,2025-10-12,Retirement,Voluntary,Terminated,Full-Time,1,1007,4,1,E100125,106000,USD,41
+1002,E101001,Linda,Shah,Female,1995,31,Single,Bachelor's,2024-03-13,,,,On Leave,Full-Time,1,1004,5,1,E100031,141500,USD,6
+1003,E101002,Ava,Miller,Female,1986,40,Single,Bachelor's,2024-03-16,,,,Active,Full-Time,3,1015,4,2,E100216,101000,USD,13
+1004,E101003,Robert,Silva,Male,2003,23,Married,Bachelor's,2024-03-20,2026-01-07,Retirement,Voluntary,Terminated,Full-Time,3,1013,1,5,E100806,19000,USD,6
+1005,E101004,Sophia,Jackson,Female,1997,29,Single,Bachelor's,2024-03-09,,,,Active,Full-Time,4,1019,2,1,E100359,49500,USD,20
+1006,E101005,Matthew,Ramirez,Male,2000,26,Divorced,High School,2024-03-10,,,,Active,Full-Time,4,1019,2,3,E100359,56500,USD,1
+1007,E101006,Elizabeth,Lewis,Non-binary,1993,33,Single,PhD,2024-03-14,,,,On Leave,Full-Time,5,1027,4,2,E100398,87000,USD,22
+1008,E101007,Linda,White,Female,1981,45,Single,Bachelor's,2024-03-18,,,,Active,Full-Time,7,1034,3,1,E100531,69500,USD,6
+1009,E101008,Robert,Patel,Male,1993,33,Divorced,Bachelor's,2024-03-27,2025-02-24,Position Eliminated,Involuntary,Terminated,Part-Time,10,1050,3,4,E100999,67000,USD,10
+1010,E101009,Amit,King,Male,1989,37,Married,Bachelor's,2024-04-16,,,,Active,Full-Time,1,1006,3,2,E100113,75500,USD,13
+1011,E101010,Yuki,Clark,Female,1995,31,Married,Bachelor's,2024-04-28,,,,On Leave,Full-Time,3,1016,5,5,E100250,57000,USD,5
+1012,E101011,Matthew,Smith,Male,2002,24,Single,Bachelor's,2024-04-14,,,,Active,Full-Time,3,1013,1,1,E100769,40000,USD,17
+1013,E101012,Emma,Wilson,Female,1990,36,Single,Bachelor's,2024-05-13,,,,Active,Full-Time,1,1003,5,6,E100138,106500,USD,14
+1014,E101013,Susan,Ferreira,Female,1982,44,Single,Master's,2024-05-23,,,,On Leave,Part-Time,1,1004,5,6,E100031,117000,USD,11
+1015,E101014,Wei,Miller,Male,1994,32,Single,Bachelor's,2024-05-12,2025-05-15,Policy Violation,Involuntary,Terminated,Full-Time,3,1013,1,1,E100764,39000,USD,6
+1016,E101015,Maria,Anderson,Female,1986,40,Married,Bachelor's,2024-05-27,,,,Active,Full-Time,3,1014,3,5,E100286,33000,USD,7
+1017,E101016,Robert,Ramirez,Male,1994,32,Divorced,Bachelor's,2024-05-27,2026-05-18,Relocation,Voluntary,Terminated,Full-Time,4,1022,3,2,E100883,67000,USD,2
+1018,E101017,Susan,Davis,Female,1985,41,Married,Master's,2024-05-16,,,,Active,Full-Time,4,1023,6,4,E100325,172000,USD,2
+1019,E101018,Miguel,Wang,Male,1993,33,Single,Master's,2024-05-18,,,,Active,Full-Time,4,1020,3,6,E100341,77000,USD,3
+1020,E101019,Claire,King,Female,1993,33,Single,Master's,2024-05-22,2024-10-12,Restructuring,Involuntary,Terminated,Full-Time,5,1024,1,4,E100437,40500,USD,13
+1021,E101020,Elizabeth,Singh,Female,2001,25,Single,High School,2024-05-19,2024-07-21,Relocation,Voluntary,Terminated,Full-Time,5,1025,2,2,E100448,44500,USD,16
+1022,E101021,Anthony,Costa,Male,1993,33,Single,Bachelor's,2024-05-19,,,,Active,Full-Time,7,1035,4,1,E100532,114000,USD,6
+1023,E101022,Arjun,Wright,Male,1993,33,Single,Bachelor's,2024-05-23,,,,On Leave,Full-Time,9,1045,3,2,E100558,62500,USD,42
+1024,E101023,Linda,Taylor,Female,2003,23,Divorced,Master's,2024-05-10,,,,Active,Full-Time,10,1053,2,4,E100752,67000,USD,4
+1025,E101024,Chloe,Gonzalez,Female,1982,44,Single,Bachelor's,2024-06-08,,,,Active,Full-Time,1,1003,5,5,E100113,65000,USD,8
+1026,E101025,Grace,Gonzalez,Female,2001,25,Married,Bachelor's,2024-06-07,,,,Active,Full-Time,1,1003,5,5,E100025,64500,USD,5
+1027,E101026,Fatima,Nair,Female,1996,30,Single,Master's,2024-06-09,,,,Active,Full-Time,2,1009,4,3,E100174,92000,USD,71
+1028,E101027,Hannah,Kim,Female,2003,23,Married,Master's,2024-06-10,,,,Active,Full-Time,2,1009,4,2,E100888,76000,USD,22
+1029,E101028,Raj,Moore,Male,1991,35,Single,Bachelor's,2024-06-17,,,,Active,Full-Time,3,1017,6,1,E100250,167500,USD,11
+1030,E101029,Matthew,Robinson,Male,1996,30,Single,High School,2024-06-25,2024-09-11,Better Opportunity,Voluntary,Terminated,Part-Time,3,1013,1,1,E100193,41000,USD,12
+1031,E101030,Claire,Moore,Non-binary,2000,26,Married,Master's,2024-06-02,2025-12-19,Better Opportunity,Voluntary,Terminated,Full-Time,3,1018,3,1,E100259,77000,USD,5
+1032,E101031,Grace,Smith,Female,1991,35,Single,Bachelor's,2024-06-21,2024-07-18,Career Change,Voluntary,Terminated,Full-Time,5,1028,5,2,E100398,116000,USD,29
+1033,E101032,Elizabeth,Ramirez,Female,1991,35,Single,High School,2024-06-23,,,,Active,Part-Time,5,1027,4,1,E100398,108500,USD,3
+1034,E101033,Patricia,Costa,Female,1986,40,Single,Bachelor's,2024-06-20,,,,Active,Full-Time,5,1025,2,3,E100400,47000,USD,3
+1035,E101034,Noah,Gonzalez,Male,1994,32,Married,Bachelor's,2024-06-16,,,,Active,Full-Time,7,1034,3,4,E100529,77500,USD,23
+1036,E101035,Jason,Taylor,Male,2001,25,Single,Bachelor's,2024-06-25,,,,Active,Full-Time,10,1049,2,4,E100844,71000,USD,34
+1037,E101036,Hannah,Harris,Female,1998,28,Married,Master's,2024-07-18,2024-12-05,Personal Reasons,Voluntary,Terminated,Full-Time,1,1001,3,2,E100106,61500,USD,9
+1038,E101037,Neha,Harris,Female,2000,26,Married,Bachelor's,2024-07-25,,,,Active,Full-Time,1,1002,4,1,E100044,100000,USD,24
+1039,E101038,Sophia,Jones,Non-binary,1985,41,Single,Bachelor's,2024-07-22,,,,On Leave,Full-Time,1,1000,2,2,E100009,51500,USD,1
+1040,E101039,Olivia,Wang,Female,1986,40,Married,Bachelor's,2024-07-13,,,,Active,Full-Time,2,1009,4,1,E100144,99500,USD,32
+1041,E101040,James,Thompson,Male,1990,36,Divorced,Master's,2024-07-11,2026-02-26,Compensation,Voluntary,Terminated,Full-Time,3,1013,1,1,E100262,41000,USD,6
+1042,E101041,Yuki,Ramirez,Female,2003,23,Married,Bachelor's,2024-07-28,,,,Active,Full-Time,3,1014,3,1,E100304,68500,USD,9
+1043,E101042,Wei,Smith,Male,2003,23,Single,Bachelor's,2024-07-16,2024-08-28,Better Opportunity,Voluntary,Terminated,Full-Time,3,1013,1,2,E100209,38500,USD,1
+1044,E101043,Yuki,Hernandez,Female,1986,40,Married,Bachelor's,2024-07-16,2024-09-11,Relocation,Voluntary,Terminated,Full-Time,5,1027,4,5,E100398,46000,USD,12
+1045,E101044,Sanjay,Kim,Male,2003,23,Single,Bachelor's,2024-07-01,2025-01-17,Return to Education,Voluntary,Terminated,Full-Time,5,1025,2,4,E100424,57000,USD,1
+1046,E101045,Maria,Clark,Female,1997,29,Married,Bachelor's,2024-07-04,,,,Active,Full-Time,8,1043,6,1,E100544,146500,USD,34
+1047,E101046,Karen,Moore,Female,1991,35,Single,Master's,2024-07-19,,,,Active,Full-Time,10,1053,2,3,E100612,42000,USD,16
+1048,E101047,Ethan,Jones,Male,1992,34,Married,Bachelor's,2024-07-04,,,,Active,Full-Time,10,1053,2,5,E100844,24500,USD,2
+1049,E101048,Priya,Gonzalez,Non-binary,1998,28,Divorced,Master's,2024-08-04,,,,Active,Full-Time,1,1001,3,1,E100133,71500,USD,2
+1050,E101049,Ava,Wang,Female,1990,36,Single,PhD,2024-08-05,,,,Active,Full-Time,1,1000,2,4,E100113,54500,USD,15
+1051,E101050,Michael,King,Male,1996,30,Single,PhD,2024-08-04,,,,Active,Full-Time,1,1001,3,5,E100073,30000,USD,8
+1052,E101051,Amit,Martinez,Male,1990,36,Married,Master's,2024-08-16,,,,On Leave,Full-Time,3,1017,6,5,E100250,83000,USD,64
+1053,E101052,Kevin,Khan,Male,2000,26,Married,Master's,2024-08-08,,,,Active,Part-Time,3,1016,5,4,E100250,134000,USD,10
+1054,E101053,Hannah,Robinson,Female,1995,31,Single,Master's,2024-08-27,2024-12-14,Career Change,Voluntary,Terminated,Full-Time,3,1013,1,2,E100218,32500,USD,4
+1055,E101054,Sophia,Perez,Female,1995,31,Married,High School,2024-08-16,2025-01-28,Return to Education,Voluntary,Terminated,Full-Time,5,1024,1,1,E100855,39500,USD,7
+1056,E101055,Patricia,Nguyen,Female,1994,32,Married,Bachelor's,2024-08-07,2025-12-24,Better Opportunity,Voluntary,Terminated,Full-Time,5,1027,4,3,E100398,76500,USD,6
+1057,E101056,Anthony,Shah,Male,2003,23,Single,Master's,2024-08-16,,,,Active,Full-Time,8,1040,3,5,E101045,34000,USD,13
+1058,E101057,Anjali,Robinson,Female,1992,34,Married,PhD,2024-09-12,,,,Active,Full-Time,1,1002,4,1,E100848,83500,USD,7
+1059,E101058,Susan,Lewis,Female,1987,39,Divorced,Bachelor's,2024-09-17,,,,Active,Full-Time,1,1000,2,1,E100052,57000,USD,10
+1060,E101059,Olivia,Ali,Female,1999,27,Divorced,High School,2024-09-07,,,,Active,Full-Time,1,1004,5,5,E100031,46500,USD,3
+1061,E101060,Anthony,Lopez,Male,1999,27,Single,High School,2024-09-16,2026-02-09,Better Opportunity,Voluntary,Terminated,Full-Time,2,1012,3,3,E100159,61000,USD,10
+1062,E101061,Elizabeth,Lewis,Female,2001,25,Single,Bachelor's,2024-09-10,,,,Active,Full-Time,3,1017,6,2,E100250,151500,USD,1
+1063,E101062,Andrew,Miller,Male,1996,30,Single,Bachelor's,2024-09-17,,,,Active,Full-Time,3,1018,3,5,E100814,31000,USD,1
+1064,E101063,Ethan,Rodriguez,Male,1994,32,Single,Bachelor's,2024-09-04,2025-03-14,Restructuring,Involuntary,Terminated,Full-Time,3,1015,4,5,E100696,42500,USD,1
+1065,E101064,Amara,Anderson,Female,1993,33,Married,Bachelor's,2024-09-10,,,,On Leave,Full-Time,3,1018,3,2,E100306,60000,USD,8
+1066,E101065,Noah,Lee,Male,1999,27,Married,Bachelor's,2024-09-18,2025-11-06,Personal Reasons,Voluntary,Terminated,Part-Time,3,1014,3,5,E100233,32500,USD,21
+1067,E101066,Jason,Smith,Male,1999,27,Married,Bachelor's,2024-09-18,,,,Active,Full-Time,4,1023,6,1,E100325,182500,USD,1
+1068,E101067,Olivia,Martin,Female,1991,35,Married,Bachelor's,2024-09-25,2025-01-07,Personal Reasons,Voluntary,Terminated,Full-Time,5,1025,2,5,E100713,21000,USD,1
+1069,E101068,Arjun,White,Male,1984,42,Married,Bachelor's,2024-09-09,2026-03-04,Position Eliminated,Involuntary,Terminated,Full-Time,5,1024,1,5,E100433,17500,USD,6
+1070,E101069,John,Ferreira,Male,1983,43,Married,Bachelor's,2024-09-21,,,,Active,Full-Time,5,1027,4,5,E100398,43000,USD,2
+1071,E101070,Wei Ling,Khan,Female,1991,35,Married,Bachelor's,2024-09-24,2025-10-15,Did Not Return from Leave,Voluntary,Terminated,Full-Time,6,1030,4,4,E100496,90000,USD,9
+1072,E101071,Olivia,Martinez,Female,1983,43,Married,Bachelor's,2024-09-19,,,,Active,Full-Time,7,1039,6,4,E100535,182500,USD,18
+1073,E101072,Amit,Wilson,Male,1998,28,Married,Bachelor's,2024-10-07,,,,Active,Full-Time,1,1001,3,2,E100009,72000,USD,15
+1074,E101073,Jason,Costa,Male,2003,23,Single,Master's,2024-10-25,2026-02-19,Policy Violation,Involuntary,Terminated,Full-Time,3,1014,3,4,E100262,68000,USD,5
+1075,E101074,Sanjay,Williams,Male,1988,38,Married,Master's,2024-10-12,,,,Active,Full-Time,5,1024,1,1,E101055,42500,USD,11
+1076,E101075,John,Ramirez,Male,1998,28,Married,Bachelor's,2024-10-03,,,,Active,Full-Time,5,1024,1,3,E100785,31500,USD,17
+1077,E101076,James,Lopez,Male,1991,35,Single,High School,2024-10-20,,,,Active,Full-Time,8,1041,5,2,E100821,120500,USD,20
+1078,E101077,Fatima,Nair,Female,1992,34,Married,Master's,2024-11-11,,,,Active,Full-Time,2,1012,3,5,E100162,32000,USD,1
+1079,E101078,Yuki,Walker,Non-binary,1988,38,Married,High School,2024-11-15,,,,On Leave,Full-Time,2,1008,2,3,E100695,39000,USD,1
+1080,E101079,Daniel,Singh,Male,2003,23,Single,High School,2024-11-11,,,,Active,Full-Time,3,1013,1,5,E101052,22500,USD,6
+1081,E101080,Ethan,Thomas,Male,1986,40,Married,Bachelor's,2024-11-28,,,,Active,Part-Time,3,1013,1,6,E100757,44000,USD,1
+1082,E101081,Grace,Jones,Female,1997,29,Married,Master's,2024-11-06,,,,Active,Full-Time,3,1014,3,1,E101010,64500,USD,26
+1083,E101082,Claire,Costa,Non-binary,1990,36,Single,Bachelor's,2024-11-05,2025-04-22,Relocation,Voluntary,Terminated,Full-Time,5,1027,4,1,E100398,100500,USD,2
+1084,E101083,Anjali,Perez,Female,1998,28,Single,Master's,2024-11-13,,,,On Leave,Full-Time,5,1024,1,1,E100448,46000,USD,1
+1085,E101084,Natalie,Clark,Female,2000,26,Divorced,Bachelor's,2024-11-08,,,,Active,Full-Time,10,1049,2,1,E100612,48000,USD,4
+1086,E101085,Fatima,Silva,Female,2002,24,Single,Bachelor's,2024-11-04,2026-07-25,Career Change,Voluntary,Terminated,Full-Time,10,1049,2,2,E100621,47500,USD,6
+1087,E101086,Matthew,Lewis,Male,1992,34,Divorced,Master's,2024-12-28,,,,Active,Full-Time,1,1007,4,5,E100848,44000,USD,13
+1088,E101087,Jason,Anderson,Male,1990,36,Married,Bachelor's,2024-12-01,,,,Active,Full-Time,1,1000,2,5,E100009,27500,USD,1
+1089,E101088,John,Lee,Male,1999,27,Single,High School,2024-12-25,2025-04-26,Career Change,Voluntary,Terminated,Full-Time,2,1008,2,1,E100185,54500,USD,19
+1090,E101089,Raj,Sanchez,Male,2003,23,Single,PhD,2024-12-15,,,,Active,Full-Time,3,1015,4,5,E101052,45000,USD,13
+1091,E101090,Olivia,Taylor,Female,1996,30,Married,Bachelor's,2024-12-19,,,,Active,Full-Time,3,1015,4,1,E101052,93000,USD,6
+1092,E101091,Jason,Harris,Male,1994,32,Single,Bachelor's,2024-12-21,,,,Active,Full-Time,5,1027,4,1,E100398,97500,USD,1
+1093,E101092,Natalie,Wright,Female,2003,23,Single,Master's,2024-12-22,2026-06-21,Position Eliminated,Involuntary,Terminated,Part-Time,5,1024,1,6,E100428,35000,USD,1
+1094,E101093,William,White,Male,1999,27,Single,Bachelor's,2024-12-07,,,,Active,Full-Time,5,1024,1,4,E100437,45000,USD,21
+1095,E101094,Wei,Johnson,Male,2003,23,Divorced,High School,2024-12-01,,,,Active,Full-Time,7,1035,4,5,E100704,42000,USD,1
+1096,E101095,Sarah,Martinez,Female,1997,29,Divorced,Bachelor's,2024-12-16,,,,Active,Full-Time,8,1041,5,1,E100544,88500,USD,34
+1097,E101096,Liam,Sanchez,Male,1984,42,Single,Master's,2024-12-27,,,,On Leave,Full-Time,10,1050,3,3,E100844,66000,USD,4
+1098,E101097,Amara,Hernandez,Female,2004,22,Single,Master's,2025-01-16,2025-05-04,Retirement,Voluntary,Terminated,Full-Time,1,1004,5,4,E100031,114000,USD,3
+1099,E101098,Sophia,Kim,Female,1986,40,Divorced,Master's,2025-01-04,,,,Active,Full-Time,1,1005,6,1,E100031,160500,USD,6
+1100,E101099,Jason,Jones,Male,1989,37,Single,Bachelor's,2025-01-17,,,,Active,Full-Time,1,1001,3,6,E100128,63000,USD,7
+1101,E101100,Raj,Shah,Male,1994,32,Divorced,PhD,2025-01-24,,,,Active,Full-Time,1,1004,5,1,E100031,152000,USD,56
+1102,E101101,Anjali,Shah,Female,1993,33,Single,Master's,2025-01-04,,,,Active,Full-Time,2,1012,3,4,E100144,88500,USD,14
+1103,E101102,Miguel,Davis,Male,2004,22,Married,Bachelor's,2025-01-16,,,,On Leave,Full-Time,2,1010,5,5,E100159,49500,USD,12
+1104,E101103,Liam,Williams,Male,1984,42,Married,Bachelor's,2025-01-17,,,,Active,Full-Time,3,1013,1,1,E100769,49000,USD,17
+1105,E101104,James,Sanchez,Male,1994,32,Married,Master's,2025-01-07,,,,Active,Full-Time,3,1017,6,3,E100250,137000,USD,13
+1106,E101105,Diego,Khan,Male,1988,38,Married,Bachelor's,2025-01-04,2025-05-21,Compensation,Voluntary,Terminated,Full-Time,3,1015,4,1,E100765,82500,USD,8
+1107,E101106,Susan,Sanchez,Female,1998,28,Married,Bachelor's,2025-01-02,,,,On Leave,Full-Time,3,1014,3,5,E100194,31500,USD,17
+1108,E101107,Natalie,Kim,Female,1992,34,Married,PhD,2025-01-21,2025-07-13,Performance,Involuntary,Terminated,Full-Time,5,1024,1,1,E100402,35000,USD,9
+1109,E101108,Maria,Williams,Female,2000,26,Married,Bachelor's,2025-01-26,,,,On Leave,Full-Time,5,1024,1,1,E100445,38000,USD,26
+1110,E101109,Chloe,Thomas,Female,2001,25,Married,Master's,2025-01-06,,,,Active,Full-Time,5,1024,1,5,E100958,21500,USD,41
+1111,E101110,Kevin,Shah,Male,1994,32,Single,Bachelor's,2025-01-04,,,,Active,Full-Time,5,1027,4,2,E100398,101000,USD,9
+1112,E101111,Anjali,Clark,Female,1983,43,Married,High School,2025-01-09,,,,Active,Full-Time,6,1030,4,5,E100728,49500,USD,25
+1113,E101112,Grace,Miller,Female,1996,30,Married,Bachelor's,2025-01-04,,,,Active,Full-Time,7,1034,3,5,E100519,40000,USD,7
+1114,E101113,Anjali,Nguyen,Female,1989,37,Single,Master's,2025-01-22,,,,Active,Full-Time,7,1036,3,5,E100514,38000,USD,5
+1115,E101114,Eric,Iyer,Male,1995,31,Married,PhD,2025-01-15,,,,Active,Full-Time,10,1053,2,5,E100623,25000,USD,7
+1116,E101115,Priya,Anderson,Female,2001,25,Single,Bachelor's,2025-02-25,,,,On Leave,Full-Time,1,1000,2,3,E100054,41000,USD,14
+1117,E101116,Jason,Singh,Male,2004,22,Single,Bachelor's,2025-02-15,,,,On Leave,Full-Time,1,1002,4,4,E101098,85000,USD,3
+1118,E101117,Rachel,Shah,Female,1995,31,Single,Bachelor's,2025-02-13,,,,Active,Full-Time,2,1009,4,5,E100812,49500,USD,8
+1119,E101118,Matthew,Khan,Male,1995,31,Single,Bachelor's,2025-02-20,2026-06-10,Better Opportunity,Voluntary,Terminated,Full-Time,3,1016,5,5,E100250,56000,USD,5
+1120,E101119,Fatima,Wright,Female,1992,34,Single,High School,2025-02-12,2025-12-26,Return to Education,Voluntary,Terminated,Part-Time,3,1015,4,3,E100228,83500,USD,30
+1121,E101120,Mary,Ramirez,Female,2003,23,Married,Bachelor's,2025-02-18,,,,Active,Full-Time,3,1013,1,3,E100806,37500,USD,1
+1122,E101121,Miguel,Lewis,Male,1985,41,Married,Master's,2025-02-08,2025-12-02,Performance,Involuntary,Terminated,Full-Time,4,1019,2,5,E100969,27000,USD,30
+1123,E101122,Andrew,Ferreira,Male,1975,51,Divorced,Master's,2025-02-12,2025-10-25,Relocation,Voluntary,Terminated,Full-Time,5,1025,2,1,E100373,54500,USD,5
+1124,E101123,Karen,Martin,Female,2001,25,Single,Bachelor's,2025-02-03,2025-03-27,Policy Violation,Involuntary,Terminated,Full-Time,5,1024,1,6,E100980,37000,USD,1
+1125,E101124,Sanjay,Kim,Male,1995,31,Single,Bachelor's,2025-02-10,2025-07-20,Career Change,Voluntary,Terminated,Full-Time,5,1027,4,4,E100398,76500,USD,6
+1126,E101125,Elizabeth,Nguyen,Female,1999,27,Married,Master's,2025-02-21,,,,Active,Full-Time,6,1029,2,3,E100493,41500,USD,5
+1127,E101126,Daniel,Robinson,Male,2004,22,Married,Bachelor's,2025-02-26,,,,On Leave,Full-Time,6,1032,5,6,E100493,133500,USD,13
+1128,E101127,Sophia,Patel,Female,2004,22,Married,Master's,2025-02-21,,,,Active,Full-Time,10,1051,5,1,E100621,124000,USD,14
+1129,E101128,Amara,Lee,Female,1998,28,Single,Bachelor's,2025-02-01,,,,Active,Part-Time,10,1053,2,1,E100636,57000,USD,1
+1130,E101129,Fatima,Martinez,Female,1995,31,Single,Bachelor's,2025-03-21,,,,Active,Full-Time,3,1013,1,4,E100266,47500,USD,8
+1131,E101130,Patricia,Nguyen,Female,2004,22,Single,High School,2025-03-14,,,,Active,Full-Time,3,1016,5,1,E100250,133000,USD,1
+1132,E101131,Kevin,Rodriguez,Male,1995,31,Single,Bachelor's,2025-03-11,2025-04-18,Return to Education,Voluntary,Terminated,Full-Time,3,1018,3,3,E100233,62000,USD,7
+1133,E101132,Claire,Perez,Female,1991,35,Married,Bachelor's,2025-03-08,,,,Active,Full-Time,4,1021,5,2,E100325,93500,USD,9
+1134,E101133,Sarah,Chen,Female,2004,22,Married,Bachelor's,2025-03-15,,,,Active,Full-Time,5,1027,4,5,E100398,39000,USD,16
+1135,E101134,Sarah,White,Female,1995,31,Single,Bachelor's,2025-03-06,,,,Active,Full-Time,5,1026,3,4,E100441,68000,USD,23
+1136,E101135,Fatima,Singh,Female,1994,32,Married,PhD,2025-03-28,,,,Active,Full-Time,6,1029,2,1,E100483,57500,USD,6
+1137,E101136,Matthew,Garcia,Male,1991,35,Single,Bachelor's,2025-03-15,,,,Active,Full-Time,8,1041,5,4,E100821,115500,USD,8
+1138,E101137,Ava,Nair,Female,1992,34,Married,Bachelor's,2025-03-01,,,,Active,Full-Time,10,1049,2,5,E100609,25500,USD,8
+1139,E101138,Noah,Chen,Male,1993,33,Single,Bachelor's,2025-04-11,,,,Active,Full-Time,1,1003,5,1,E100811,133000,USD,20
+1140,E101139,Jennifer,Miller,Female,1980,46,Married,Master's,2025-04-08,,,,Active,Full-Time,1,1002,4,1,E100123,68500,USD,1
+1141,E101140,Karen,Ali,Female,1999,27,Married,Master's,2025-04-27,,,,Active,Full-Time,2,1012,3,1,E100182,62500,USD,11
+1142,E101141,Grace,Wright,Non-binary,2004,22,Married,PhD,2025-04-26,,,,Active,Full-Time,3,1014,3,1,E100670,74000,USD,2
+1143,E101142,Aisha,Taylor,Female,1991,35,Married,Bachelor's,2025-04-26,,,,Active,Full-Time,3,1015,4,1,E100739,104500,USD,10
+1144,E101143,Ryan,Clark,Male,1991,35,Married,Bachelor's,2025-04-15,2025-07-28,Policy Violation,Involuntary,Terminated,Full-Time,4,1019,2,1,E100337,49000,USD,6
+1145,E101144,Olivia,Sanchez,Female,1991,35,Married,Master's,2025-04-16,,,,Active,Full-Time,5,1025,2,5,E101133,25000,USD,18
+1146,E101145,Olivia,Clark,Female,1996,30,Divorced,Master's,2025-04-21,,,,Active,Full-Time,5,1025,2,4,E100418,58500,USD,60
+1147,E101146,Rachel,Smith,Female,1993,33,Divorced,Bachelor's,2025-05-03,,,,On Leave,Full-Time,1,1000,2,5,E101001,21000,USD,33
+1148,E101147,Nancy,Shah,Female,2004,22,Single,Master's,2025-05-22,,,,Active,Full-Time,1,1000,2,4,E100877,47500,USD,6
+1149,E101148,Grace,Brown,Female,1992,34,Single,Master's,2025-05-16,,,,On Leave,Full-Time,2,1012,3,2,E100159,75000,USD,1
+1150,E101149,Jennifer,King,Female,2004,22,Married,Master's,2025-05-09,2026-04-16,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1016,5,3,E100250,105000,USD,2
+1151,E101150,Noah,Nguyen,Male,1997,29,Married,Master's,2025-05-19,,,,On Leave,Full-Time,3,1016,5,1,E100250,107000,USD,5
+1152,E101151,Hannah,Moore,Female,1993,33,Married,Bachelor's,2025-05-12,,,,Active,Full-Time,3,1018,3,1,E100189,73000,USD,4
+1153,E101152,Wei Ling,Nguyen,Female,1999,27,Married,Bachelor's,2025-05-10,,,,Active,Full-Time,3,1017,6,1,E100250,123500,USD,32
+1154,E101153,Ava,Wright,Female,1991,35,Single,High School,2025-05-19,,,,Active,Full-Time,3,1015,4,6,E100764,99000,USD,1
+1155,E101154,Amara,Wilson,Female,1989,37,Married,Master's,2025-05-14,,,,Active,Full-Time,5,1024,1,2,E100373,30500,USD,13
+1156,E101155,Olivia,Clark,Female,2002,24,Married,Master's,2025-05-26,,,,Active,Full-Time,5,1027,4,4,E100398,97000,USD,17
+1157,E101156,Noah,Shah,Male,1985,41,Married,High School,2025-05-25,,,,Active,Full-Time,7,1036,3,1,E100510,79000,USD,13
+1158,E101157,William,Miller,Male,1996,30,Single,Master's,2025-05-05,,,,Active,Full-Time,10,1049,2,5,E100605,25500,USD,22
+1159,E101158,Susan,Miller,Female,2002,24,Married,Bachelor's,2025-06-25,,,,On Leave,Full-Time,1,1007,4,5,E100073,44000,USD,54
+1160,E101159,Carlos,Sanchez,Male,1998,28,Married,Master's,2025-06-13,,,,Active,Full-Time,1,1005,6,3,E100031,142500,USD,3
+1161,E101160,Anjali,Johnson,Female,1990,36,Single,Master's,2025-06-02,,,,Active,Full-Time,3,1013,1,5,E100737,22500,USD,4
+1162,E101161,Wei Ling,Ferreira,Female,1989,37,Single,Bachelor's,2025-06-01,,,,Active,Full-Time,3,1013,1,5,E100232,19000,USD,2
+1163,E101162,Liam,Lewis,Male,1991,35,Single,Bachelor's,2025-06-17,,,,Active,Full-Time,5,1025,2,4,E100842,64000,USD,4
+1164,E101163,Claire,Wright,Female,1997,29,Single,Bachelor's,2025-06-11,,,,Active,Full-Time,5,1026,3,4,E100796,72000,USD,16
+1165,E101164,Sarah,Smith,Female,1984,42,Married,Bachelor's,2025-06-06,2025-11-08,Career Change,Voluntary,Terminated,Full-Time,9,1046,4,3,E100566,78500,USD,14
+1166,E101165,Aisha,Lopez,Female,1983,43,Married,PhD,2025-07-12,,,,Active,Full-Time,1,1001,3,4,E100780,74500,USD,6
+1167,E101166,Olivia,Moore,Female,1992,34,Single,Bachelor's,2025-07-17,,,,Active,Full-Time,3,1018,3,2,E100219,65000,USD,3
+1168,E101167,Fatima,Khan,Female,2002,24,Married,Bachelor's,2025-07-06,,,,On Leave,Full-Time,3,1013,1,3,E100197,41000,USD,11
+1169,E101168,Linda,Ali,Female,1997,29,Divorced,High School,2025-07-13,2025-08-01,Position Eliminated,Involuntary,Terminated,Full-Time,4,1020,3,4,E100325,78000,USD,28
+1170,E101169,Raj,Robinson,Male,1999,27,Married,Bachelor's,2025-07-27,,,,Active,Full-Time,4,1021,5,5,E100325,63500,USD,6
+1171,E101170,James,Moore,Male,2000,26,Single,Master's,2025-07-21,,,,On Leave,Full-Time,5,1028,5,1,E100398,137000,USD,30
+1172,E101171,Priya,Gonzalez,Female,1995,31,Single,Master's,2025-07-02,,,,Active,Full-Time,10,1049,2,5,E100609,21500,USD,13
+1173,E101172,Fatima,Garcia,Female,2002,24,Single,High School,2025-08-09,,,,On Leave,Full-Time,1,1002,4,5,E100033,34000,USD,4
+1174,E101173,Raj,Rodriguez,Male,2003,23,Single,Bachelor's,2025-08-03,,,,On Leave,Full-Time,1,1004,5,3,E100031,103500,USD,46
+1175,E101174,Sophia,Allen,Female,1984,42,Single,Bachelor's,2025-08-23,,,,Active,Part-Time,2,1011,6,1,E100185,141000,USD,19
+1176,E101175,John,Walker,Male,2004,22,Single,Bachelor's,2025-08-21,,,,Active,Full-Time,3,1018,3,1,E100259,69500,USD,6
+1177,E101176,Andrew,Kumar,Male,1993,33,Single,Bachelor's,2025-08-17,,,,Active,Full-Time,3,1014,3,4,E101149,85500,USD,9
+1178,E101177,Hannah,Singh,Female,1996,30,Divorced,Master's,2025-08-14,,,,Active,Full-Time,4,1022,3,4,E100341,81000,USD,32
+1179,E101178,Jessica,Garcia,Female,2004,22,Divorced,Bachelor's,2025-08-03,,,,Active,Full-Time,4,1022,3,1,E100311,65500,USD,22
+1180,E101179,Andrew,Nguyen,Male,1994,32,Single,Bachelor's,2025-08-14,2025-10-04,Career Change,Voluntary,Terminated,Full-Time,5,1024,1,4,E100455,37500,USD,7
+1181,E101180,Hannah,Rodriguez,Non-binary,1990,36,Married,Bachelor's,2025-08-19,,,,Active,Full-Time,5,1026,3,2,E100400,70500,USD,6
+1182,E101181,Mason,Iyer,Male,2001,25,Divorced,Bachelor's,2025-08-19,,,,Active,Full-Time,6,1029,2,1,E100476,54500,USD,3
+1183,E101182,Hannah,Thomas,Female,1995,31,Single,Bachelor's,2025-08-24,,,,On Leave,Full-Time,10,1049,2,2,E100752,48000,USD,1
+1184,E101183,Natalie,Allen,Female,1998,28,Single,Bachelor's,2025-09-06,,,,On Leave,Full-Time,1,1002,4,1,E101100,83000,USD,13
+1185,E101184,Daniel,Smith,Male,1991,35,Single,Bachelor's,2025-09-20,,,,On Leave,Full-Time,1,1001,3,1,E100123,83500,USD,10
+1186,E101185,Chen,Patel,Male,1975,51,Married,Master's,2025-09-28,,,,Active,Full-Time,1,1002,4,4,E100123,99000,USD,21
+1187,E101186,John,Shah,Male,1994,32,Divorced,Bachelor's,2025-09-16,,,,Active,Full-Time,2,1010,5,2,E100159,126000,USD,1
+1188,E101187,Wei Ling,Iyer,Female,2004,22,Single,Bachelor's,2025-09-03,,,,Active,Part-Time,2,1008,2,3,E100182,44000,USD,2
+1189,E101188,David,Sanchez,Male,1986,40,Married,Bachelor's,2025-09-02,2026-08-01,Return to Education,Voluntary,Terminated,Full-Time,3,1016,5,1,E100250,129000,USD,7
+1190,E101189,Anthony,Lewis,Male,1984,42,Single,Master's,2025-09-15,,,,Active,Full-Time,3,1014,3,5,E100696,28500,USD,23
+1191,E101190,Kevin,Ramirez,Male,1986,40,Single,PhD,2025-09-28,2026-02-27,Position Eliminated,Involuntary,Terminated,Full-Time,4,1022,3,3,E100644,68000,USD,1
+1192,E101191,Andrew,Martinez,Male,1996,30,Married,PhD,2025-09-12,,,,Active,Full-Time,4,1022,3,1,E100361,72000,USD,25
+1193,E101192,Kevin,Robinson,Male,1994,32,Divorced,Bachelor's,2025-09-09,,,,Active,Full-Time,5,1024,1,1,E101155,47000,USD,14
+1194,E101193,Rohan,Young,Male,1996,30,Married,High School,2025-09-05,,,,Active,Full-Time,5,1025,2,5,E100386,24000,USD,4
+1195,E101194,Chen,Clark,Male,2004,22,Married,Bachelor's,2025-09-10,,,,Active,Full-Time,5,1024,1,2,E100422,36000,USD,8
+1196,E101195,James,Taylor,Male,1995,31,Single,Bachelor's,2025-09-13,,,,On Leave,Part-Time,6,1033,6,1,E100493,159000,USD,1
+1197,E101196,Rachel,Costa,Female,2003,23,Single,Bachelor's,2025-09-04,,,,Active,Full-Time,6,1029,2,5,E100496,28000,USD,4
+1198,E101197,Chen,Jackson,Male,1985,41,Divorced,Bachelor's,2025-09-08,,,,On Leave,Full-Time,7,1035,4,2,E100538,87000,USD,1
+1199,E101198,Daniel,Johnson,Male,2004,22,Single,Master's,2025-09-17,,,,Active,Full-Time,9,1046,4,1,E100562,99000,USD,12
+1200,E101199,Susan,Wilson,Female,1994,32,Married,Master's,2025-09-19,,,,Active,Full-Time,10,1052,6,1,E100621,183000,USD,44
+1201,E101200,Carlos,Rodriguez,Male,1988,38,Divorced,Master's,2025-10-27,,,,Active,Full-Time,1,1003,5,2,E100682,102000,USD,5
+1202,E101201,Daniel,Smith,Male,1993,33,Married,High School,2025-10-22,,,,Active,Full-Time,1,1000,2,4,E100075,61000,USD,7
+1203,E101202,John,Robinson,Male,1997,29,Single,Bachelor's,2025-10-02,2026-08-12,Did Not Return from Leave,Voluntary,Terminated,Full-Time,3,1014,3,4,E100231,76500,USD,67
+1204,E101203,Robert,Davis,Male,1998,28,Divorced,Bachelor's,2025-10-25,,,,On Leave,Full-Time,4,1023,6,4,E100325,182000,USD,4
+1205,E101204,Anthony,White,Male,2004,22,Married,Master's,2025-10-20,,,,Active,Full-Time,4,1019,2,1,E101017,53500,USD,2
+1206,E101205,Liam,Kumar,Male,1999,27,Divorced,Bachelor's,2025-10-08,,,,Active,Full-Time,5,1027,4,1,E100398,81000,USD,6
+1207,E101206,Fatima,Anderson,Female,2004,22,Single,Bachelor's,2025-10-16,,,,On Leave,Full-Time,5,1024,1,1,E100746,34500,USD,8
+1208,E101207,Rachel,Ali,Female,1993,33,Single,Bachelor's,2025-10-01,,,,Active,Full-Time,7,1034,3,1,E100984,71000,USD,31
+1209,E101208,Natalie,Thomas,Female,2004,22,Single,High School,2025-11-25,,,,On Leave,Full-Time,1,1006,3,2,E100123,65500,USD,1
+1210,E101209,Sanjay,Miller,Male,1999,27,Single,Bachelor's,2025-11-28,,,,Active,Full-Time,3,1014,3,1,E100815,72000,USD,3
+1211,E101210,Liam,Kim,Male,1999,27,Divorced,High School,2025-11-27,,,,Active,Full-Time,3,1014,3,1,E100903,75000,USD,8
+1212,E101211,Liam,Martinez,Male,1986,40,Single,Bachelor's,2025-11-23,,,,Active,Full-Time,4,1019,2,1,E100316,57000,USD,7
+1213,E101212,Jason,Khan,Male,2001,25,Single,Bachelor's,2025-11-23,,,,Active,Full-Time,4,1023,6,5,E100325,73500,USD,18
+1214,E101213,John,Taylor,Male,1987,39,Married,Master's,2025-11-25,,,,On Leave,Full-Time,5,1026,3,1,E100418,75000,USD,10
+1215,E101214,Jennifer,Rodriguez,Female,1987,39,Single,Bachelor's,2025-11-20,2026-05-16,Career Change,Voluntary,Terminated,Full-Time,5,1024,1,2,E100834,41500,USD,2
+1216,E101215,Ethan,Taylor,Male,1994,32,Single,Master's,2025-11-23,2026-06-09,Retirement,Voluntary,Terminated,Full-Time,8,1040,3,5,E100551,36500,USD,21
+1217,E101216,Emma,Moore,Female,1990,36,Married,Bachelor's,2025-11-04,,,,Active,Full-Time,9,1047,5,1,E100555,96500,USD,4
+1218,E101217,Kevin,Wright,Male,2004,22,Single,High School,2025-12-16,,,,On Leave,Full-Time,1,1004,5,6,E100031,122000,USD,6
+1219,E101218,James,Thomas,Male,2004,22,Single,Bachelor's,2025-12-19,,,,On Leave,Full-Time,3,1016,5,4,E100250,131000,USD,25
+1220,E101219,Linda,Khan,Female,1988,38,Single,Master's,2025-12-21,,,,Active,Full-Time,3,1014,3,6,E101052,62500,USD,9
+1221,E101220,Olivia,Lewis,Female,2004,22,Married,Bachelor's,2025-12-27,,,,Active,Full-Time,3,1018,3,5,E100286,33500,USD,11
+1222,E101221,Yuki,White,Female,1984,42,Single,Bachelor's,2025-12-01,,,,Active,Full-Time,3,1016,5,3,E100250,96500,USD,39
+1223,E101222,Aisha,Rodriguez,Female,1995,31,Divorced,Bachelor's,2025-12-24,,,,Active,Full-Time,4,1019,2,5,E100318,29500,USD,2
+1224,E101223,Ryan,Ali,Male,1995,31,Married,Bachelor's,2025-12-18,,,,On Leave,Full-Time,5,1025,2,4,E100451,57500,USD,1
+1225,E101224,Kevin,Taylor,Male,1992,34,Single,Master's,2025-12-12,,,,On Leave,Full-Time,5,1026,3,1,E100429,67000,USD,39
+1226,E101225,David,Miller,Male,1993,33,Single,Bachelor's,2025-12-21,,,,Active,Full-Time,5,1025,2,1,E100911,54500,USD,1
+1227,E101226,Wei,Brown,Male,1993,33,Single,Bachelor's,2025-12-15,,,,Active,Full-Time,9,1046,4,1,E101216,81000,USD,1
+1228,E101227,John,Jones,Male,2005,21,Single,High School,2026-01-17,,,,Active,Full-Time,1,1007,4,6,E100073,79000,USD,6
+1229,E101228,Ryan,Lopez,Male,1994,32,Married,Master's,2026-01-07,,,,Active,Full-Time,1,1006,3,1,E101098,76500,USD,5
+1230,E101229,Jason,Williams,Male,1983,43,Divorced,Bachelor's,2026-01-09,,,,Active,Full-Time,2,1010,5,2,E100182,113000,USD,25
+1231,E101230,Diego,Allen,Male,2001,25,Married,Bachelor's,2026-01-17,,,,On Leave,Full-Time,3,1016,5,2,E100250,122500,USD,1
+1232,E101231,Rohan,Patel,Male,1993,33,Married,Master's,2026-01-25,,,,Active,Full-Time,3,1013,1,6,E100764,40500,USD,8
+1233,E101232,Chen,Wilson,Male,1987,39,Single,High School,2026-01-02,,,,Active,Full-Time,3,1013,1,2,E100307,42000,USD,9
+1234,E101233,Emma,Martinez,Female,1994,32,Married,Bachelor's,2026-01-13,,,,Active,Full-Time,3,1018,3,3,E100233,67500,USD,18
+1235,E101234,Miguel,Rodriguez,Male,1993,33,Married,Bachelor's,2026-01-25,,,,Active,Full-Time,3,1017,6,1,E100250,186000,USD,27
+1236,E101235,Ryan,Brown,Male,1996,30,Married,Master's,2026-01-13,,,,Active,Full-Time,4,1019,2,3,E100644,50500,USD,12
+1237,E101236,Grace,Kumar,Female,2005,21,Married,Bachelor's,2026-01-14,,,,On Leave,Full-Time,4,1020,3,2,E100317,52000,USD,11
+1238,E101237,Anjali,Robinson,Female,1999,27,Married,Master's,2026-01-17,,,,Active,Full-Time,5,1024,1,1,E100412,47500,USD,41
+1239,E101238,Maria,Singh,Female,1988,38,Married,Bachelor's,2026-01-22,,,,On Leave,Full-Time,5,1026,3,5,E100713,26000,USD,2
+1240,E101239,Wei Ling,Allen,Female,1996,30,Married,Master's,2026-01-25,,,,On Leave,Full-Time,5,1024,1,3,E100422,34000,USD,1
+1241,E101240,John,Robinson,Male,1986,40,Single,Bachelor's,2026-01-26,,,,Active,Full-Time,6,1032,5,5,E100493,62500,USD,1
+1242,E101241,Amara,Moore,Female,2005,21,Married,Master's,2026-01-28,,,,Active,Full-Time,7,1035,4,1,E100538,70000,USD,2
+1243,E101242,Daniel,Chen,Male,2002,24,Married,Bachelor's,2026-01-14,,,,Active,Full-Time,9,1044,2,2,E101216,49000,USD,6
+1244,E101243,Ryan,Taylor,Male,1980,46,Single,Bachelor's,2026-01-26,,,,Active,Full-Time,10,1049,2,5,E100609,28000,USD,23
+1245,E101244,Raj,King,Male,1993,33,Single,PhD,2026-02-08,,,,Active,Full-Time,1,1000,2,5,E100116,23000,USD,13
+1246,E101245,Andrew,Wilson,Male,1997,29,Single,High School,2026-02-15,,,,Active,Full-Time,1,1000,2,1,E100033,49000,USD,7
+1247,E101246,Jennifer,Lopez,Female,2005,21,Single,Bachelor's,2026-02-10,,,,Active,Part-Time,1,1000,2,2,E100054,48500,USD,45
+1248,E101247,Neha,King,Female,1993,33,Married,Bachelor's,2026-02-10,,,,Active,Full-Time,1,1006,3,4,E101098,78000,USD,7
+1249,E101248,Daniel,Robinson,Male,1995,31,Divorced,Master's,2026-02-04,,,,Active,Full-Time,2,1008,2,5,E100812,22500,USD,1
+1250,E101249,Elizabeth,Rodriguez,Female,2005,21,Married,Master's,2026-02-20,,,,Active,Full-Time,3,1013,1,2,E100204,36000,USD,20
+1251,E101250,Noah,Lee,Male,1995,31,Single,PhD,2026-02-23,2026-05-04,Personal Reasons,Voluntary,Terminated,Full-Time,3,1014,3,2,E100188,66500,USD,1
+1252,E101251,Maria,Khan,Non-binary,2005,21,Married,Bachelor's,2026-02-05,,,,On Leave,Full-Time,3,1013,1,5,E101061,19500,USD,8
+1253,E101252,Olivia,Kim,Female,1996,30,Single,Master's,2026-02-03,,,,Active,Full-Time,3,1013,1,1,E100244,45500,USD,10
+1254,E101253,Sarah,Nguyen,Female,2004,22,Single,Bachelor's,2026-02-25,,,,Active,Full-Time,3,1013,1,1,E100218,39500,USD,15
+1255,E101254,Amit,Nair,Male,1992,34,Married,Bachelor's,2026-02-04,,,,Active,Full-Time,3,1015,4,6,E100720,93000,USD,3
+1256,E101255,Susan,Wright,Female,1995,31,Single,Bachelor's,2026-02-12,,,,Active,Part-Time,4,1023,6,4,E100325,182000,USD,1
+1257,E101256,David,Kim,Male,1994,32,Married,Master's,2026-02-26,,,,Active,Full-Time,5,1024,1,2,E100657,41500,USD,15
+1258,E101257,Anthony,Nair,Male,1998,28,Married,Bachelor's,2026-02-04,,,,Active,Full-Time,7,1035,4,3,E100526,73000,USD,7
+1259,E101258,Anthony,Anderson,Male,1990,36,Married,Master's,2026-03-18,,,,Active,Full-Time,2,1011,6,5,E100185,83000,USD,15
+1260,E101259,Wei Ling,Sanchez,Female,1994,32,Married,Bachelor's,2026-03-03,,,,Active,Full-Time,2,1012,3,4,E100185,70500,USD,4
+1261,E101260,Maria,Moore,Female,2000,26,Single,Master's,2026-03-24,,,,On Leave,Full-Time,3,1018,3,5,E100206,26000,USD,44
+1262,E101261,Emma,Jones,Female,2001,25,Single,Bachelor's,2026-03-03,2026-06-14,Relocation,Voluntary,Terminated,Full-Time,3,1014,3,6,E101052,67000,USD,6
+1263,E101262,Chloe,Thomas,Female,2002,24,Married,Master's,2026-03-07,,,,Active,Full-Time,3,1016,5,2,E100250,113500,USD,16
+1264,E101263,Grace,Martin,Female,1988,38,Divorced,Bachelor's,2026-03-23,,,,Active,Full-Time,5,1024,1,3,E100372,36500,USD,19
+1265,E101264,Anthony,Lee,Male,2004,22,Divorced,High School,2026-03-20,,,,Active,Full-Time,5,1027,4,5,E100398,45500,USD,4
+1266,E101265,Daniel,Patel,Male,1983,43,Single,Master's,2026-03-21,,,,Active,Full-Time,9,1045,3,4,E100580,83000,USD,27
+1267,E101266,Joseph,Singh,Male,2000,26,Single,Bachelor's,2026-04-22,,,,Active,Full-Time,1,1003,5,2,E100073,104500,USD,5
+1268,E101267,Kevin,Iyer,Male,2003,23,Married,Bachelor's,2026-04-14,,,,Active,Full-Time,3,1015,4,3,E100248,78500,USD,24
+1269,E101268,Sarah,Wright,Female,1993,33,Married,Bachelor's,2026-04-14,,,,Active,Full-Time,3,1013,1,1,E100204,40500,USD,15
+1270,E101269,Anthony,Jones,Male,1994,32,Single,Master's,2026-04-15,,,,Active,Full-Time,10,1053,2,1,E100598,61000,USD,54
+1271,E101270,Mason,Nair,Male,2002,24,Married,Bachelor's,2026-05-24,,,,Active,Full-Time,1,1002,4,4,E100036,101500,USD,5
+1272,E101271,Laura,Johnson,Non-binary,1997,29,Single,High School,2026-05-01,,,,Active,Full-Time,3,1013,1,5,E100224,17000,USD,3
+1273,E101272,Wei Ling,White,Female,1996,30,Married,Bachelor's,2026-05-17,,,,Active,Full-Time,3,1016,5,5,E100250,48000,USD,3
+1274,E101273,Eric,Wright,Male,1987,39,Divorced,Master's,2026-05-15,,,,Active,Full-Time,3,1018,3,2,E100262,61000,USD,1
+1275,E101274,Olivia,Shah,Female,2002,24,Single,Master's,2026-05-07,,,,Active,Full-Time,3,1013,1,3,E100227,31000,USD,6
+1276,E101275,Jennifer,Costa,Female,1997,29,Single,Bachelor's,2026-05-14,,,,Active,Full-Time,4,1019,2,1,E100311,50500,USD,11
+1277,E101276,Linda,Iyer,Female,1996,30,Divorced,Bachelor's,2026-05-16,,,,Active,Full-Time,5,1024,1,1,E100373,35000,USD,1
+1278,E101277,William,Hernandez,Male,1998,28,Single,Bachelor's,2026-05-28,,,,Active,Full-Time,5,1025,2,1,E101082,55500,USD,6
+1279,E101278,Sarah,Ali,Female,1994,32,Married,Master's,2026-05-21,,,,Active,Full-Time,9,1044,2,4,E100562,57500,USD,31
+1280,E101279,Brian,Smith,Male,2000,26,Divorced,High School,2026-06-25,,,,Active,Full-Time,1,1003,5,6,E100078,107000,USD,13
+1281,E101280,Joseph,Johnson,Male,1983,43,Married,Bachelor's,2026-06-07,,,,Active,Full-Time,1,1002,4,1,E100780,98500,USD,6
+1282,E101281,Noah,Thompson,Male,1996,30,Married,Bachelor's,2026-06-15,,,,Active,Part-Time,3,1014,3,3,E100254,60500,USD,7
+1283,E101282,Olivia,Smith,Female,1986,40,Single,Bachelor's,2026-06-08,,,,Active,Full-Time,3,1014,3,1,E100228,64500,USD,38
+1284,E101283,Amit,Wang,Male,1999,27,Married,Master's,2026-06-13,,,,Active,Part-Time,3,1015,4,4,E100720,99000,USD,10
+1285,E101284,Anjali,Iyer,Female,1994,32,Married,Bachelor's,2026-06-03,,,,Active,Full-Time,5,1025,2,2,E101124,44500,USD,12
+1286,E101285,Susan,Ferreira,Female,2000,26,Married,Bachelor's,2026-06-20,,,,Active,Full-Time,5,1026,3,1,E100422,66500,USD,1
+1287,E101286,Jennifer,Patel,Female,2001,25,Single,Bachelor's,2026-06-15,,,,Active,Part-Time,5,1024,1,2,E100461,40000,USD,1
+1288,E101287,Michael,Wilson,Male,2000,26,Married,Bachelor's,2026-06-05,,,,Active,Full-Time,6,1031,3,4,E100485,79500,USD,7
+1289,E101288,Patricia,Garcia,Female,2004,22,Single,Master's,2026-07-25,,,,Active,Full-Time,1,1000,2,4,E100877,53000,USD,30
+1290,E101289,Raj,Young,Male,1997,29,Married,Bachelor's,2026-07-04,,,,Active,Full-Time,1,1007,4,4,E101013,93500,USD,1
+1291,E101290,Robert,Costa,Male,1986,40,Married,PhD,2026-07-25,,,,Active,Full-Time,3,1015,4,2,E100188,83000,USD,23
+1292,E101291,Priya,Jackson,Female,1998,28,Married,Bachelor's,2026-07-28,,,,Active,Full-Time,3,1014,3,1,E100254,63500,USD,18
+1293,E101292,Susan,Patel,Female,1992,34,Single,Bachelor's,2026-07-11,,,,Active,Full-Time,4,1019,2,5,E100342,23000,USD,3
+1294,E101293,Anthony,Nguyen,Male,1992,34,Married,Bachelor's,2026-07-03,,,,Active,Full-Time,5,1028,5,1,E100398,122000,USD,2
+1295,E101294,Mason,Sanchez,Male,1999,27,Single,High School,2026-07-11,,,,Active,Part-Time,5,1024,1,2,E100726,39500,USD,3
+1296,E101295,Jason,Taylor,Male,1986,40,Single,Bachelor's,2026-07-08,,,,Active,Full-Time,10,1049,2,1,E100898,61500,USD,4
+1297,E101296,Miguel,Gonzalez,Male,1987,39,Single,High School,2026-08-11,,,,Active,Full-Time,1,1007,4,4,E101013,90000,USD,4
+1298,E101297,Anthony,Lee,Male,2002,24,Single,Master's,2026-08-18,,,,Active,Part-Time,3,1018,3,1,E101298,83500,USD,34
+1299,E101298,Neha,Moore,Female,1992,34,Single,Bachelor's,2026-08-09,,,,Active,Full-Time,3,1016,5,2,E100250,108500,USD,22
+1300,E101299,Kevin,Nguyen,Male,1984,42,Single,Bachelor's,2026-08-06,,,,Active,Full-Time,3,1013,1,4,E101230,41000,USD,2
+1301,E101300,Diego,Brown,Male,1997,29,Single,Master's,2026-08-17,,,,Active,Full-Time,4,1022,3,4,E101017,72000,USD,58
+1302,E101301,Karen,Robinson,Female,1985,41,Single,Master's,2026-08-08,,,,Active,Full-Time,5,1025,2,6,E100461,46500,USD,1
+1303,E101302,Amara,Kim,Female,1993,33,Married,Bachelor's,2026-08-10,,,,Active,Full-Time,5,1028,5,1,E100398,133000,USD,19
+1304,E101303,Rohan,Allen,Male,1994,32,Married,Master's,2026-08-06,,,,Active,Full-Time,5,1025,2,5,E101205,24000,USD,1
+1305,E101304,John,White,Male,2005,21,Single,High School,2026-08-08,,,,Active,Full-Time,8,1041,5,6,E100821,95000,USD,30
+1306,E101305,James,Shah,Male,1992,34,Single,Bachelor's,2026-08-07,,,,Active,Full-Time,10,1052,6,2,E100621,149000,USD,16

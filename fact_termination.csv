@@ -1,0 +1,576 @@
+TerminationID,EmployeeID,TerminationDate,DepartmentKey,JobKey,LocationKey,TerminationType,TerminationReason,TenureMonthsAtExit,RegrettedLoss
+1,E100258,2021-02-04,3,1018,6,Voluntary,Relocation,64.1,False
+2,E100432,2021-02-11,5,1028,4,Involuntary,Restructuring,47.9,False
+3,E100450,2021-02-21,5,1026,1,Voluntary,Compensation,46.1,True
+4,E100531,2021-02-01,7,1038,1,Involuntary,Position Eliminated,8.4,False
+5,E100028,2021-03-05,1,1006,1,Involuntary,Restructuring,21.6,False
+6,E100177,2021-03-13,2,1010,4,Voluntary,Return to Education,24.0,False
+7,E100294,2021-03-07,3,1014,3,Voluntary,Personal Reasons,12.5,False
+8,E100447,2021-03-28,5,1024,2,Voluntary,Career Change,23.7,True
+9,E100468,2021-03-16,5,1027,2,Voluntary,Return to Education,70.0,True
+10,E100481,2021-03-21,6,1031,5,Voluntary,Relocation,97.5,False
+11,E100591,2021-03-28,10,1050,3,Involuntary,Restructuring,21.0,False
+12,E100638,2021-03-11,10,1050,5,Voluntary,Did Not Return from Leave,7.3,False
+13,E100194,2021-04-23,3,1017,1,Involuntary,Position Eliminated,62.9,False
+14,E100215,2021-04-07,3,1014,5,Voluntary,Better Opportunity,6.5,False
+15,E100266,2021-04-03,3,1017,4,Voluntary,Did Not Return from Leave,34.2,False
+16,E100442,2021-04-22,5,1024,1,Involuntary,Policy Violation,13.3,False
+17,E100524,2021-04-09,7,1037,1,Voluntary,Personal Reasons,8.0,True
+18,E100610,2021-04-22,10,1053,5,Voluntary,Better Opportunity,13.4,False
+19,E100096,2021-05-12,1,1007,4,Involuntary,Policy Violation,30.3,False
+20,E100123,2021-05-24,1,1004,2,Voluntary,Career Change,58.0,False
+21,E100199,2021-05-09,3,1018,4,Voluntary,Personal Reasons,21.0,False
+22,E100254,2021-05-22,3,1017,1,Voluntary,Did Not Return from Leave,62.9,False
+23,E100280,2021-05-03,3,1013,3,Voluntary,Did Not Return from Leave,12.1,False
+24,E100330,2021-05-20,4,1022,3,Voluntary,Return to Education,22.3,False
+25,E100369,2021-05-08,5,1024,3,Involuntary,Position Eliminated,41.0,False
+26,E100409,2021-05-08,5,1028,4,Involuntary,Restructuring,6.9,False
+27,E100456,2021-05-05,5,1025,2,Voluntary,Did Not Return from Leave,19.6,True
+28,E100580,2021-05-03,9,1047,4,Involuntary,Position Eliminated,25.8,False
+29,E100608,2021-05-06,10,1051,2,Voluntary,Did Not Return from Leave,45.4,False
+30,E100208,2021-06-27,3,1015,4,Involuntary,Restructuring,21.3,False
+31,E100211,2021-06-16,3,1013,1,Involuntary,Position Eliminated,5.6,False
+32,E100253,2021-06-03,3,1013,5,Voluntary,Career Change,27.8,True
+33,E100273,2021-06-25,3,1013,5,Voluntary,Did Not Return from Leave,18.4,False
+34,E100304,2021-06-02,3,1016,6,Voluntary,Did Not Return from Leave,48.0,False
+35,E100364,2021-06-07,4,1019,2,Voluntary,Personal Reasons,9.8,True
+36,E100657,2021-06-25,5,1028,6,Voluntary,Better Opportunity,2.0,True
+37,E100114,2021-07-16,1,1001,5,Voluntary,Did Not Return from Leave,29.4,False
+38,E100118,2021-07-18,1,1000,6,Voluntary,Retirement,38.8,False
+39,E100171,2021-07-01,2,1008,1,Voluntary,Personal Reasons,7.1,True
+40,E100642,2021-07-22,2,1008,1,Voluntary,Career Change,5.4,False
+41,E100263,2021-07-02,3,1014,1,Voluntary,Return to Education,8.8,False
+42,E100399,2021-07-18,5,1027,6,Involuntary,Policy Violation,10.0,False
+43,E100420,2021-07-21,5,1024,2,Voluntary,Retirement,25.9,False
+44,E100438,2021-07-16,5,1024,1,Involuntary,Restructuring,11.3,False
+45,E100665,2021-07-15,5,1025,3,Voluntary,Career Change,1.8,False
+46,E100632,2021-07-23,10,1049,2,Involuntary,Position Eliminated,46.8,False
+47,E100088,2021-08-03,1,1000,5,Voluntary,Return to Education,8.3,False
+48,E100107,2021-08-08,1,1004,6,Voluntary,Return to Education,45.0,False
+49,E100186,2021-08-02,2,1009,6,Voluntary,Career Change,29.0,False
+50,E100331,2021-08-24,4,1022,1,Voluntary,Return to Education,23.7,True
+51,E100418,2021-08-09,5,1028,4,Voluntary,Retirement,29.9,False
+52,E100543,2021-08-24,8,1042,3,Voluntary,Compensation,61.0,False
+53,E100385,2021-09-25,5,1025,4,Voluntary,Did Not Return from Leave,29.8,False
+54,E100288,2021-10-15,3,1018,3,Involuntary,Policy Violation,55.1,False
+55,E100310,2021-10-16,4,1022,1,Voluntary,Did Not Return from Leave,17.8,False
+56,E100332,2021-10-15,4,1019,4,Voluntary,Compensation,38.0,False
+57,E100392,2021-10-07,5,1028,2,Voluntary,Return to Education,47.5,False
+58,E100463,2021-10-23,5,1025,1,Voluntary,Did Not Return from Leave,15.0,False
+59,E100494,2021-10-08,6,1030,3,Voluntary,Career Change,102.6,False
+60,E100627,2021-10-10,10,1050,6,Voluntary,Relocation,25.9,False
+61,E100080,2021-11-05,1,1003,1,Voluntary,Did Not Return from Leave,87.2,False
+62,E100161,2021-11-25,2,1008,1,Voluntary,Did Not Return from Leave,31.0,False
+63,E100275,2021-11-28,3,1018,1,Voluntary,Compensation,14.6,True
+64,E100378,2021-11-06,5,1026,2,Involuntary,Performance,11.3,False
+65,E100415,2021-11-09,5,1027,1,Involuntary,Performance,50.2,False
+66,E100444,2021-11-28,5,1028,1,Voluntary,Did Not Return from Leave,12.8,False
+67,E100460,2021-11-21,5,1024,1,Involuntary,Policy Violation,16.7,False
+68,E100461,2021-11-12,5,1027,6,Involuntary,Policy Violation,45.0,False
+69,E100019,2021-12-15,1,1005,2,Involuntary,Performance,72.3,False
+70,E100150,2021-12-14,2,1012,1,Voluntary,Retirement,53.3,True
+71,E100159,2021-12-14,2,1011,2,Voluntary,Did Not Return from Leave,55.8,True
+72,E100197,2021-12-15,3,1017,3,Voluntary,Did Not Return from Leave,28.2,True
+73,E100202,2021-12-14,3,1014,5,Voluntary,Better Opportunity,27.0,False
+74,E100206,2021-12-25,3,1017,1,Voluntary,Did Not Return from Leave,19.0,False
+75,E100220,2021-12-28,3,1018,2,Voluntary,Did Not Return from Leave,15.9,True
+76,E100243,2021-12-05,3,1014,6,Voluntary,Did Not Return from Leave,12.4,False
+77,E100671,2021-12-18,3,1014,2,Involuntary,Restructuring,6.6,False
+78,E100380,2021-12-12,5,1025,3,Voluntary,Did Not Return from Leave,34.0,True
+79,E100390,2021-12-12,5,1026,1,Voluntary,Relocation,29.5,True
+80,E100428,2021-12-06,5,1028,4,Involuntary,Position Eliminated,42.0,False
+81,E100441,2021-12-04,5,1028,5,Voluntary,Better Opportunity,31.5,True
+82,E100443,2021-12-27,5,1024,1,Voluntary,Did Not Return from Leave,29.7,True
+83,E100452,2021-12-26,5,1026,1,Voluntary,Retirement,13.3,False
+84,E100649,2021-12-02,5,1024,1,Voluntary,Did Not Return from Leave,9.1,True
+85,E100673,2021-12-08,5,1025,5,Voluntary,Career Change,6.1,False
+86,E100475,2021-12-05,6,1029,4,Involuntary,Restructuring,33.7,False
+87,E100593,2021-12-10,10,1053,5,Voluntary,Did Not Return from Leave,24.1,False
+88,E100603,2021-12-12,10,1053,2,Involuntary,Position Eliminated,12.0,False
+89,E100201,2022-01-14,3,1018,5,Voluntary,Did Not Return from Leave,40.3,True
+90,E100290,2022-01-03,3,1016,2,Voluntary,Retirement,19.6,True
+91,E100298,2022-01-06,3,1013,6,Voluntary,Retirement,19.2,False
+92,E100340,2022-01-23,4,1022,1,Voluntary,Relocation,16.2,True
+93,E100401,2022-01-23,5,1028,2,Involuntary,Policy Violation,36.9,False
+94,E100725,2022-01-15,5,1026,4,Voluntary,Better Opportunity,1.1,False
+95,E100512,2022-01-12,7,1038,1,Involuntary,Performance,58.8,False
+96,E100597,2022-01-09,10,1050,1,Voluntary,Relocation,13.3,False
+97,E100010,2022-02-26,1,1001,3,Involuntary,Position Eliminated,40.5,False
+98,E100154,2022-02-25,2,1008,2,Voluntary,Return to Education,23.4,False
+99,E100268,2022-02-14,3,1016,5,Involuntary,Performance,42.1,False
+100,E100270,2022-02-24,3,1018,1,Voluntary,Better Opportunity,36.9,True
+101,E100522,2022-02-19,7,1037,5,Voluntary,Retirement,17.2,False
+102,E100204,2022-03-23,3,1017,2,Voluntary,Retirement,24.2,True
+103,E100217,2022-03-07,3,1014,2,Voluntary,Did Not Return from Leave,14.4,False
+104,E100245,2022-03-08,3,1013,1,Involuntary,Performance,38.9,False
+105,E100250,2022-03-03,3,1017,1,Involuntary,Performance,105.2,False
+106,E100663,2022-03-09,3,1015,1,Voluntary,Relocation,9.4,False
+107,E100352,2022-03-21,4,1019,4,Voluntary,Did Not Return from Leave,39.7,False
+108,E100745,2022-03-06,5,1026,2,Voluntary,Career Change,1.7,False
+109,E100487,2022-03-20,6,1029,2,Involuntary,Performance,20.2,False
+110,E100124,2022-04-02,1,1005,1,Voluntary,Career Change,41.3,False
+111,E100283,2022-04-25,3,1018,5,Voluntary,Relocation,20.2,False
+112,E100405,2022-04-14,5,1025,1,Involuntary,Policy Violation,19.5,False
+113,E100451,2022-04-27,5,1027,1,Voluntary,Better Opportunity,27.7,True
+114,E100491,2022-04-26,6,1033,3,Voluntary,Personal Reasons,84.8,True
+115,E100553,2022-04-16,9,1045,1,Voluntary,Did Not Return from Leave,31.7,True
+116,E100040,2022-05-09,1,1000,5,Voluntary,Retirement,19.5,True
+117,E100347,2022-05-13,4,1019,1,Voluntary,Personal Reasons,24.7,False
+118,E100713,2022-05-13,5,1028,3,Voluntary,Retirement,5.8,True
+119,E100555,2022-05-01,9,1047,3,Voluntary,Personal Reasons,109.8,False
+120,E100144,2022-06-26,2,1011,5,Voluntary,Compensation,22.6,True
+121,E100162,2022-06-06,2,1011,3,Involuntary,Policy Violation,27.5,False
+122,E100188,2022-06-24,3,1017,4,Voluntary,Relocation,94.6,False
+123,E100236,2022-06-26,3,1013,4,Involuntary,Restructuring,34.8,False
+124,E100240,2022-06-16,3,1013,1,Voluntary,Did Not Return from Leave,53.1,True
+125,E100293,2022-06-12,3,1013,3,Voluntary,Compensation,27.1,False
+126,E100763,2022-06-12,3,1013,1,Involuntary,Position Eliminated,2.9,False
+127,E100419,2022-06-21,5,1024,1,Involuntary,Policy Violation,25.9,False
+128,E100674,2022-06-27,5,1024,2,Voluntary,Relocation,12.8,True
+129,E100515,2022-06-21,7,1037,1,Voluntary,Did Not Return from Leave,81.7,False
+130,E100568,2022-06-18,9,1044,1,Voluntary,Did Not Return from Leave,19.2,False
+131,E100589,2022-06-26,9,1044,5,Involuntary,Performance,23.9,False
+132,E100031,2022-07-25,1,1005,3,Involuntary,Restructuring,100.5,False
+133,E100210,2022-07-07,3,1013,1,Involuntary,Policy Violation,19.3,False
+134,E100247,2022-07-11,3,1013,1,Involuntary,Policy Violation,29.1,False
+135,E100291,2022-07-22,3,1013,2,Voluntary,Did Not Return from Leave,34.1,False
+136,E100363,2022-07-28,4,1019,4,Voluntary,Did Not Return from Leave,114.5,False
+137,E100465,2022-07-04,5,1025,4,Voluntary,Retirement,27.5,False
+138,E100578,2022-07-07,9,1044,5,Involuntary,Position Eliminated,24.5,False
+139,E100074,2022-08-08,1,1007,6,Voluntary,Did Not Return from Leave,54.4,False
+140,E100132,2022-08-08,1,1007,4,Voluntary,Personal Reasons,67.2,False
+141,E100168,2022-08-11,2,1012,1,Involuntary,Performance,30.2,False
+142,E100279,2022-08-17,3,1013,2,Involuntary,Restructuring,28.1,False
+143,E100306,2022-08-04,3,1017,4,Voluntary,Did Not Return from Leave,20.9,False
+144,E100706,2022-08-07,3,1014,3,Voluntary,Personal Reasons,9.6,False
+145,E100784,2022-08-15,3,1013,5,Voluntary,Personal Reasons,2.2,False
+146,E100353,2022-08-01,4,1021,1,Voluntary,Retirement,62.2,False
+147,E100371,2022-08-03,5,1024,4,Voluntary,Compensation,50.5,True
+148,E100427,2022-08-23,5,1024,1,Voluntary,Relocation,37.3,False
+149,E100570,2022-08-09,9,1044,2,Involuntary,Position Eliminated,24.1,False
+150,E100613,2022-08-21,10,1052,3,Involuntary,Restructuring,56.9,False
+151,E100676,2022-09-17,2,1010,3,Involuntary,Restructuring,13.9,False
+152,E100643,2022-09-12,3,1018,5,Involuntary,Performance,18.7,False
+153,E100376,2022-09-28,5,1026,4,Involuntary,Restructuring,70.4,False
+154,E100776,2022-09-18,5,1026,1,Voluntary,Retirement,3.9,False
+155,E100625,2022-09-10,10,1050,5,Voluntary,Better Opportunity,35.1,False
+156,E100032,2022-10-12,1,1006,4,Voluntary,Personal Reasons,22.4,False
+157,E100075,2022-10-02,1,1004,4,Voluntary,Personal Reasons,74.8,True
+158,E100213,2022-10-19,3,1014,2,Voluntary,Did Not Return from Leave,30.0,True
+159,E100328,2022-10-22,4,1019,3,Voluntary,Compensation,39.3,True
+160,E100818,2022-10-07,5,1024,1,Involuntary,Restructuring,0.5,False
+161,E100261,2022-11-16,3,1016,1,Voluntary,Career Change,39.8,False
+162,E100449,2022-11-03,5,1028,5,Voluntary,Did Not Return from Leave,26.2,False
+163,E100771,2022-11-24,5,1024,1,Involuntary,Performance,7.0,False
+164,E100796,2022-11-27,5,1028,2,Involuntary,Policy Violation,4.9,False
+165,E100478,2022-11-15,6,1030,5,Voluntary,Better Opportunity,23.4,False
+166,E100579,2022-11-19,9,1048,1,Voluntary,Did Not Return from Leave,33.9,False
+167,E100582,2022-11-19,9,1045,5,Voluntary,Retirement,38.0,True
+168,E100614,2022-11-03,10,1051,1,Voluntary,Relocation,74.9,False
+169,E100620,2022-11-06,10,1053,1,Involuntary,Performance,31.2,False
+170,E100659,2022-11-16,10,1049,1,Voluntary,Retirement,19.3,False
+171,E100122,2022-12-03,1,1006,5,Voluntary,Compensation,39.4,False
+172,E100774,2022-12-13,1,1000,1,Voluntary,Retirement,7.1,False
+173,E100811,2022-12-12,1,1004,5,Voluntary,Better Opportunity,2.6,False
+174,E100733,2022-12-16,2,1009,2,Voluntary,Personal Reasons,11.2,False
+175,E100223,2022-12-25,3,1018,4,Involuntary,Position Eliminated,33.7,False
+176,E100284,2022-12-15,3,1014,6,Voluntary,Personal Reasons,31.1,True
+177,E100358,2022-12-27,4,1019,5,Voluntary,Retirement,38.1,False
+178,E100434,2022-12-21,5,1024,1,Voluntary,Did Not Return from Leave,36.8,False
+179,E100016,2023-01-12,1,1000,5,Involuntary,Restructuring,44.6,False
+180,E100810,2023-01-05,1,1007,2,Voluntary,Compensation,3.4,False
+181,E100762,2023-01-25,3,1018,4,Voluntary,Did Not Return from Leave,10.8,True
+182,E100814,2023-01-10,3,1017,6,Voluntary,Career Change,4.3,False
+183,E100426,2023-01-28,5,1026,5,Voluntary,Personal Reasons,37.1,False
+184,E100689,2023-01-15,5,1026,1,Voluntary,Compensation,17.5,False
+185,E100061,2023-02-01,1,1000,1,Voluntary,Compensation,27.8,False
+186,E100066,2023-02-21,1,1001,5,Voluntary,Personal Reasons,114.2,True
+187,E100693,2023-02-18,1,1000,3,Voluntary,Personal Reasons,16.9,False
+188,E100169,2023-02-26,2,1008,5,Voluntary,Relocation,29.2,False
+189,E100218,2023-02-18,3,1016,1,Voluntary,Compensation,40.4,False
+190,E100234,2023-02-15,3,1017,6,Involuntary,Performance,28.5,False
+191,E100813,2023-02-27,3,1017,1,Voluntary,Compensation,5.0,True
+192,E100386,2023-02-27,5,1027,6,Voluntary,Did Not Return from Leave,45.9,True
+193,E100600,2023-02-08,10,1050,1,Voluntary,Return to Education,34.6,True
+194,E100630,2023-02-16,10,1052,2,Involuntary,Performance,31.8,False
+195,E100256,2023-03-17,3,1013,5,Voluntary,Did Not Return from Leave,32.6,True
+196,E100736,2023-03-01,3,1014,3,Voluntary,Return to Education,13.4,False
+197,E100759,2023-03-17,3,1015,4,Voluntary,Did Not Return from Leave,13.4,False
+198,E100770,2023-03-19,3,1013,4,Involuntary,Performance,11.2,False
+199,E100743,2023-03-13,4,1019,4,Voluntary,Return to Education,13.8,True
+200,E100377,2023-03-03,5,1026,4,Voluntary,Did Not Return from Leave,64.6,False
+201,E100436,2023-03-24,5,1027,4,Voluntary,Personal Reasons,32.4,True
+202,E100766,2023-03-13,5,1027,1,Involuntary,Position Eliminated,12.3,False
+203,E100093,2023-04-01,1,1006,1,Involuntary,Policy Violation,58.0,False
+204,E100183,2023-04-26,2,1011,6,Voluntary,Did Not Return from Leave,64.5,False
+205,E100252,2023-04-19,3,1018,1,Involuntary,Restructuring,48.3,False
+206,E100265,2023-04-09,3,1013,2,Voluntary,Career Change,50.8,True
+207,E100669,2023-04-08,3,1014,1,Involuntary,Performance,21.7,False
+208,E100333,2023-04-06,4,1023,4,Voluntary,Did Not Return from Leave,96.2,True
+209,E100672,2023-04-18,4,1020,1,Voluntary,Did Not Return from Leave,22.1,False
+210,E100778,2023-04-02,8,1042,3,Voluntary,Better Opportunity,10.3,False
+211,E100752,2023-04-12,10,1052,2,Involuntary,Policy Violation,14.8,False
+212,E100143,2023-05-14,2,1008,5,Involuntary,Policy Violation,39.8,False
+213,E100209,2023-05-15,3,1016,6,Involuntary,Performance,46.0,False
+214,E100272,2023-05-19,3,1015,2,Voluntary,Retirement,71.9,False
+215,E100282,2023-05-02,3,1016,4,Voluntary,Personal Reasons,57.7,True
+216,E100656,2023-05-06,3,1013,3,Voluntary,Retirement,24.3,True
+217,E100769,2023-05-25,3,1016,5,Voluntary,Career Change,12.9,True
+218,E100323,2023-05-14,4,1022,6,Voluntary,Did Not Return from Leave,88.4,False
+219,E100817,2023-05-01,4,1020,1,Involuntary,Policy Violation,7.9,False
+220,E100379,2023-05-17,5,1024,4,Involuntary,Position Eliminated,36.3,False
+221,E100400,2023-05-20,5,1027,6,Involuntary,Restructuring,45.9,False
+222,E100650,2023-05-08,5,1026,1,Involuntary,Policy Violation,25.8,False
+223,E100714,2023-05-16,5,1024,2,Voluntary,Compensation,17.5,False
+224,E100854,2023-05-09,5,1024,1,Voluntary,Better Opportunity,3.6,False
+225,E100488,2023-05-12,6,1029,5,Voluntary,Better Opportunity,45.8,False
+226,E100843,2023-05-16,9,1048,1,Involuntary,Policy Violation,5.1,False
+227,E100844,2023-05-02,10,1051,1,Voluntary,Return to Education,4.2,False
+228,E100101,2023-06-15,1,1003,4,Voluntary,Retirement,36.1,False
+229,E100731,2023-06-22,1,1000,1,Voluntary,Did Not Return from Leave,17.4,True
+230,E100790,2023-06-21,1,1006,5,Voluntary,Compensation,11.3,True
+231,E100160,2023-06-14,2,1012,5,Voluntary,Compensation,43.5,False
+232,E100257,2023-06-14,3,1018,4,Involuntary,Performance,62.2,False
+233,E100815,2023-06-23,3,1017,4,Voluntary,Did Not Return from Leave,9.1,False
+234,E100327,2023-06-20,4,1020,2,Involuntary,Position Eliminated,31.8,False
+235,E100644,2023-06-02,4,1021,1,Voluntary,Did Not Return from Leave,27.9,True
+236,E100372,2023-06-25,5,1028,5,Voluntary,Relocation,75.9,False
+237,E100411,2023-06-25,5,1028,1,Voluntary,Better Opportunity,84.5,False
+238,E100433,2023-06-11,5,1027,1,Involuntary,Position Eliminated,43.1,False
+239,E100459,2023-06-11,5,1026,3,Voluntary,Did Not Return from Leave,38.4,False
+240,E100723,2023-06-07,5,1025,6,Involuntary,Restructuring,18.1,False
+241,E100834,2023-06-17,5,1027,2,Involuntary,Restructuring,7.1,False
+242,E100838,2023-07-11,1,1000,4,Involuntary,Restructuring,6.5,False
+243,E100849,2023-07-06,2,1008,6,Involuntary,Policy Violation,5.6,False
+244,E100195,2023-07-16,3,1016,6,Involuntary,Restructuring,120.6,False
+245,E100788,2023-07-17,9,1045,3,Voluntary,Retirement,13.2,True
+246,E100048,2023-08-27,1,1007,1,Voluntary,Retirement,75.7,False
+247,E100056,2023-08-21,1,1005,1,Involuntary,Position Eliminated,74.0,False
+248,E100148,2023-08-14,2,1010,2,Voluntary,Career Change,59.1,False
+249,E100225,2023-08-09,3,1014,4,Voluntary,Career Change,52.7,True
+250,E100806,2023-08-15,3,1017,3,Voluntary,Return to Education,12.0,False
+251,E100816,2023-08-26,3,1018,2,Involuntary,Restructuring,11.8,False
+252,E100455,2023-08-14,5,1027,1,Voluntary,Did Not Return from Leave,55.4,False
+253,E100760,2023-08-05,5,1025,3,Involuntary,Policy Violation,17.6,False
+254,E100484,2023-08-03,6,1029,2,Involuntary,Restructuring,59.6,False
+255,E100681,2023-08-28,10,1052,3,Involuntary,Performance,25.6,False
+256,E100009,2023-09-18,1,1005,5,Voluntary,Did Not Return from Leave,35.9,False
+257,E100041,2023-09-20,1,1000,1,Voluntary,Career Change,64.9,False
+258,E100180,2023-09-10,2,1010,4,Involuntary,Performance,45.0,False
+259,E100205,2023-09-12,3,1015,2,Involuntary,Restructuring,41.8,False
+260,E100308,2023-09-23,3,1015,1,Voluntary,Career Change,55.5,False
+261,E100696,2023-09-10,3,1017,3,Voluntary,Compensation,23.8,False
+262,E100034,2023-10-08,1,1000,4,Voluntary,Return to Education,60.3,True
+263,E100090,2023-10-12,1,1003,4,Voluntary,Better Opportunity,34.7,False
+264,E100718,2023-10-22,1,1006,1,Voluntary,Personal Reasons,21.9,False
+265,E100889,2023-10-25,3,1013,5,Involuntary,Position Eliminated,5.7,False
+266,E100325,2023-10-06,4,1023,6,Voluntary,Retirement,128.5,True
+267,E100906,2023-10-26,4,1020,2,Voluntary,Better Opportunity,4.0,True
+268,E100437,2023-10-20,5,1028,2,Involuntary,Policy Violation,57.5,False
+269,E100875,2023-10-19,5,1025,5,Voluntary,Return to Education,7.4,False
+270,E100926,2023-10-25,5,1024,5,Voluntary,Return to Education,2.1,True
+271,E100575,2023-10-10,9,1048,5,Voluntary,Return to Education,36.6,False
+272,E100131,2023-11-06,1,1000,2,Voluntary,Compensation,38.1,False
+273,E100229,2023-11-15,3,1014,4,Voluntary,Retirement,53.3,False
+274,E100782,2023-11-19,3,1018,5,Voluntary,Retirement,17.0,False
+275,E100697,2023-11-09,4,1020,5,Voluntary,Return to Education,26.0,True
+276,E100404,2023-11-18,5,1024,2,Voluntary,Did Not Return from Leave,39.9,False
+277,E100435,2023-11-25,5,1027,3,Voluntary,Compensation,50.1,True
+278,E100958,2023-11-26,5,1028,6,Voluntary,Compensation,1.1,False
+279,E100702,2023-11-27,6,1031,1,Involuntary,Restructuring,26.4,False
+280,E100227,2023-12-01,3,1017,3,Voluntary,Did Not Return from Leave,98.4,False
+281,E100791,2023-12-09,3,1018,4,Voluntary,Relocation,17.0,False
+282,E100917,2023-12-12,3,1018,4,Voluntary,Personal Reasons,5.0,True
+283,E100362,2023-12-09,4,1022,2,Voluntary,Relocation,48.5,False
+284,E100507,2023-12-06,7,1037,4,Voluntary,Did Not Return from Leave,41.8,False
+285,E100509,2023-12-08,7,1036,1,Involuntary,Position Eliminated,43.0,False
+286,E100556,2023-12-07,9,1044,1,Involuntary,Performance,37.9,False
+287,E100571,2023-12-24,9,1046,1,Involuntary,Policy Violation,76.6,False
+288,E100596,2023-12-12,10,1053,6,Voluntary,Career Change,56.5,True
+289,E100604,2023-12-02,10,1053,1,Involuntary,Policy Violation,78.1,False
+290,E100753,2023-12-09,10,1049,1,Voluntary,Personal Reasons,22.4,True
+291,E100086,2024-01-03,1,1000,5,Voluntary,Relocation,44.4,False
+292,E100302,2024-01-14,3,1017,3,Involuntary,Policy Violation,81.9,False
+293,E100924,2024-01-05,3,1014,2,Voluntary,Compensation,4.4,False
+294,E100374,2024-01-02,5,1024,4,Involuntary,Policy Violation,50.7,False
+295,E100798,2024-01-03,5,1026,5,Voluntary,Did Not Return from Leave,17.5,True
+296,E100516,2024-01-11,7,1035,3,Involuntary,Restructuring,63.3,False
+297,E100521,2024-01-10,7,1035,4,Voluntary,Return to Education,46.7,False
+298,E100523,2024-01-24,7,1038,4,Voluntary,Did Not Return from Leave,62.1,False
+299,E100651,2024-01-13,8,1041,3,Voluntary,Compensation,34.4,False
+300,E100869,2024-01-25,10,1051,1,Voluntary,Did Not Return from Leave,11.1,False
+301,E100082,2024-02-28,1,1006,2,Voluntary,Retirement,89.0,True
+302,E100196,2024-02-24,3,1014,5,Voluntary,Did Not Return from Leave,96.1,False
+303,E100276,2024-02-23,3,1018,1,Voluntary,Compensation,84.9,False
+304,E100297,2024-02-02,3,1018,1,Voluntary,Did Not Return from Leave,41.8,True
+305,E100758,2024-02-20,3,1016,2,Voluntary,Better Opportunity,24.4,False
+306,E100901,2024-02-14,3,1013,1,Voluntary,Career Change,8.3,True
+307,E100923,2024-02-07,3,1013,1,Voluntary,Retirement,6.2,True
+308,E100326,2024-02-05,4,1022,1,Voluntary,Did Not Return from Leave,48.7,False
+309,E100391,2024-02-25,5,1026,3,Voluntary,Better Opportunity,49.7,False
+310,E100748,2024-02-17,5,1025,1,Voluntary,Career Change,25.2,False
+311,E100949,2024-02-16,10,1050,2,Voluntary,Return to Education,5.2,False
+312,E100071,2024-03-11,1,1006,1,Voluntary,Did Not Return from Leave,49.3,True
+313,E100682,2024-03-23,1,1004,1,Voluntary,Relocation,31.5,False
+314,E100151,2024-03-23,2,1010,1,Voluntary,Better Opportunity,58.1,False
+315,E100187,2024-03-22,3,1016,3,Voluntary,Career Change,88.8,False
+316,E100316,2024-03-06,4,1023,3,Voluntary,Did Not Return from Leave,123.3,False
+317,E100366,2024-03-20,4,1019,5,Involuntary,Restructuring,61.7,False
+318,E100485,2024-03-16,6,1033,3,Voluntary,Compensation,80.6,False
+319,E100193,2024-04-01,3,1016,5,Voluntary,Personal Reasons,43.5,False
+320,E100505,2024-04-16,7,1039,5,Voluntary,Better Opportunity,79.1,False
+321,E100622,2024-04-23,10,1051,5,Involuntary,Position Eliminated,42.8,False
+322,E100027,2024-05-23,1,1000,3,Voluntary,Compensation,63.4,False
+323,E100915,2024-05-18,1,1002,5,Voluntary,Relocation,9.8,False
+324,E100722,2024-05-10,3,1013,5,Voluntary,Better Opportunity,28.4,True
+325,E100903,2024-05-27,3,1016,4,Voluntary,Relocation,11.0,True
+326,E100904,2024-05-28,3,1015,1,Voluntary,Return to Education,11.5,True
+327,E100894,2024-05-13,4,1019,5,Voluntary,Did Not Return from Leave,11.7,False
+328,E100645,2024-05-09,5,1027,1,Involuntary,Position Eliminated,38.7,False
+329,E100747,2024-05-22,5,1025,5,Involuntary,Policy Violation,28.2,False
+330,E100908,2024-05-20,5,1024,5,Voluntary,Did Not Return from Leave,11.2,False
+331,E100532,2024-05-12,7,1039,1,Involuntary,Restructuring,112.9,False
+332,E100628,2024-05-09,10,1052,2,Voluntary,Career Change,82.7,False
+333,E100115,2024-06-01,1,1001,4,Voluntary,Career Change,65.1,False
+334,E100120,2024-06-15,1,1001,1,Voluntary,Did Not Return from Leave,43.1,True
+335,E100812,2024-06-10,2,1011,6,Voluntary,Compensation,21.2,False
+336,E100922,2024-06-24,2,1012,2,Voluntary,Career Change,10.6,True
+337,E100269,2024-06-04,3,1018,5,Voluntary,Relocation,53.3,False
+338,E100287,2024-06-19,3,1013,1,Voluntary,Did Not Return from Leave,49.1,False
+339,E100991,2024-06-08,3,1013,2,Voluntary,Compensation,3.9,False
+340,E100679,2024-06-19,5,1028,2,Voluntary,Better Opportunity,34.8,False
+341,E100842,2024-06-10,5,1028,5,Involuntary,Restructuring,17.4,False
+342,E100493,2024-06-08,6,1033,2,Voluntary,Did Not Return from Leave,130.9,False
+343,E100135,2024-07-22,1,1005,5,Involuntary,Position Eliminated,86.2,False
+344,E100648,2024-07-02,3,1013,2,Involuntary,Performance,39.6,False
+345,E100832,2024-07-16,3,1014,1,Voluntary,Retirement,20.3,False
+346,E100381,2024-07-27,5,1025,4,Voluntary,Did Not Return from Leave,52.0,True
+347,E100394,2024-07-24,5,1024,2,Voluntary,Better Opportunity,58.5,True
+348,E101020,2024-07-21,5,1025,2,Voluntary,Relocation,2.1,False
+349,E101031,2024-07-18,5,1028,2,Voluntary,Career Change,0.9,True
+350,E100594,2024-07-08,10,1050,4,Voluntary,Relocation,80.6,False
+351,E100999,2024-07-17,10,1051,3,Voluntary,Relocation,4.8,True
+352,E100063,2024-08-06,1,1001,5,Involuntary,Restructuring,65.5,False
+353,E100073,2024-08-27,1,1004,1,Involuntary,Position Eliminated,62.4,False
+354,E100112,2024-08-06,1,1006,5,Voluntary,Did Not Return from Leave,48.5,True
+355,E100900,2024-08-04,1,1006,1,Involuntary,Performance,13.2,False
+356,E100792,2024-08-16,3,1013,4,Involuntary,Performance,25.4,False
+357,E100890,2024-08-11,3,1015,4,Involuntary,Policy Violation,15.3,False
+358,E101042,2024-08-28,3,1013,2,Voluntary,Better Opportunity,1.4,True
+359,E100407,2024-08-22,5,1024,1,Voluntary,Better Opportunity,48.6,True
+360,E100232,2024-09-15,3,1017,5,Involuntary,Performance,134.2,False
+361,E100271,2024-09-19,3,1015,2,Voluntary,Better Opportunity,63.6,False
+362,E101029,2024-09-11,3,1013,1,Voluntary,Better Opportunity,2.6,True
+363,E100424,2024-09-18,5,1027,5,Involuntary,Position Eliminated,54.1,False
+364,E101043,2024-09-11,5,1027,5,Voluntary,Relocation,1.9,False
+365,E100728,2024-09-23,6,1032,1,Voluntary,Return to Education,33.7,True
+366,E100542,2024-09-03,8,1043,4,Voluntary,Return to Education,51.1,False
+367,E100163,2024-10-02,2,1010,4,Voluntary,Compensation,85.8,True
+368,E100260,2024-10-26,3,1015,1,Involuntary,Restructuring,52.6,False
+369,E100398,2024-10-25,5,1028,4,Voluntary,Compensation,119.8,True
+370,E100715,2024-10-23,5,1025,4,Voluntary,Did Not Return from Leave,35.2,False
+371,E100912,2024-10-16,5,1025,1,Voluntary,Compensation,15.8,False
+372,E101019,2024-10-12,5,1024,4,Involuntary,Restructuring,4.7,False
+373,E100527,2024-10-09,7,1034,4,Voluntary,Did Not Return from Leave,104.9,False
+374,E100538,2024-10-21,7,1037,1,Involuntary,Performance,57.5,False
+375,E100984,2024-10-16,7,1039,2,Involuntary,Position Eliminated,9.2,False
+376,E100631,2024-10-23,10,1053,5,Involuntary,Restructuring,50.3,False
+377,E100146,2024-11-24,2,1009,1,Involuntary,Performance,140.4,False
+378,E100149,2024-11-09,2,1008,4,Involuntary,Restructuring,62.7,False
+379,E100241,2024-11-09,3,1018,2,Involuntary,Restructuring,61.3,False
+380,E100277,2024-11-20,3,1013,5,Voluntary,Relocation,72.2,True
+381,E100457,2024-11-05,5,1026,5,Involuntary,Position Eliminated,95.9,False
+382,E100458,2024-11-15,5,1025,5,Voluntary,Better Opportunity,76.0,True
+383,E100602,2024-11-04,10,1053,5,Voluntary,Did Not Return from Leave,53.1,False
+384,E100633,2024-11-26,10,1049,3,Voluntary,Compensation,130.3,True
+385,E100823,2024-11-10,10,1053,4,Involuntary,Performance,26.1,False
+386,E100004,2024-12-27,1,1007,5,Voluntary,Personal Reasons,126.3,False
+387,E100049,2024-12-07,1,1001,1,Involuntary,Position Eliminated,61.3,False
+388,E101036,2024-12-05,1,1001,2,Voluntary,Personal Reasons,4.6,False
+389,E100155,2024-12-21,2,1012,6,Voluntary,Retirement,51.4,False
+390,E100181,2024-12-24,2,1010,2,Involuntary,Policy Violation,56.1,False
+391,E100191,2024-12-01,3,1018,3,Voluntary,Return to Education,63.4,False
+392,E100807,2024-12-07,3,1015,5,Voluntary,Personal Reasons,27.8,False
+393,E100852,2024-12-04,3,1018,5,Voluntary,Career Change,22.2,True
+394,E100879,2024-12-13,3,1014,2,Involuntary,Restructuring,20.4,False
+395,E101053,2024-12-14,3,1013,2,Voluntary,Career Change,3.6,False
+396,E100403,2024-12-21,5,1024,1,Voluntary,Did Not Return from Leave,70.0,False
+397,E100797,2024-12-25,5,1024,1,Involuntary,Position Eliminated,29.2,False
+398,E100918,2024-12-08,5,1027,1,Voluntary,Compensation,16.4,True
+399,E100533,2024-12-21,7,1037,1,Voluntary,Return to Education,74.1,False
+400,E100601,2024-12-26,10,1049,1,Voluntary,Retirement,64.8,False
+401,E100060,2025-01-07,1,1001,2,Voluntary,Relocation,51.8,False
+402,E100081,2025-01-05,1,1001,1,Voluntary,Did Not Return from Leave,48.9,False
+403,E100212,2025-01-24,3,1013,2,Involuntary,Performance,74.1,False
+404,E100804,2025-01-21,3,1013,3,Voluntary,Relocation,29.4,False
+405,E100355,2025-01-18,4,1021,6,Involuntary,Restructuring,53.2,False
+406,E101044,2025-01-17,5,1025,4,Voluntary,Return to Education,6.6,False
+407,E101054,2025-01-28,5,1024,1,Voluntary,Return to Education,5.4,True
+408,E101067,2025-01-07,5,1025,5,Voluntary,Personal Reasons,3.4,True
+409,E100997,2025-01-19,6,1029,2,Voluntary,Did Not Return from Leave,11.1,True
+410,E100990,2025-02-22,3,1013,5,Voluntary,Compensation,12.3,True
+411,E100309,2025-02-22,4,1020,5,Voluntary,Compensation,56.1,False
+412,E100350,2025-02-04,4,1020,1,Involuntary,Policy Violation,141.4,False
+413,E100795,2025-02-01,4,1019,3,Voluntary,Did Not Return from Leave,30.3,False
+414,E100397,2025-02-07,5,1024,4,Voluntary,Compensation,69.7,False
+415,E100617,2025-02-14,10,1051,4,Voluntary,Return to Education,102.2,True
+416,E101008,2025-02-24,10,1050,4,Involuntary,Position Eliminated,11.0,False
+417,E100840,2025-03-26,2,1008,3,Voluntary,Did Not Return from Leave,27.6,False
+418,E100200,2025-03-22,3,1015,4,Voluntary,Compensation,98.5,False
+419,E100233,2025-03-06,3,1017,5,Voluntary,Did Not Return from Leave,78.4,False
+420,E100961,2025-03-08,3,1013,6,Voluntary,Did Not Return from Leave,15.9,True
+421,E101063,2025-03-14,3,1015,5,Involuntary,Restructuring,6.3,False
+422,E100942,2025-03-06,4,1022,5,Involuntary,Policy Violation,17.4,False
+423,E100700,2025-03-24,5,1027,1,Voluntary,Career Change,42.1,False
+424,E101123,2025-03-27,5,1024,6,Involuntary,Policy Violation,1.7,False
+425,E100548,2025-03-09,8,1040,2,Voluntary,Did Not Return from Leave,109.0,False
+426,E100913,2025-03-02,10,1049,2,Involuntary,Policy Violation,20.9,False
+427,E100732,2025-04-23,1,1007,6,Voluntary,Compensation,39.1,False
+428,E101088,2025-04-26,2,1008,1,Voluntary,Career Change,4.0,True
+429,E100246,2025-04-11,3,1014,1,Involuntary,Policy Violation,60.2,False
+430,E100968,2025-04-12,3,1013,5,Voluntary,Better Opportunity,16.2,False
+431,E101131,2025-04-18,3,1018,3,Voluntary,Return to Education,1.2,False
+432,E100979,2025-04-02,4,1019,4,Voluntary,Did Not Return from Leave,14.1,True
+433,E101082,2025-04-22,5,1027,1,Voluntary,Relocation,5.5,False
+434,E100566,2025-04-15,9,1047,1,Voluntary,Did Not Return from Leave,88.7,False
+435,E101097,2025-05-04,1,1004,4,Voluntary,Retirement,3.5,False
+436,E100166,2025-05-03,2,1011,5,Voluntary,Career Change,54.7,True
+437,E100214,2025-05-09,3,1015,1,Voluntary,Did Not Return from Leave,52.2,False
+438,E100881,2025-05-14,3,1013,2,Voluntary,Relocation,24.9,True
+439,E101014,2025-05-15,3,1013,1,Involuntary,Policy Violation,12.1,False
+440,E101105,2025-05-21,3,1015,1,Voluntary,Compensation,4.5,True
+441,E100406,2025-05-13,5,1024,3,Voluntary,Relocation,53.5,False
+442,E100724,2025-05-16,5,1024,1,Voluntary,Did Not Return from Leave,41.0,True
+443,E100772,2025-05-25,5,1028,5,Voluntary,Retirement,37.4,False
+444,E100943,2025-05-23,5,1024,2,Voluntary,Return to Education,20.2,False
+445,E100539,2025-05-05,8,1042,5,Voluntary,Return to Education,94.1,False
+446,E100787,2025-05-17,9,1046,5,Voluntary,Did Not Return from Leave,34.8,False
+447,E100837,2025-05-18,10,1049,1,Involuntary,Policy Violation,30.0,False
+448,E100931,2025-06-13,1,1006,5,Voluntary,Retirement,21.3,True
+449,E100974,2025-06-20,1,1006,5,Voluntary,Career Change,17.0,False
+450,E100720,2025-06-15,3,1017,5,Voluntary,Personal Reasons,42.0,False
+451,E100467,2025-06-04,5,1027,1,Voluntary,Relocation,58.8,True
+452,E100499,2025-06-03,6,1030,2,Voluntary,Did Not Return from Leave,136.8,False
+453,E100820,2025-06-06,6,1030,1,Voluntary,Did Not Return from Leave,32.9,True
+454,E100510,2025-06-17,7,1037,3,Voluntary,Better Opportunity,76.2,False
+455,E100104,2025-07-08,1,1006,4,Voluntary,Did Not Return from Leave,109.8,False
+456,E100264,2025-07-22,3,1018,6,Voluntary,Relocation,66.1,False
+457,E100739,2025-07-23,3,1016,5,Voluntary,Return to Education,42.4,False
+458,E100902,2025-07-18,3,1013,2,Involuntary,Position Eliminated,24.9,False
+459,E101143,2025-07-28,4,1019,1,Involuntary,Policy Violation,3.4,False
+460,E101107,2025-07-13,5,1024,1,Involuntary,Performance,5.7,False
+461,E101124,2025-07-20,5,1027,4,Voluntary,Career Change,5.3,False
+462,E100498,2025-07-28,6,1031,2,Involuntary,Position Eliminated,77.9,False
+463,E100156,2025-08-08,2,1008,1,Voluntary,Retirement,57.0,False
+464,E100189,2025-08-23,3,1016,1,Voluntary,Return to Education,99.0,True
+465,E100315,2025-08-08,4,1021,1,Voluntary,Career Change,65.1,True
+466,E100339,2025-08-24,4,1019,5,Voluntary,Relocation,62.8,False
+467,E100348,2025-08-16,4,1019,1,Involuntary,Restructuring,70.5,False
+468,E100940,2025-08-22,4,1022,5,Voluntary,Retirement,23.3,False
+469,E101168,2025-08-01,4,1020,4,Involuntary,Position Eliminated,0.6,False
+470,E100416,2025-08-18,5,1026,3,Voluntary,Personal Reasons,69.8,False
+471,E100930,2025-08-25,6,1031,4,Voluntary,Career Change,24.1,True
+472,E100709,2025-08-15,7,1037,1,Voluntary,Return to Education,45.6,False
+473,E100106,2025-09-23,1,1004,6,Involuntary,Performance,65.6,False
+474,E100773,2025-09-04,1,1004,2,Voluntary,Relocation,39.6,False
+475,E100178,2025-09-07,2,1012,3,Involuntary,Position Eliminated,88.6,False
+476,E100382,2025-09-13,5,1026,4,Voluntary,Return to Education,62.8,False
+477,E100995,2025-09-06,5,1024,3,Voluntary,Personal Reasons,18.6,False
+478,E100704,2025-09-01,7,1038,2,Voluntary,Career Change,47.6,True
+479,E100970,2025-09-19,9,1046,1,Voluntary,Career Change,21.6,True
+480,E100751,2025-09-19,10,1049,5,Voluntary,Did Not Return from Leave,44.1,False
+481,E100898,2025-09-08,10,1052,1,Voluntary,Relocation,28.3,False
+482,E100951,2025-10-11,1,1001,6,Voluntary,Return to Education,24.2,True
+483,E101000,2025-10-12,1,1007,1,Voluntary,Retirement,19.0,True
+484,E100307,2025-10-19,3,1016,1,Voluntary,Return to Education,83.1,True
+485,E100335,2025-10-21,4,1022,5,Involuntary,Position Eliminated,99.1,False
+486,E100464,2025-10-20,5,1028,2,Involuntary,Restructuring,109.1,False
+487,E101122,2025-10-25,5,1025,1,Voluntary,Relocation,8.4,False
+488,E101179,2025-10-04,5,1024,4,Voluntary,Career Change,1.7,False
+489,E101070,2025-10-15,6,1030,4,Voluntary,Did Not Return from Leave,12.7,False
+490,E100885,2025-10-06,10,1052,2,Voluntary,Did Not Return from Leave,30.0,False
+491,E100237,2025-11-01,3,1014,4,Voluntary,Compensation,76.4,True
+492,E101065,2025-11-06,3,1014,5,Voluntary,Personal Reasons,13.6,False
+493,E100359,2025-11-04,4,1023,5,Voluntary,Did Not Return from Leave,115.4,False
+494,E100941,2025-11-22,4,1019,3,Voluntary,Return to Education,26.3,False
+495,E100895,2025-11-06,5,1027,5,Voluntary,Did Not Return from Leave,30.2,True
+496,E100981,2025-11-17,5,1025,2,Involuntary,Position Eliminated,22.2,False
+497,E101164,2025-11-08,9,1046,3,Voluntary,Career Change,5.1,False
+498,E100249,2025-12-22,3,1017,1,Involuntary,Policy Violation,98.5,False
+499,E100655,2025-12-26,3,1014,4,Voluntary,Compensation,56.2,True
+500,E100892,2025-12-27,3,1013,1,Involuntary,Policy Violation,31.3,False
+501,E100993,2025-12-13,3,1013,6,Voluntary,Return to Education,22.0,True
+502,E101030,2025-12-19,3,1018,1,Voluntary,Better Opportunity,18.6,False
+503,E101119,2025-12-26,3,1015,3,Voluntary,Return to Education,10.4,False
+504,E101121,2025-12-02,4,1019,5,Involuntary,Performance,9.8,False
+505,E100373,2025-12-24,5,1028,1,Voluntary,Retirement,62.0,True
+506,E100785,2025-12-03,5,1027,1,Voluntary,Compensation,41.7,True
+507,E101055,2025-12-24,5,1027,3,Voluntary,Better Opportunity,16.6,False
+508,E100564,2025-12-10,9,1044,6,Voluntary,Retirement,61.5,False
+509,E100780,2026-01-24,1,1005,4,Voluntary,Career Change,43.7,False
+510,E100207,2026-01-11,3,1018,4,Voluntary,Did Not Return from Leave,62.9,False
+511,E100977,2026-01-19,3,1018,1,Voluntary,Did Not Return from Leave,24.0,True
+512,E101003,2026-01-07,3,1013,5,Voluntary,Retirement,21.6,False
+513,E100944,2026-01-24,5,1024,2,Voluntary,Compensation,27.9,False
+514,E100945,2026-01-11,5,1028,2,Voluntary,Relocation,27.7,True
+515,E100500,2026-01-09,6,1030,2,Voluntary,Career Change,73.1,False
+516,E100504,2026-01-22,7,1039,6,Voluntary,Did Not Return from Leave,73.8,False
+517,E100053,2026-02-19,1,1006,2,Voluntary,Did Not Return from Leave,80.6,True
+518,E100959,2026-02-22,1,1007,5,Voluntary,Personal Reasons,26.9,False
+519,E100684,2026-02-09,2,1010,6,Voluntary,Better Opportunity,53.9,False
+520,E101060,2026-02-09,2,1012,3,Voluntary,Better Opportunity,16.8,True
+521,E100850,2026-02-04,3,1013,2,Voluntary,Did Not Return from Leave,36.4,False
+522,E100905,2026-02-20,3,1015,1,Voluntary,Did Not Return from Leave,31.9,True
+523,E100936,2026-02-28,3,1018,4,Voluntary,Did Not Return from Leave,29.6,False
+524,E100978,2026-02-21,3,1015,4,Voluntary,Return to Education,25.2,False
+525,E101040,2026-02-26,3,1013,1,Voluntary,Compensation,19.5,True
+526,E101073,2026-02-19,3,1014,4,Involuntary,Policy Violation,15.8,False
+527,E101190,2026-02-27,4,1022,3,Involuntary,Position Eliminated,5.0,False
+528,E100445,2026-02-23,5,1027,1,Voluntary,Personal Reasons,66.6,True
+529,E100006,2026-03-11,1,1005,6,Involuntary,Restructuring,121.7,False
+530,E100976,2026-03-28,3,1015,1,Voluntary,Career Change,26.6,False
+531,E100357,2026-03-23,4,1020,2,Voluntary,Better Opportunity,65.6,False
+532,E100744,2026-03-04,4,1021,4,Voluntary,Did Not Return from Leave,49.5,False
+533,E101068,2026-03-04,5,1024,5,Involuntary,Position Eliminated,17.8,False
+534,E100540,2026-03-26,8,1040,5,Involuntary,Performance,69.8,False
+535,E100228,2026-04-25,3,1016,5,Involuntary,Restructuring,150.1,False
+536,E100248,2026-04-03,3,1016,2,Voluntary,Retirement,82.3,True
+537,E100670,2026-04-28,3,1016,1,Voluntary,Better Opportunity,58.5,False
+538,E100687,2026-04-17,3,1013,5,Voluntary,Return to Education,56.3,False
+539,E101149,2026-04-16,3,1016,3,Voluntary,Did Not Return from Leave,11.2,False
+540,E100605,2026-04-20,10,1051,4,Voluntary,Return to Education,74.3,False
+541,E100640,2026-04-24,10,1050,5,Voluntary,Did Not Return from Leave,80.7,False
+542,E100740,2026-05-14,3,1018,1,Involuntary,Restructuring,51.9,False
+543,E100992,2026-05-21,3,1015,1,Voluntary,Did Not Return from Leave,27.2,True
+544,E101250,2026-05-04,3,1014,2,Voluntary,Personal Reasons,2.3,False
+545,E101016,2026-05-18,4,1022,2,Voluntary,Relocation,23.7,False
+546,E100808,2026-05-27,5,1024,3,Voluntary,Relocation,45.4,False
+547,E101214,2026-05-16,5,1024,2,Voluntary,Career Change,5.8,True
+548,E100526,2026-05-14,7,1039,2,Involuntary,Performance,78.1,False
+549,E100551,2026-05-04,8,1043,5,Voluntary,Career Change,81.5,False
+550,E100830,2026-05-01,9,1046,4,Voluntary,Career Change,42.8,False
+551,E100087,2026-06-06,1,1000,1,Voluntary,Better Opportunity,71.2,True
+552,E100887,2026-06-05,2,1012,4,Voluntary,Relocation,37.2,True
+553,E101118,2026-06-10,3,1016,5,Voluntary,Better Opportunity,15.6,False
+554,E101261,2026-06-14,3,1014,6,Voluntary,Relocation,3.4,False
+555,E100439,2026-06-14,5,1026,4,Voluntary,Did Not Return from Leave,77.8,True
+556,E100680,2026-06-15,5,1026,5,Involuntary,Performance,58.8,False
+557,E100746,2026-06-12,5,1028,4,Voluntary,Did Not Return from Leave,53.0,False
+558,E100996,2026-06-26,5,1025,2,Voluntary,Compensation,28.0,True
+559,E101092,2026-06-21,5,1024,6,Involuntary,Position Eliminated,17.9,False
+560,E100946,2026-06-18,7,1034,4,Voluntary,Compensation,32.9,True
+561,E101215,2026-06-09,8,1040,5,Voluntary,Retirement,6.5,True
+562,E100653,2026-07-09,1,1003,3,Voluntary,Relocation,63.1,True
+563,E100190,2026-07-01,3,1018,5,Voluntary,Better Opportunity,121.4,True
+564,E100286,2026-07-13,3,1016,1,Voluntary,Return to Education,91.4,False
+565,E100321,2026-07-20,4,1023,4,Voluntary,Did Not Return from Leave,75.1,False
+566,E100396,2026-07-27,5,1024,1,Voluntary,Retirement,101.8,True
+567,E100561,2026-07-09,9,1046,3,Voluntary,Did Not Return from Leave,76.5,False
+568,E101085,2026-07-25,10,1049,2,Voluntary,Career Change,20.6,False
+569,E100755,2026-08-08,1,1007,1,Voluntary,Did Not Return from Leave,54.0,False
+570,E101188,2026-08-01,3,1016,1,Voluntary,Return to Education,10.9,False
+571,E101202,2026-08-12,3,1014,4,Voluntary,Did Not Return from Leave,10.3,False
+572,E100319,2026-08-12,4,1021,1,Voluntary,Did Not Return from Leave,94.0,False
+573,E100402,2026-08-03,5,1027,4,Involuntary,Restructuring,93.4,False
+574,E100495,2026-08-11,6,1029,3,Voluntary,Career Change,91.7,False
+575,E100836,2026-08-19,10,1050,2,Voluntary,Did Not Return from Leave,44.7,True

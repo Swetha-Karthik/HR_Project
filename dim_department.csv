@@ -1,0 +1,11 @@
+DepartmentKey,DepartmentName,Division,CostCenter
+1,Engineering,Technology,CC-100
+2,Product Management,Technology,CC-110
+3,Sales,Revenue,CC-200
+4,Marketing,Revenue,CC-210
+5,Customer Support,Revenue,CC-220
+6,Human Resources,G&A,CC-300
+7,Finance,G&A,CC-310
+8,Legal,G&A,CC-320
+9,IT,Operations,CC-400
+10,Operations,Operations,CC-410
